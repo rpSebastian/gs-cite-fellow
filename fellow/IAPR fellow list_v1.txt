@@ -1,0 +1,911 @@
+Keiichi Abe (Japan) - 1998
+For contributions to structural pattern recognition and for service to IAPR
+
+Sergey V. Ablameyko (Republic of Belarus) - 1998
+For contributions to document image analysis and for service to IAPR
+
+Jake K. Aggarwal (USA) - 1996
+For contributions to computer vision and outstanding leadership of IAPR
+
+Narendra Ahuja (USA) - 1994
+For contributions to computer vision, including texture analysis, dot pattern clustering, and image segmentation
+
+Mohammad Showkat-Ul Alam - 2016
+For contributions to the advancement and development of architectures, algorithms, and performance metrics for optical pattern recognition and high resolution image reconstruction
+
+Carlo Arcelli (Italy) - 1996
+For contributions to digital geometry and mathematical morphology in image analysis
+
+b
+back to top
+
+Eric Backer (The Netherlands) - 1994
+For contributions to fuzzy clustering and service to the IAPR
+
+Xiang Bai (China) - 2020
+For contributions to shape representation, contextual visual similarity, and camera-based document analysis 
+
+Henry S. Baird (USA) - 1996
+For contributions to document analysis and for service to IAPR
+
+Sanghamitra Bandyopadhyay (India) - 2020
+For contributions to machine learning, computer vision, and bioinformatics 
+
+Eduardo Jose Bayro-Corrochano - 2006
+For contributions to geometric computing for perception action systems.
+
+Bir Bhanu (USA) - 2000
+For contributions to pattern recognition and computer vision
+
+Prabir Bhattacharya (USA) - 2002
+For contributions to image understanding and processing.
+
+Josef Bigun (Sweden) - 2000
+For contributions to image understanding and for service to IAPR
+
+Ruud M. Bolle (USA) - 1998
+For contributions to industrial computer vision and for service to IAPR
+
+Gunilla Borgefors (Sweden) - 1998
+For contributions to digital geometry and for outstanding service to IAPR
+
+Richard Bowden - 2016
+For contributions to computer vision in the fields of sign language, gesture and activity recognition and service to IAPR
+
+Kevin Wilson Bowyer - 2012
+For contributions to computer vision, pattern recognition and biometrics
+
+Kim L. Boyer (USA) - 2004
+For contributions to computer vision and for service to IAPR.
+
+Alberto Broggi - 2016
+For contributions in the field of computer vision-based advanced driver assistance systems and autonomous driving
+
+Michael Bronstein (Switzerland) - 2018
+For contributions to 3D data acquisition, processing, representation and analysis
+
+Joachim Buhmann (Switzerland) - 2020
+For contributions to pattern recognition and statistical machine learning theory
+
+Horst Bunke (Switzerland) - 1996
+For contributions to structural pattern recognition and for service to IAPR
+
+Hans Burkhardt (Germany) - 2002
+For contributions to the theory and application of invariants to pattern recognition and for service to IAPR.
+
+c
+back to top
+
+Terrence M. Caelli (Canada) - 2002
+For contributions to pattern recognition, image processing and machine learning.
+
+Virginio Cantoni (Italy) - 1994
+For contributions in architectures for computer vision and service to the IAPR
+
+Serge G. Castan (France) - 1994
+For contributions in computer vision, image understanding and parallel architecture for image processing and service to the IAPR
+
+Andrea Cavallaro (UK) - 2018
+For contributions to image processing and multi-sensor scene understanding
+
+Bhabatosh Chanda - 2008
+For contributions to the theory and practice of digital image processing and analysis.
+
+Bidyut Baran Chaudhuri (India) - 1998
+For contributions to character recognition and speech synthesis in Indian language
+
+Santanu Chaudhury - 2014
+For contributions to the field of image analysis and recognition
+
+Ramalingam Chellappa (USA) - 1996
+For contributions to theory and applications of Markov Random Fields and computer vision
+
+C. L. Philip Chen (Hong Kong) - 2018
+For contributions to machine learning algorithms and applications to image processing, security, recognition, and classification
+
+Chi Hau Chen (USA) - 1996
+For contributions to pattern recognition and its applications to geophysical and underwater acoustics problems
+
+Songcan Chen (China) - 2018
+For contributions to fuzzy clustering, feature extraction, and pattern classification
+
+Xilin Chen - 2016
+For contributions to image modeling and object recognition
+
+Zen Chen - 2006
+For contributions to computer vision and related applications, and for service to IAPR.
+
+Mohamed Cheriet - 2016
+For contributions to ancient manuscript processing, form construction, handwriting recognition, multidisciplinary application, and service to IAPR
+
+Roberto Cipolla (UK) - 2020
+For contributions to geometric models in computer vision and scene understanding
+
+Timothy Francis Cootes - 2010
+For contributions to the development of statistical models of shape and appearance.
+
+Luigi Cordella (Italy) - 1996
+For contributions to image analysis and for service to IAPR
+
+Rita Cucchiara - 2006
+For contributions to pattern recognition for video-surveillance.
+
+d
+back to top
+
+Per-Erik Danielsson (Sweden) - 1994
+For contributions to image processing and service to the IAPR
+
+Mohammed Daoudi - 2014
+For contributions to 3D shape analysis and retrieval and related applications
+
+John Gustav Daugman - 2012
+For contributions to computer vision, pattern recognition and biometrics
+
+Emlyn Roy Davies - 2008
+For contributions to the theory and practice of machine vision and its promotion through education, authorship and society activities.
+
+Larry S. Davis (USA) - 2002
+For contributions to computer vision and image understanding.
+
+Leila De Floriani (Italy) - 1998
+For contributions to geometric modeling and algorithm design for computer vision applications
+
+Alberto Del Bimbo (Italy) - 2000
+For contributions to image database management and forservice to IAPR
+
+Andreas Dengel (Germany) - 2004
+For contributions to document understanding and for service to IAPR.
+
+Pierre A. Devijver (France) - 1994
+For contributions in pattern recognition and image processing and outstanding leadership in the IAPR
+
+Vito Di Ges�� (Italy) - 1994
+For contributions to fusion methodologies, architectures for machine vision, and segmentation techniques and service to the IAPR
+
+Sven J. Dickinson (Canada) - 2018
+For contributions to shape perception, object recognition, perceptual organization, and graph-based methods in computer vision
+
+Xiaoqing Ding - 2006
+For contributions to OCR, face recognition, biometric technology and document image analysis.
+
+David Doermann - 2014
+For contributions to the field of document image analysis and in recognition of service to the IAPR
+
+Dov Dori (Israel) - 2000
+For contributions to document analysis recognition
+
+Michael J. B. Duff (UK) - 1994
+For contributions to architectures for parallel processing, and outstanding leadership in the IAPR
+
+Jean-Luc Dugelay (France) - 2018
+For contributions to face recognition and soft biometrics
+
+Robert P.W. Duin (The Netherlands) - 2002
+For contributions to statistical pattern recognition and for service to IAPR.
+
+Charles R. Dyer (USA) - 2002
+For contributions to computer vision and image processing.
+
+e
+back to top
+
+Masakazu Ejiri (Japan) - 1996
+For contributions to the development of machine vision technology and for outstanding service to IAPR
+
+Jan-Olof Eklundh (Sweden) - 2002
+For contributions to computer vision and for service to IAPR.
+
+f
+back to top
+
+Michael C. Fairhurst (UK) - 2004
+For contributions to pattern recognition.
+
+Aly A. Farag - 2016
+For contributions to object modeling and biomedical applications
+
+Marco Ferretti (Italy) - 2000
+For contributions to parallel architectures for image processingand for service to IAPR
+
+M��rio A. T. Figueiredo - 2008
+For contributions to unsupervised and supervised learning, image analysis, and wavelet-based image restoration.
+
+Robert B. Fisher - 2008
+For contributions to 3D computer vision and the development of online resources important to the research community.
+
+Andrew William Fitzgibbon - 2012
+For contributions to 3D computer vision research and its applications
+
+Patrick J. Flynn - 2006
+For contributions to research in three-dimensional object recognition systems and biometrics.
+
+Gian Luca Foresti - 2010
+For contributions to image processing and pattern recognition in video surveillance systems
+
+Herbert Freeman (USA) - 1994
+For outstanding contributions in image analysis and map data processing and leadership in the IAPR
+
+Yun Fu - 2016
+For contributions to pattern recognition, data mining and visual intelligence
+
+Hiromichi Fujisawa (Japan) - 2000
+For contributions to document analysis and for service to IAPR
+
+g
+back to top
+
+Paolo Ettore Gamba (Italy) - 2020
+For contributions to data fusion and remote sensing
+
+Edzard S. Gelsema (The Netherlands) - 1994
+For contributions to pattern recognition and service to the IAPR
+
+Ashish Ghosh (India) - 2020
+For contributions to neural and deep learning, and to image and video analysis
+
+Giorgio Giacinto (Italy) - 2020
+For contributions to pattern recognition for computer security
+
+Dmitry B. Goldgof - 2010
+For contributions to Computer Vision Pattern Recognition and Biomedical Engineering
+
+Marco Gori - 2014
+For contributions to neural networks and machine learning models for pattern recognition
+
+Venu Govindaraju (USA) - 2004
+For contributions to advances in handwriting recognition.
+
+Igor B. Gurevich (Russian Federation) - 2004
+For contributions to mathematical theory of image analysis and recognition, and for service to IAPR.
+
+h
+back to top
+
+Michal Haindl (Czech Republic) - 2004
+For contributions to the theory and practice of model-based pattern recognition and for service to IAPR.
+
+Lawrence O'Higgins Hall - 2010
+For contributions to approximate knowledge integration into learning
+
+Edwin Hancock (UK) - 2000
+For contributions to structural and statistical pattern recognition, and to computer vision
+
+Robert M. Haralick (USA) - 1994
+For contributions to computer vision, image processing, and mathematical morphology and service to the IAPR
+
+Jean Paul Haton (France) - 1996
+For contributions to speech recognition
+
+Ran He (China) - 2020
+For contributions to biometrics, face recognition, and applications
+
+Xiaofei He - 2014
+For contributions to pattern recognition and manifold learning
+
+Janne T. Heikkil? (Finland) - 2018
+For contributions to 3D computer vision and image analysis
+
+Anders Lars-Gunnar Heyden - 2016
+For contributions to multiple view geometry and auto-calibration and for service to IAPR
+
+Adrian Hilton (UK) - 2020
+For contributions to the fields of 3D and 4D computer vision with applications in healthcare, design and entertainment
+
+Vaclav Hlavac (Czech Republic) - 2004
+For contributions to pattern analysis and image processing.
+
+Tin Kam Ho (USA) - 2004
+For contributions to multiple classifier systems, statistical pattern recognition, document image analysisand recognition, and for service to IAPR.
+
+David Crossland Hogg - 2012
+For contributions to learning in activity analysis and computer vision
+
+Jianying Hu - 2010
+For contributions to pattern recognition methodologies and applications and service to IAPR
+
+Gang Hua - 2016
+For contributions to visual computing and learning from unconstrained images and videos
+
+De-Shuang Huang - 2014
+For contributions to neural networks and biological data processing
+
+Thomas S. Huang (USA) - 1994
+For contributions to computer vision and image processing, including motion analysis and image compression and service to the IAPR
+
+Jonathan J. Hull (USA) - 2000
+For contributions to document image analysis and for service to IAPR
+
+i
+back to top
+
+Katsushi Ikeuchi (Japan) - 2020
+For fundamental contributions to computer vision applied to robotics and man-machine interaction
+
+John Illingworth - 2010
+For contributions to image processing and computer vision
+
+Atsushi Imiya - 2008
+For contributions to randomized model fitting approaches in pattern recognition and computer vision, and to discrete geometry.
+
+Sebastiano Impedovo (Italy) - 1998
+For contributions to handwriting recognition and document analysis, and for service to IAPR
+
+Seiji Inokuchi (Japan) - 2000
+For contributions to 3D computer vision and service to IAPR
+
+Horace S. Ip (Hong Kong) - 2004
+For contributions to theory and application of deformable model for image segmentation and pattern recognition, and for service to IAPR.
+
+j
+back to top
+
+Anil K. Jain (USA) - 1996
+For contributions to statistical pattern recognition and range data analysis and for service to IAPR
+
+Ramesh C. Jain (USA) - 2002
+For contributions to machine vision research.
+
+C. V. Jawahar - 2016
+For contributions to computer vision, pattern recognition, and document image understanding
+
+Qiang Ji - 2012
+For contributions to face image analysis and applications
+
+Tianzi Jiang (China) - 2020
+For contributions in pattern recognition toward the understanding of brain organization and dysfunctions using neuroimaging
+
+Xiaoyi Jiang - 2006
+For contributions to range image analysis and structural pattern recognition, and for service to IAPR.
+
+Ir Pieter P. Jonker (The Netherlands) - 1994
+For contributions to special purpose architectures and service to IAPR
+
+k
+back to top
+
+Mohamed S. Kamel - 2008
+For contributions to fundamental, applied and industrial problems in pattern recognition and neural networks.
+
+Laveen N. Kanal (USA) - 1994
+For outstanding contributions to Markov random field models, search strategies, hybrid linguistic-statistical models and reasoning in uncertain domains
+
+Kenichi Kanatani - 2016
+For contributions to 3D computer vision analysis and computation
+
+Rangasami L. Kashyap (USA) - 1994
+For outstanding contributions to pattern classification and computer vision
+
+Rangachar Kasturi (USA) - 1996
+For contributions to document analysis and for service to IAPR
+
+Masatsugu Kidode (Japan) - 1994
+For contributions to new architectures for pattern recognition and service to the IAPR
+
+Jin H. Kim (Korea) - 2000
+For contributions to handwritten oriental scripts recognition
+
+Fumitaka Kimura - 2010
+For contributions to handwriting recognition and its applications
+
+Josef Kittler (UK) - 1998
+For contributions to computer vision and pattern recognition, and for outstanding leadership in IAPR
+
+Walter G. Kropatsch (Austria) - 1994
+For contributions to image processing and remote sensing and service to the IAPR
+
+Adam Krzyzak (Canada) - 2020
+For contributions to statistical pattern recognition and machine learning, and for service to IAPR 
+
+Mineichi Kudo - 2008
+For contributions to pattern classification and feature extraction.
+
+Ajay Kumar - 2016
+For contributions to human identification using biometrics
+
+B.V.K. Vijaya Kumar - 2006
+For contributions to frequency domain pattern recognition methods.
+
+Ludmila Ilieva Kuncheva - 2012
+For contributions to multiple classifier systems
+
+Malay Kumar Kundu - 2010
+For outstanding contributions in the development of theory, techniques and applications of image processing using soft computing and related mathematical methods
+
+l
+back to top
+
+Seong-Whan Lee (Korea) - 1998
+For contributions to document understanding and for service to IAPR
+
+Ales Leonardis (Slovenia) - 2002
+For contributions to computer vision and for service to IAPR.
+
+Stefano Levialdi (Italy) - 1994
+For contributions to architectures for parallel image processing and and service to the IAPR
+
+Martin D. Levine (Canada) - 1994
+For contributions in computer vision and biomedical image processing and outstanding leadership in the IAPR
+
+Ching-Chung Li - 2006
+For contributions to biomedical pattern recognition and multiresolution image processing.
+
+Stan Z. Li (China) - 2020
+For outstanding contributions to face recognition research and applications
+
+Xuelong Li - 2010
+For contributions to pattern recognition and image analysis
+
+Zhouchen Lin - 2016
+For contributions to image processing, computer vision and machine learning
+
+Cheng-Lin Liu - 2012
+For contributions to character recognition and document analysis, and services to the IAPR
+
+Derong Liu - 2016
+For contributions to neural networks and associative memories
+
+Wei Liu (China) - 2020
+For contributions to machine learning, computer vision, and remote sensing 
+
+Wenyin Liu - 2010
+For contributions to graphics recognition, performance evaluation, document analysis, approaches to anti-phishing, and services to IAPR
+
+Xiaoming Liu (USA) - 2020
+For contributions to face and video analysis
+
+Brian C. Lovell - 2008
+For contributions to video and medical image analysis and service to the IAPR.
+
+Jiwen Lu (China) - 2020
+For contributions to human action recognition and applications
+
+Jiebo Luo - 2010
+For contributions to contextual inference in semantic understanding of images and video
+
+m
+back to top
+
+Gerd Maderlechner (Germany) - 1994
+For contributions to pattern recognition, interpretation technologies and their applications and service to the IAPR
+
+Dwijesh Kr. Dutta Majumder (India) - 1994
+For contributions to pattern recognition, image processing, computer vision and artificial intelligence and service to the IAPR
+
+Davide Maltoni - 2010
+For contributions to Biometrics and Fingerprint Recognition
+
+Takashi Matsuyama (Japan) - 1996
+For contributions to image understanding and for service to IAPR
+
+Ujjwal Maulik (India) - 2018
+For contributions to pattern recognition and machine learning, with applications to image analysis and computational biology
+
+Gerard G. Medioni (USA) - 2002
+For contributions to pattern recognition and computer vision.
+
+Tao Mei - 2016
+For contributions to large-scale video analysis, understanding, and applications
+
+Nasir Memon (USA) - 2020
+For contributions to machine learning, biometrics, multimedia forensics, cryptography, and steganography 
+
+Majid Mirmehdi - 2010
+For contributions to Image Understanding and Computer Vision and services to IAPR
+
+Sushmita Mitra - 2016
+For contributions to neuro-fuzzy and hybrid approaches to pattern recognition and machine intelligence, with applications to bioinformatics and medical imaging
+
+Vittorio Murino - 2006
+For contributions to the design of probabilistic (graphical) methods for pattern recognition.
+
+Fionn Murtagh - 2008
+For contributions to clustering and analysis of massive and high dimensional data, with applications to astronomy.
+
+Piero Mussio (Italy) - 1998
+For contributions to image description and interpretation, and for service to IAPR
+
+n
+back to top
+
+Makoto Nagao (Japan) - 1994
+For contributions to image analysis and recognition and service to the IAPR
+
+Hans-Hellmut Nagel (Germany) - 1998
+For contributions to image sequence analysis
+
+George Nagy (USA) - 1998
+For contributions to document image analysis and for service to IAPR
+
+Masaki Nakagawa - 2008
+For contributions to handwriting recognition and its applications.
+
+Yasuaki Nakano (Japan) - 2000
+For contributions to recognition of handwritten characters, document analysis and for service to IAPR
+
+Heinrich Niemann (Germany) - 2002
+For contributions to pattern recognition with applications to speech processing and image understanding, and for service to IAPR.
+
+Hirobumi Nishida (Japan) - 2000
+For contributions to structural pattern recognition and for service to IAPR
+
+Mark Nixon - 2008
+For contributions to biometrics and computer vision.
+
+o
+back to top
+
+Yuichi Ohta (Japan) - 2004
+For contributions to computer vision and vision-based approach to image media, and for service to IAPR.
+
+Erkki Oja (Finland) - 1994
+For contributions to pattern recognition and image processing and and service to the IAPR
+
+B. John Oommen - 2006
+For contributions to fundamental and applied problems in syntactic and statistical pattern recognition.
+
+Javier Ortega-Garcia (Spain) - 2018
+For contributions to biometric recognition, especially in behavioral traits including speech and handwritten and human-device interactions
+
+Shinji Ozawa (Japan) - 2000
+For contributions to motion analysis and for service to IAPR
+
+Lawrence O��Gorman (USA) - 1996
+For contributions to document analysis
+
+p
+back to top
+
+Sankar K. Pal (India) - 2002
+For contributions to pattern recognition and image processing using soft computing.
+
+Umapada Pal - 2014
+For contributions to Indian multiscript document processing and handwriting recognition and for service to the IAPR
+
+Sharathchandra Pankanti - 2014
+For contributions to the application of computer vision and pattern recognition technologies to video analytics, public safety and security
+
+Maja Pantic - 2016
+For contributions to affective and behavioural computing
+
+Jussi P.S. Parkkinen (Finland) - 2002
+For contributions to color and multispectral image processing, and for service to IAPR.
+
+Theo Pavlidis (USA) - 1994
+For contributions to computer graphics and image processing and service to the IAPR
+
+Shmuel Peleg (Israel) - 1994
+For contributions to image analysis and computer vision and service to the IAPR
+
+Marcello Pelillo - 2008
+For contributions to graph-theoretic and optimization-based approaches in pattern recognition and computer vision.
+
+Petra Perner - 2006
+For contributions to image interpretation by developing methods for case-based reasoning, machine learning and data mining, and for service to IAPR.
+
+Maria Petrou (UK) - 2000
+For contributions to image processing and for service to IAPR
+
+P. Jonathon Phillips - 2008
+For contributions to face recognition and evaluation methodologies.
+
+Matti K. Pietikainen (Finland) - 1994
+For contributions to machine vision and its applications in industry and service to the IAPR
+
+Re��jean Plamondon (Canada) - 1994
+For contributions to handwriting and document recognition and service to the IAPR
+
+Salil Prabhakar - 2012
+For contributions to biometrics technology
+
+Andrea Prati - 2014
+For contributions to low- and high-level algorithms for video surveillance
+
+Pavel Pudil (Czech Republic) - 2000
+For contributions to statistical pattern recognition and for service to IAPR
+
+r
+back to top
+
+Petia Radeva - 2016
+For contributions to computer vision, machine learning, egocentric vision, life-logging, and medical imaging
+
+Nalini K. Ratha - 2008
+For contributions to biometric authentication.
+
+Fabio Roli (Italy) - 2004
+For contributions to pattern recognition and its applications and multiple classifier systems.
+
+Azriel Rosenfeld (USA) - 1994
+For outstanding contributions to pattern recognition and image processing and leadership in the IAPR
+
+Paul L. Rosin (UK) - 2018
+For contributions to image processing and computer vision
+
+Arun A. Ross (USA) - 2018
+For contributions that significantly advance biometric technologies; extend considerably its infrastructure; and enable its continuing scientific advances
+
+Amit K Roy-Chowdhury - 2016
+For contributions to collaborative sensing and distributed processing in camera networks with applications in tracking, re-identification, and activity recognition
+
+Yong Rui - 2012
+For contributions to visual pattern analysis, recognition and retrieval
+
+Jose Ruiz-Shulcloper - 2012
+For contributions to pattern recognition and data mining, and services to the IAPR
+
+s
+back to top
+
+Punam Kumar Saha - 2016
+For contributions to digital topology and geometry and their application
+
+Toshiyuki Sakai (Japan) - 1994
+For contributions to pattern recognition and outstanding leadership in the IAPR
+
+Katsuhiko Sakaue - 2006
+For contributions to computer vision and its applications.
+
+Hiroshi Sako (Japan) - 2004
+For contributions to the development and application of machine vision technology for factory and office automation.
+
+H. Samet (USA) - 1996
+For contributions to hierarchical data structures for image analysis and representation
+
+Alberto Sanfeliu (Spain) - 1994
+For contributions to syntactic and structural pattern recognition and service to the IAPR
+
+Gabriella Sanniti di Baja (Italy) - 2000
+For exceptional service to IAPR and for contributions to image analysis
+
+Sudeep Sarkar - 2008
+For contributions to computer vision, particularly perceptual organization, segmentation and grouping, and to the evaluation of vision algorithms.
+
+Shigeru Sasaki - 2010
+For contributions to image processing and its applications in industry
+
+Raimondo Schettini - 2010
+For contributions to pattern recognition research and color image analysis
+
+Bernt Schiele (Germany) - 2018
+For contributions to large-scale object recognition, human detection and pose estimation
+
+Jurgen Schurmann (Germany) - 1998
+For contributions to character recognition and polynomial classifiers, and for the service to IAPR
+
+Stan Sclaroff - 2016
+For contributions in tracking, human gesture analysis, shape recognition, and video databases
+
+Nicu Sebe - 2012
+For contributions to human behaviour understanding and multimedia
+
+Mubarak Shah - 2006
+For contributions to motion-based recognition and shape from shading in computer vision.
+
+Ling Shao (UK) - 2018
+For contributions to human action recognition and video understanding
+
+Linda G. Shapiro (USA) - 2000
+For contributions to computer vision and structural pattern recognition
+
+Dinggang Shen (USA) - 2018
+For contributions to biomedical applications of pattern recognition and medical image analysis
+
+Yoshiaki Shirai (Japan) - 1998
+For contributions to three-dimensional object recognition and for service to IAPR
+
+Jean-Claude Simon (France) - 1994
+For contributions in pattern recognition and outstanding leadership in the IAPR
+
+Richa Singh (India) - 2018
+For contributions to face recognition and pattern classification
+
+Jack Sklansky (USA) - 1994
+For contributions to pattern recognition, machine vision and medical imaging and service to the IAPR
+
+Arnold W. M. Smeulders (The Netherlands) - 2000
+For contributions to image analysis and content-based image database retrieval
+
+Franc Solina (Slovenia) - 2002
+For contributions to interpretation of range images and for service to IAPR.
+
+A. Lawrence Spitz (New Zealand) - 2004
+For contributions to document recognition and for service to IAPR.
+
+Sargur N. Srihari (USA) - 1996
+For contributions to character recognition and for service to IAPR
+
+Anuj Srivastava - 2014
+For contributions to statistical techniques on nonlinear manifolds for applications in pattern recognition, and to shape analysis of curves and surfaces
+
+David G. Stork - 2008
+For contributions to pattern recognition education, machine learning, speech recognition, and the application of computer vision to the study of art.
+
+Ching Y. Suen (Canada) - 1994
+For contributions to optical character recognition and document understanding and service to the IAPR
+
+Zhenan Sun - 2016
+For contributions to automatic iris recognition and applications
+
+Tamas Sziranyi - 2008
+For contributions to stochastic models and learning methods for video event analysis, and to energy optimization-based image and video segmentation.
+
+t
+back to top
+
+Johji Tajima (Japan) - 2002
+For contributions to color image processing and 3D vision.
+
+Mikio Takagi (Japan) - 1994
+For contributions to image processing and pattern recognition and service to the IAPR
+
+Chew Lim Tan - 2012
+For contributions to document analysis, and services to the IAPR
+
+Tieniu Tan - 2006
+For contributions to computer vision and pattern recognition.
+
+Yuan Y. Tang (Hong Kong) - 2004
+For contributions to wavelet analysis, pattern recognition and document analysis.
+
+Steven L. Tanimoto (USA) - 2000
+For contributions to image processing
+
+Dacheng Tao - 2012
+For contributions to pattern recognition and image understanding
+
+Torfinn Taxt (Norway) - 2000
+For contributions to multispectral image analysis
+
+Christopher J. Taylor (UK) - 2004
+For contributions to the theory and practice of computer vision and medical image analysis, and for service to IAPR.
+
+Jie Tian - 2014
+For contributions to fingerprint recognition and medical imaging
+
+Yingli Tian (USA) - 2020
+For contributions to automatic facial expression analysis and human activity understanding 
+
+Massimo Tistarelli - 2008
+For contributions to computer vision, and biometrics research and education.
+
+Jun-ichiro Toriwaki (Japan) - 1998
+For contributions to medical image analysis and for service to IAPR
+
+Philip Hilaire Torr - 2012
+For contributions to robust computer vision
+
+Mohan Manubhai Trivedi - 2010
+For contributions to vision systems for situational awareness, intelligent robotics and human-centered vehicle safety systems
+
+Emanuele Trucco - 2016
+For contributions to computer vision and applications
+
+Saburo Tsuji (Japan) - 1996
+For contributions to computer vision and for outstanding service to IAPR
+
+Matthew Turk - 2014
+For contributions to computer vision and vision based interaction
+
+v
+back to top
+
+Ventzeslav Valev (Bulgaria) - 1998
+For contributions to pattern recognition theory and for service to IAPR
+
+Svetha Venkatesh (Australia) - 2004
+For contributions to the formulation and extraction of semantics in multimedia data.
+
+Mario Vento (Italy) - 2004
+For contributions to graph based learning and matching techniques, and for service to IAPR.
+
+Gianni L. Vernazza (Italy) - 2002
+For contributions to image processing and pattern recognition.
+
+Ren�� Vidal - 2016
+For contributions to computer vision and pattern recognition
+
+Enrique Vidal-Ruis (Spain) - 1996
+For contributions to syntactic pattern recognition
+
+Max A. Viergever (The Netherlands) - 2002
+For contributions to biomedical applications of computer vision and pattern recognition, and for service to IAPR.
+
+Juan Jose Villanueva (Spain) - 2004
+For contributions to research and the transfer of innovation and technology in computer vision.
+
+w
+back to top
+
+Jingdong Wang (China) - 2018
+For contributions to multimedia search, similarity search, attention analysis, and video surveillance
+
+Jun Wang - 2012
+For contributions to neurodynamics and its applications
+
+Liang Wang - 2014
+For contributions to video understanding and pattern recognition
+
+Meng Wang (China) - 2020
+For contributions to multimedia content analysis and recognition
+
+Patrick S. P. Wang (USA) - 1994
+For contributions to pattern recognition, optical character recognition and service to the IAPR
+
+Yunhong Wang (China) - 2018
+For contributions to biometrics, computer vision, and pattern recognition
+
+Harry Wechsler (USA) - 1998
+For contributions to computer vision and pattern recognition, and for service to IAPR
+
+Richard Charles Wilson - 2010
+For contributions to structural pattern recognition
+
+Ying Wu (USA) - 2020
+For contributions to visual motion and pattern analysis in computer vision 
+
+x
+back to top
+
+Changsheng Xu - 2014
+For contributions to multimedia content analysis
+
+Dong Xu - 2016
+For contributions to machine learning for visual recognition and domain adaption
+
+Lei Xu (Hong Kong) - 2002
+For contributions to studies on Randomized Hough Transform and combination of multiple classifiers.
+
+y
+back to top
+
+Kazuhiko Yamamoto (Japan) - 1996
+For contributions to character recognition and for service to IAPR
+
+Hong Yan (Hong Kong) - 2000
+For contributions to document image analysis
+
+Shuicheng Yan - 2014
+For contributions to computer vision and pattern recognition
+
+Jian Yang - 2016
+For contributions to 2D image representation and discriminant analysis
+
+Qiang Yang - 2012
+For contributions to data mining and transfer learning
+
+Naokazu Yokoya - 2016
+For contributions to image processing, computer vision, and mixed and augmented reality
+
+Ian T. Young (The Netherlands) - 2000
+For contributions to image analysis and pattern recognition
+
+Junsong Yuan (Singapore) - 2018
+For contributions to human action and gesture analysis
+
+Pong Chi Yuen (Hong Kong) - 2018
+For contributions to subspace learning and information fusion for visual recognition
+
+z
+back to top
+
+Josiane Zerubia (France) - 2020
+For contributions to stochastic image modeling for classification, segmentation, and object detection in remote sensing 
+
+Daoqiang Zhang (China) - 2020
+For contributions to fuzzy clustering, dimensionality reduction, and medical image analysis 
+
+David Zhang - 2006
+For contributions to biometrics technologies and systems.
+
+Huaguang Zhang (China) - 2018
+For contributions to stability analysis of recurrent time-delay neural networks and identification of weak signals
+
+Guoying Zhao (Finland) - 2020
+For contributions to video analysis and affective computing
+
+Jie Zhou - 2016
+For contributions to biometrics, computer vision, and image processing
+
+Zhi-Hua Zhou - 2012
+For contributions to machine learning, data mining, and pattern recognition

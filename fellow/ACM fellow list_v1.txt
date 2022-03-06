@@ -1,0 +1,1387 @@
+Adleman, Leonard M.	ACM Fellows	2021	North America	Digital Library
+Bader, David A	ACM Fellows	2021	North America	Digital Library
+Balakrishnan, Meenakshi	ACM Fellows	2021	Asia	
+Braverman, Mark	ACM Fellows	2021	North America	Digital Library
+Camp, Linda Jean	ACM Fellows	2021	North America	Digital Library
+Chang, Edward Y	ACM Fellows	2021	North America	Digital Library
+Choudhury, Tanzeem	ACM Fellows	2021	North America	Digital Library
+Cohen-Or, Daniel	ACM Fellows	2021	Europe	Digital Library
+Das, Gautam	ACM Fellows	2021	North America	Digital Library
+Dey, Anind	ACM Fellows	2021	North America	Digital Library
+Eeckhout, Lieven	ACM Fellows	2021	Europe	Digital Library
+Farach-Colton, Martin	ACM Fellows	2021	North America	Digital Library
+Fiat, Amos	ACM Fellows	2021	Europe	Digital Library
+Franke, Hubertus	ACM Fellows	2021	North America	Digital Library
+Friedman, Batya	ACM Fellows	2021	North America	Digital Library
+Gabrilovich, Evgeniy	ACM Fellows	2021	North America	Digital Library
+Gal-Ezer, Judith	ACM Fellows	2021	Europe	Digital Library
+Ganesan, Deepak	ACM Fellows	2021	North America	Digital Library
+Gupta, Anupam	ACM Fellows	2021	North America	Digital Library
+Haas, Zygmunt J.	ACM Fellows	2021	North America	Digital Library
+Hazan, Elad	ACM Fellows	2021	North America	Digital Library
+Hu, Xiaobo Sharon	ACM Fellows	2021	North America	Digital Library
+Inverardi, Paola	ACM Fellows	2021	Europe	Digital Library
+Ives, Zachary	ACM Fellows	2021	North America	Digital Library
+Jajodia, Sushil	ACM Fellows	2021	North America	Digital Library
+Jhala, Ranjit	ACM Fellows	2021	North America	Digital Library
+Kaeli, David R	ACM Fellows	2021	North America	Digital Library
+Katz, Jonathan	ACM Fellows	2021	North America	
+Kleinberg, Robert	ACM Fellows	2021	North America	Digital Library
+Lengauer, Thomas	ACM Fellows	2021	Europe	Digital Library
+Li, Feifei	ACM Fellows	2021	Asia	Digital Library
+Li, Hai	ACM Fellows	2021	North America	Digital Library
+Li, Ninghui	ACM Fellows	2021	North America	Digital Library
+Liu, Tie-Yan	ACM Fellows	2021	Asia	Digital Library
+Marschner, Steve	ACM Fellows	2021	North America	Digital Library
+Mason, Matthew T	ACM Fellows	2021	North America	Digital Library
+Miller, Dale A	ACM Fellows	2021	Europe	Digital Library
+Mossel, Elchanan	ACM Fellows	2021	North America	Digital Library
+Nebel, Bernhard	ACM Fellows	2021	Europe	Digital Library
+Nikolaj, Bjorner	ACM Fellows	2021	North America	Digital Library
+Ostrovsky, Rafail	ACM Fellows	2021	North America	Digital Library
+Ouaknine, Joel	ACM Fellows	2021	Europe	Digital Library
+Pan, David Z.	ACM Fellows	2021	North America	Digital Library
+Picard, Rosalind Wright	ACM Fellows	2021	North America	Digital Library
+Qadeer, Shaz	ACM Fellows	2021	North America	
+Ricart, Glenn	ACM Fellows	2021	North America	Digital Library
+Rosing, Tajana	ACM Fellows	2021	North America	Digital Library
+Ross, Robert B	ACM Fellows	2021	North America	Digital Library
+Rusinkiewicz, Szymon	ACM Fellows	2021	North America	Digital Library
+Samarati, Pierangela	ACM Fellows	2021	Europe	Digital Library
+Sarawagi, Sunita	ACM Fellows	2021	Asia	Digital Library
+Schiele, Bernt	ACM Fellows	2021	Europe	Digital Library
+Shah, Mubarak Ali	ACM Fellows	2021	North America	Digital Library
+Sheffer, Alla	ACM Fellows	2021	North America	Digital Library
+Singh, Munindar P.	ACM Fellows	2021	North America	Digital Library
+Sistla, Aravinda P	ACM Fellows	2021	North America	Digital Library
+Smolka, Scott	ACM Fellows	2021	North America	Digital Library
+Tang, Jie	ACM Fellows	2021	Asia	Digital Library
+Tehranipoor, Mark	ACM Fellows	2021	North America	Digital Library
+Trevisan, Luca	ACM Fellows	2021	Europe	Digital Library
+Wang, Wenping	ACM Fellows	2021	Asia	Digital Library
+Waters, Brent	ACM Fellows	2021	North America	Digital Library
+White, Ryen W	ACM Fellows	2021	North America	Digital Library
+Wobbrock, Jacob Otto	ACM Fellows	2021	North America	Digital Library
+Xie, Tao	ACM Fellows	2021	Asia	Digital Library
+Yang, Ming-Hsuan	ACM Fellows	2021	North America	Digital Library
+Zaki, Mohammed	ACM Fellows	2021	North America	Digital Library
+Zhao, Ben Y.	ACM Fellows	2021	North America	Digital Library
+Zhong, Lin	ACM Fellows	2021	North America	Digital Library
+Zilberstein, Shlomo	ACM Fellows	2021	North America	Digital Library
+Zimmermann, Thomas	ACM Fellows	2021	North America	Digital Library
+Abadi, Daniel J	ACM Fellows	2020	North America	Digital Library
+Allan, James	ACM Fellows	2020	North America	Digital Library
+Aluru, Srinivas	ACM Fellows	2020	North America	Digital Library
+Arpaci-Dusseau, Andrea	ACM Fellows	2020	North America	Digital Library
+Arpaci-Dusseau, Remzi	ACM Fellows	2020	North America	Digital Library
+Banerjee, Suman	ACM Fellows	2020	North America	Digital Library
+Blum, Manuel	ACM Fellows	2020	North America	Digital Library
+Briand, Lionel	ACM Fellows	2020	Europe	Digital Library
+Brooks, David	ACM Fellows	2020	North America	Digital Library
+Canetti, Ran	ACM Fellows	2020	North America	Digital Library
+Canny, John	ACM Fellows	2020	North America	Digital Library
+Chandrakasan, Anantha	ACM Fellows	2020	North America	Digital Library
+Chang, Yao-Wen	ACM Fellows	2020	Asia	Digital Library
+Charikar, Moses	ACM Fellows	2020	North America	Digital Library
+Chen, Yiran	ACM Fellows	2020	North America	Digital Library
+Cormode, Graham R.	ACM Fellows	2020	Europe	Digital Library
+Cousot, Patrick	ACM Fellows	2020	North America	Digital Library
+Desbrun, Mathieu	ACM Fellows	2020	Europe	Digital Library
+Diffie, Whitfield	ACM Fellows	2020	North America	Digital Library
+Dorr, Bonnie J	ACM Fellows	2020	North America	Digital Library
+Duffield, Nicholas	ACM Fellows	2020	North America	Digital Library
+Edelman, Alan	ACM Fellows	2020	North America	Digital Library
+Eiter, Thomas	ACM Fellows	2020	Europe	Digital Library
+Flanagan, Cormac	ACM Fellows	2020	North America	Digital Library
+Forlizzi, Jodi	ACM Fellows	2020	North America	Digital Library
+Fox, Dieter	ACM Fellows	2020	North America	Digital Library
+Ghemawat, Sanjay	ACM Fellows	2020	North America	Digital Library
+Gonzalez, Antonio	ACM Fellows	2020	Europe	Digital Library
+Gordon, Andrew D.	ACM Fellows	2020	Europe	Digital Library
+Gribble, Steven	ACM Fellows	2020	North America	Digital Library
+Hambrusch, Susanne E	ACM Fellows	2020	North America	Digital Library
+Hellman, Martin	ACM Fellows	2020	North America	Digital Library
+Higham, Nicholas	ACM Fellows	2020	Europe	Digital Library
+Hoare, C. Antony R.	ACM Fellows	2020	Europe	Digital Library
+Hoos, Holger H.	ACM Fellows	2020	Europe	Digital Library
+Ilyas, Ihab F.	ACM Fellows	2020	North America	Digital Library
+John, Lizy Kurian	ACM Fellows	2020	North America	Digital Library
+Katoen, Joost-Pieter	ACM Fellows	2020	Europe	Digital Library
+Kim, Nam Sung	ACM Fellows	2020	North America	Digital Library
+Koenig, Sven	ACM Fellows	2020	North America	Digital Library
+Kotz, David	ACM Fellows	2020	North America	Digital Library
+Krishnamurthy, Arvind	ACM Fellows	2020	North America	Digital Library
+Kumar, Ravi	ACM Fellows	2020	North America	Digital Library
+Levine, Brian	ACM Fellows	2020	North America	Digital Library
+Leyton-Brown, Kevin	ACM Fellows	2020	North America	Digital Library
+LI, Xuelong	ACM Fellows	2020	Asia	Digital Library
+Low, Steven H.	ACM Fellows	2020	North America	Digital Library
+Lu, Chenyang	ACM Fellows	2020	North America	Digital Library
+Madden, Samuel	ACM Fellows	2020	North America	Digital Library
+Mahlke, Scott	ACM Fellows	2020	North America	Digital Library
+Maltz, David	ACM Fellows	2020	North America	Digital Library
+Markl, Volker	ACM Fellows	2020	Europe	Digital Library
+Mataric, Maja	ACM Fellows	2020	North America	Digital Library
+Menczer, Filippo	ACM Fellows	2020	North America	Digital Library
+Meseguer, Jose	ACM Fellows	2020	North America	Digital Library
+Morris, Meredith Ringel	ACM Fellows	2020	North America	Digital Library
+Nagappan, Nachiappan	ACM Fellows	2020	North America	Digital Library
+Nagpal, Radhika	ACM Fellows	2020	North America	Digital Library
+Naor, Moni	ACM Fellows	2020	Europe	Digital Library
+Narayanaswami, Chandra	ACM Fellows	2020	North America	Digital Library
+Noh, Sam H.	ACM Fellows	2020	Asia	Digital Library
+Panangaden, Prakash	ACM Fellows	2020	North America	Digital Library
+Panchanathan, Sethuraman	ACM Fellows	2020	North America	Digital Library
+Parashar, Manish	ACM Fellows	2020	North America	Digital Library
+Parhi, Keshab K.	ACM Fellows	2020	North America	Digital Library
+Park, Haesun	ACM Fellows	2020	North America	Digital Library
+Plotkin, Gordon	ACM Fellows	2020	North America	Digital Library
+Rabin, Michael O.	ACM Fellows	2020	North America	Digital Library
+Ren, Kui	ACM Fellows	2020	Asia	Digital Library
+Resnick, Paul	ACM Fellows	2020	North America	Digital Library
+Rosson, Mary Beth	ACM Fellows	2020	North America	Digital Library
+Salzberg, Steven	ACM Fellows	2020	North America	Digital Library
+Seshia, Sanjit Arunkumar	ACM Fellows	2020	North America	Digital Library
+Shamir, Adi	ACM Fellows	2020	Europe	Digital Library
+Shen, Heng Tao	ACM Fellows	2020	Asia	Digital Library
+Sheth, Amit	ACM Fellows	2020	North America	Digital Library
+Smith, Adam	ACM Fellows	2020	North America	Digital Library
+Sorkine-Hornung, Olga	ACM Fellows	2020	Europe	Digital Library
+Stevens, Rick	ACM Fellows	2020	North America	Digital Library
+Stone, Peter	ACM Fellows	2020	North America	Digital Library
+Tao, Yufei	ACM Fellows	2020	Asia	Digital Library
+Tassiulas, Leandros	ACM Fellows	2020	North America	Digital Library
+Thompson, Kenneth Lane	ACM Fellows	2020	North America	Digital Library
+Tomkins, Andrew	ACM Fellows	2020	North America	Digital Library
+Troyanskaya, Olga	ACM Fellows	2020	North America	Digital Library
+Turk, Matthew A	ACM Fellows	2020	North America	Digital Library
+Van Der Aalst, Wil	ACM Fellows	2020	Europe	Digital Library
+Walsh, Toby	ACM Fellows	2020	Pacific Rim	Digital Library
+Wang, Wei	ACM Fellows	2020	North America	Digital Library
+Williams, Laurie Ann	ACM Fellows	2020	North America	Digital Library
+Wu, Cathy	ACM Fellows	2020	North America	Digital Library
+Yan, Shuicheng	ACM Fellows	2020	Asia	Digital Library
+Yi, Wang	ACM Fellows	2020	Europe	Digital Library
+Zhou, Kun	ACM Fellows	2020	Asia	Digital Library
+Zyda, Michael J	ACM Fellows	2020	North America	Digital Library
+Aaronson, Scott J	ACM Fellows	2019	North America	Digital Library
+Abdelzaher, Tarek	ACM Fellows	2019	North America	
+Amarasinghe, Saman	ACM Fellows	2019	North America	Digital Library
+Bala, Kavita	ACM Fellows	2019	North America	Digital Library
+Balazinska, Magdalena	ACM Fellows	2019	North America	
+Beame, Paul	ACM Fellows	2019	North America	Digital Library
+Berger, Emery David	ACM Fellows	2019	North America	Digital Library
+Boisvert, Ronald F	ACM Fellows	2019	North America	Digital Library
+Cachin, Christian	ACM Fellows	2019	Europe	Digital Library
+Calder, Bradley G	ACM Fellows	2019	North America	
+Calvanese, Diego	ACM Fellows	2019	Europe	Digital Library
+Capkun, Srdjan	ACM Fellows	2019	Europe	
+Cardie, Claire	ACM Fellows	2019	North America	
+Chan, Timothy	ACM Fellows	2019	North America	
+chandy, kanianthra mani	ACM Fellows	2019	North America	
+Chen, Xilin	ACM Fellows	2019	Asia	
+Churchill, Elizabeth Frances	ACM Fellows	2019	North America	Digital Library
+Cohen, Philip R	ACM Fellows	2019	North America	Digital Library
+Conitzer, Vincent	ACM Fellows	2019	North America	Digital Library
+Contractor, Noshir	ACM Fellows	2019	North America	Digital Library
+Dwyer, Matthew B	ACM Fellows	2019	North America	Digital Library
+Ferrari, Elena	ACM Fellows	2019	Europe	Digital Library
+Freedman, Michael J.	ACM Fellows	2019	North America	Digital Library
+Frincke, Deborah	ACM Fellows	2019	North America	
+Getoor, Lise	ACM Fellows	2019	North America	
+Gini, Maria L	ACM Fellows	2019	North America	Digital Library
+Kambhampati, Subbarao	ACM Fellows	2019	North America	Digital Library
+Kolda, Tamara G	ACM Fellows	2019	North America	Digital Library
+Li, Xiangyang	ACM Fellows	2019	Asia	Digital Library
+Lu, Songwu	ACM Fellows	2019	North America	
+Mackay, Wendy Elizabeth	ACM Fellows	2019	Europe	Digital Library
+Marculescu, Diana	ACM Fellows	2019	North America	Digital Library
+McIlraith, Sheila	ACM Fellows	2019	North America	Digital Library
+Mihalcea, Rada	ACM Fellows	2019	North America	
+Murphy, Robin R	ACM Fellows	2019	North America	Digital Library
+Najork, Marc	ACM Fellows	2019	North America	Digital Library
+Nieh, Jason	ACM Fellows	2019	North America	Digital Library
+Pfister, Hanspeter	ACM Fellows	2019	North America	Digital Library
+Pinkston, Timothy	ACM Fellows	2019	North America	Digital Library
+Pop, Mihai	ACM Fellows	2019	North America	
+Reuter, Andreas	ACM Fellows	2019	Europe	
+Rosenschein, Jeffrey S	ACM Fellows	2019	Europe	
+Seshan, Srinivasan	ACM Fellows	2019	North America	Digital Library
+Shenoy, Prashant J	ACM Fellows	2019	North America	Digital Library
+Shor, Peter W	ACM Fellows	2019	North America	
+Singh, Mona	ACM Fellows	2019	North America	
+Sitaraman, Ramesh Kumar	ACM Fellows	2019	North America	Digital Library
+Song, Dawn	ACM Fellows	2019	North America	
+Stolfo, Salvatore J	ACM Fellows	2019	North America	Digital Library
+Tao, Dacheng	ACM Fellows	2019	Pacific Rim	
+Tennenholtz, Moshe	ACM Fellows	2019	Europe	
+Vigna, Giovanni	ACM Fellows	2019	North America	Digital Library
+Vishnoi, Nisheeth	ACM Fellows	2019	North America	
+Whitley, Darrell	ACM Fellows	2019	North America	Digital Library
+Xie, Yuan	ACM Fellows	2019	North America	Digital Library
+Youssef, Moustafa Amin	ACM Fellows	2019	Middle East	Digital Library
+Zaniolo, Carlo A	ACM Fellows	2019	North America	
+Zhou, Lidong	ACM Fellows	2019	North America	Digital Library
+Agha, Gul	ACM Fellows	2018	North America	Digital Library
+Asanovic, Krste	ACM Fellows	2018	North America	Digital Library
+Asokan, N	ACM Fellows	2018	North America	Digital Library
+Barham, Paul	ACM Fellows	2018	North America	Digital Library
+Bartlett, Peter L	ACM Fellows	2018	North America	Digital Library
+Basin, David	ACM Fellows	2018	Europe	
+Belding, Elizabeth	ACM Fellows	2018	North America	Digital Library
+Bodik, Rastislav	ACM Fellows	2018	North America	Digital Library
+Borner, Katy	ACM Fellows	2018	North America	Digital Library
+Bruckman, Amy S	ACM Fellows	2018	North America	Digital Library
+Camenisch, Jan	ACM Fellows	2018	Europe	Digital Library
+Darwiche, Adnan	ACM Fellows	2018	North America	Digital Library
+Dehon, Andre M	ACM Fellows	2018	North America	Digital Library
+Devanbu, Premkumar T	ACM Fellows	2018	North America	Digital Library
+Dey, Tamal K	ACM Fellows	2018	North America	Digital Library
+Dwarkadas, Sandhya	ACM Fellows	2018	North America	Digital Library
+Feiner, Steven	ACM Fellows	2018	North America	Digital Library
+Finin, Tim	ACM Fellows	2018	North America	Digital Library
+Funkhouser, Thomas	ACM Fellows	2018	North America	Digital Library
+Garofalakis, Minos	ACM Fellows	2018	Europe	Digital Library
+Gerla, Mario	ACM Fellows	2018	North America	Digital Library
+Gilbert, Juan E	ACM Fellows	2018	North America	Digital Library
+Hajiaghayi, Mohammad T.	ACM Fellows	2018	North America	Digital Library
+Halperin, Dan	ACM Fellows	2018	Europe	Digital Library
+He, Tian	ACM Fellows	2018	North America	Digital Library
+Heinzelman, Wendi Beth	ACM Fellows	2018	North America	Digital Library
+Hertzmann, Aaron	ACM Fellows	2018	North America	Digital Library
+Hodgins, Jessica K	ACM Fellows	2018	North America	Digital Library
+Hughes, John	ACM Fellows	2018	Europe	Digital Library
+H?stad, Johan	ACM Fellows	2018	Europe	Digital Library
+Isbell, Charles Lee	ACM Fellows	2018	North America	Digital Library
+Keeton, Kimberly	ACM Fellows	2018	North America	Digital Library
+Khanna, Sanjeev	ACM Fellows	2018	North America	Digital Library
+Lee, Lillian	ACM Fellows	2018	North America	Digital Library
+Leighton, Tom	ACM Fellows	2018	North America	Digital Library
+Li, Fei-Fei	ACM Fellows	2018	North America	Digital Library
+Littman, Michael	ACM Fellows	2018	North America	Digital Library
+Liu, Huan	ACM Fellows	2018	North America	Digital Library
+Luo, Jiebo	ACM Fellows	2018	North America	Digital Library
+Maggs, Bruce M	ACM Fellows	2018	North America	Digital Library
+Manjunath, Bangalore S	ACM Fellows	2018	North America	Digital Library
+Misra, Vishal	ACM Fellows	2018	North America	Digital Library
+Mueller, Frank	ACM Fellows	2018	North America	Digital Library
+Parkes, David	ACM Fellows	2018	North America	Digital Library
+Parulkar, Gurudatta	ACM Fellows	2018	North America	Digital Library
+Pitassi, Toniann	ACM Fellows	2018	North America	Digital Library
+Qiu, Lili	ACM Fellows	2018	North America	Digital Library
+Roughan, Matthew	ACM Fellows	2018	Pacific Rim	Digital Library
+Sahai, Amit	ACM Fellows	2018	North America	Digital Library
+Snoeren, Alex C.	ACM Fellows	2018	North America	Digital Library
+Tesauro, Gerald	ACM Fellows	2018	North America	Digital Library
+Thuraisingham, Bhavani	ACM Fellows	2018	North America	Digital Library
+Vadhan, Salil	ACM Fellows	2018	North America	Digital Library
+Voorhees, Ellen M	ACM Fellows	2018	North America	Digital Library
+Wigderson, Avi	ACM Fellows	2018	North America	Digital Library
+Wolman, Alec	ACM Fellows	2018	North America	Digital Library
+Birkedal, Lars	ACM Fellows	2017	Europe	Digital Library
+Bugnion, Edouard	ACM Fellows	2017	Europe	Digital Library
+Burnett, Margaret	ACM Fellows	2017	North America	Digital Library
+Chang, Shih Fu	ACM Fellows	2017	North America	Digital Library
+Cohen, Edith	ACM Fellows	2017	North America	Digital Library
+Comaniciu, Dorin	ACM Fellows	2017	North America	Digital Library
+Dray, Susan	ACM Fellows	2017	North America	Digital Library
+Fox, Edward Alan	ACM Fellows	2017	North America	Digital Library
+Fujimoto, Richard M	ACM Fellows	2017	North America	Digital Library
+Goldwasser, Shafi	ACM Fellows	2017	Europe	Digital Library
+Gomes, Carla	ACM Fellows	2017	North America	Digital Library
+Grohe, Martin	ACM Fellows	2017	Europe	Digital Library
+Gupta, Aarti	ACM Fellows	2017	North America	Digital Library
+Guruswami, Venkatesan	ACM Fellows	2017	North America	Digital Library
+Gusfield, Dan	ACM Fellows	2017	North America	Digital Library
+Hager, Gregory	ACM Fellows	2017	North America	Digital Library
+Hand, Steven Michael	ACM Fellows	2017	North America	Digital Library
+Harchol-Balter, Mor	ACM Fellows	2017	North America	Digital Library
+Kale, Laxmikant	ACM Fellows	2017	North America	Digital Library
+Kass, Michael	ACM Fellows	2017	North America	Digital Library
+Keromytis, Angelos Dennis	ACM Fellows	2017	North America	Digital Library
+Kesselman, Carl	ACM Fellows	2017	North America	Digital Library
+Knightly, Edward	ACM Fellows	2017	North America	Digital Library
+Knoblock, Craig	ACM Fellows	2017	North America	Digital Library
+Lee, Insup	ACM Fellows	2017	North America	Digital Library
+Lee, Wenke	ACM Fellows	2017	North America	Digital Library
+Li, Li Erran	ACM Fellows	2017	North America	Digital Library
+Loh, Gabriel H	ACM Fellows	2017	North America	Digital Library
+Lozano-Perez, Tomas	ACM Fellows	2017	North America	Digital Library
+Lynch, Clifford A	ACM Fellows	2017	North America	Digital Library
+Ma, Yi	ACM Fellows	2017	North America	Digital Library
+Mccallum, Andrew K.	ACM Fellows	2017	North America	Digital Library
+Micali, Silvio	ACM Fellows	2017	North America	Digital Library
+Moshovos, Andreas	ACM Fellows	2017	North America	Digital Library
+Murphy, Gail C	ACM Fellows	2017	North America	Digital Library
+Mutlu, Onur	ACM Fellows	2017	North America	Digital Library
+Oliver, Nuria	ACM Fellows	2017	Europe	Digital Library
+Prabhakar, Balaji	ACM Fellows	2017	North America	Digital Library
+Rabin, Tal	ACM Fellows	2017	North America	Digital Library
+Ramakrishnan, K. K.	ACM Fellows	2017	North America	Digital Library
+Ramamoorthi, Ravi	ACM Fellows	2017	North America	Digital Library
+Rogers, Yvonne	ACM Fellows	2017	Europe	Digital Library
+Rui, Yong	ACM Fellows	2017	Asia	Digital Library
+Schoelkopf, Bernhard	ACM Fellows	2017	Europe	Digital Library
+Seitz, Steve	ACM Fellows	2017	North America	Digital Library
+Sipser, Michael	ACM Fellows	2017	North America	Digital Library
+Sivasubramaniam, Anand	ACM Fellows	2017	North America	Digital Library
+Srivastava, Mani B.	ACM Fellows	2017	North America	Digital Library
+Vardy, Alexander	ACM Fellows	2017	North America	Digital Library
+Voelker, Geoffrey	ACM Fellows	2017	North America	
+Wong, Martin	ACM Fellows	2017	Asia	Digital Library
+Yang, Qiang	ACM Fellows	2017	Asia	Digital Library
+Zhai, Chengxiang	ACM Fellows	2017	North America	Digital Library
+Zhang, Aidong	ACM Fellows	2017	North America	Digital Library
+Alon, Noga	ACM Fellows	2016	Europe	Digital Library
+Barford, Paul	ACM Fellows	2016	North America	Digital Library
+Benini, Luca	ACM Fellows	2016	Europe	Digital Library
+Bianchini, Ricardo	ACM Fellows	2016	North America	Digital Library
+Blackburn, Stephen	ACM Fellows	2016	Pacific Rim	Digital Library
+Boneh, Dan	ACM Fellows	2016	North America	Digital Library
+Brodley, Carla	ACM Fellows	2016	North America	Digital Library
+Cassell, Justine	ACM Fellows	2016	North America	Digital Library
+Demaine, Erik	ACM Fellows	2016	North America	Digital Library
+Druin, Allison	ACM Fellows	2016	North America	Digital Library
+Durand, Fredo	ACM Fellows	2016	North America	Digital Library
+Feamster, Nick	ACM Fellows	2016	North America	Digital Library
+Flinn, Jason	ACM Fellows	2016	North America	Digital Library
+Freeman, William	ACM Fellows	2016	North America	Digital Library
+Gil, Yolanda	ACM Fellows	2016	North America	Digital Library
+Grossman, Robert L.	ACM Fellows	2016	North America	Digital Library
+Gupta, Rajesh	ACM Fellows	2016	North America	Digital Library
+Hendler, James	ACM Fellows	2016	North America	Digital Library
+Henzinger, Monika	ACM Fellows	2016	Europe	Digital Library
+Hey, Anthony	ACM Fellows	2016	Europe	Digital Library
+Huang, Xuedong	ACM Fellows	2016	North America	Digital Library
+Jackson, Daniel	ACM Fellows	2016	Europe	Digital Library
+Jacob, Robert J.K.	ACM Fellows	2016	North America	Digital Library
+Jha, Somesh	ACM Fellows	2016	North America	Digital Library
+Kannan, Ravi	ACM Fellows	2016	North America	Digital Library
+Kermarrec, Anne-Marie	ACM Fellows	2016	Europe	Digital Library
+Kersten, Martin	ACM Fellows	2016	Europe	Digital Library
+Kozyrakis, Christos	ACM Fellows	2016	North America	Digital Library
+Kwiatkowska, Marta	ACM Fellows	2016	Europe	Digital Library
+Landay, James	ACM Fellows	2016	North America	Digital Library
+Leino, K. Rustan M.	ACM Fellows	2016	North America	Digital Library
+Lyles, Joseph Bryan	ACM Fellows	2016	North America	Digital Library
+Mowry, Todd C	ACM Fellows	2016	North America	Digital Library
+Mudge, Trevor	ACM Fellows	2016	North America	Digital Library
+Oviatt, Sharon	ACM Fellows	2016	North America	Digital Library
+Padmanabhan, Venkata	ACM Fellows	2016	Asia	Digital Library
+Patel, Shwetak N	ACM Fellows	2016	North America	Digital Library
+Peleg, David	ACM Fellows	2016	Europe	Digital Library
+Perlman, Radia	ACM Fellows	2016	North America	Digital Library
+Perrig, Adrian	ACM Fellows	2016	Europe	Digital Library
+Ramalingam, Ganesan	ACM Fellows	2016	North America	Digital Library
+Raschid, Louiqa	ACM Fellows	2016	North America	Digital Library
+Rushmeier, Holly E	ACM Fellows	2016	North America	Digital Library
+Saks, Michael E	ACM Fellows	2016	North America	Digital Library
+Sapatnekar, Sachin S.	ACM Fellows	2016	North America	Digital Library
+Sellen, Abigail	ACM Fellows	2016	North America	Digital Library
+Sengupta, Sudipta	ACM Fellows	2016	North America	Digital Library
+Seznec, Andre	ACM Fellows	2016	Europe	Digital Library
+Taylor, Valerie	ACM Fellows	2016	North America	Digital Library
+Tomasi, Carlo	ACM Fellows	2016	North America	Digital Library
+Van Oorschot, Paul	ACM Fellows	2016	North America	Digital Library
+Veloso, Manuela	ACM Fellows	2016	North America	Digital Library
+Zhou, Zhi-Hua	ACM Fellows	2016	Asia	Digital Library
+Ailamaki, Anastasia	ACM Fellows	2015	Europe	Digital Library
+Amato, Nancy M	ACM Fellows	2015	North America	Digital Library
+Blei, David M.	ACM Fellows	2015	North America	Digital Library
+Chang, Naehyuck	ACM Fellows	2015	Asia	Digital Library
+Chen, Hsinchun	ACM Fellows	2015	North America	Digital Library
+Czerwinski, Mary P.	ACM Fellows	2015	North America	Digital Library
+De Giacomo, Giuseppe	ACM Fellows	2015	Europe	Digital Library
+Dourish, Paul	ACM Fellows	2015	North America	Digital Library
+Dwork, Cynthia	ACM Fellows	2015	North America	Digital Library
+Fall, Kevin	ACM Fellows	2015	North America	Digital Library
+Falsafi, Babak	ACM Fellows	2015	North America	Digital Library
+Franz, Michael	ACM Fellows	2015	North America	Digital Library
+Grumberg, Orna	ACM Fellows	2015	Europe	Digital Library
+Guha, Ramanathan	ACM Fellows	2015	North America	Digital Library
+Haritsa, Jayant R	ACM Fellows	2015	Asia	Digital Library
+Hirschberg, Julia	ACM Fellows	2015	North America	
+Indyk, Piotr	ACM Fellows	2015	Europe	Digital Library
+Kuo, Tei-Wei	ACM Fellows	2015	Asia	Digital Library
+Leroy, Xavier	ACM Fellows	2015	Europe	Digital Library
+Lin, Chih-Jen	ACM Fellows	2015	Asia	Digital Library
+Liu, Bing	ACM Fellows	2015	North America	Digital Library
+Liu, Yunhao	ACM Fellows	2015	Asia	Digital Library
+Luby, Michael George	ACM Fellows	2015	North America	Digital Library
+Maurer, Ueli M	ACM Fellows	2015	Europe	Digital Library
+McDaniel, Patrick	ACM Fellows	2015	North America	Digital Library
+Miller, Victor	ACM Fellows	2015	North America	Digital Library
+Mynatt, Elizabeth  D.	ACM Fellows	2015	North America	Digital Library
+Pearl, Judea	ACM Fellows	2015	North America	Digital Library
+Pei, Jian	ACM Fellows	2015	North America	Digital Library
+Pfenning, Frank	ACM Fellows	2015	Europe	Digital Library
+Radev, Dragomir R	ACM Fellows	2015	North America	Digital Library
+Rajamani, Sriram	ACM Fellows	2015	Asia	Digital Library
+Rodriguez, Pablo	ACM Fellows	2015	Europe	Digital Library
+Rung-Tsong Lyu, Michael	ACM Fellows	2015	Asia	Digital Library
+Sagiv, Mooly	ACM Fellows	2015	Europe	Digital Library
+Schroeder, Peter	ACM Fellows	2015	North America	Digital Library
+Schuster, Assaf	ACM Fellows	2015	Europe	Digital Library
+Skadron, Kevin	ACM Fellows	2015	North America	Digital Library
+Tan, Wang-Chiew	ACM Fellows	2015	North America	Digital Library
+Vempala, Santosh	ACM Fellows	2015	Asia	Digital Library
+Warnow, Tandy	ACM Fellows	2015	North America	Digital Library
+Wooldridge, Michael	ACM Fellows	2015	Europe	Digital Library
+Abramsky, Samson	ACM Fellows	2014	Europe	Digital Library
+Adve, Vikram	ACM Fellows	2014	Asia	Digital Library
+Afrati, Foto	ACM Fellows	2014	Europe	Digital Library
+Bachman, Charles W	ACM Fellows	2014	North America	Digital Library
+Borodin, Allan	ACM Fellows	2014	North America	Digital Library
+Bundy, Alan	ACM Fellows	2014	Europe	Digital Library
+Cranor, Lorrie Faith	ACM Fellows	2014	North America	Digital Library
+Davis, Timothy Alden	ACM Fellows	2014	North America	Digital Library
+Devadas, Srinivas	ACM Fellows	2014	North America	Digital Library
+Dhillon, Inderjit	ACM Fellows	2014	North America	Digital Library
+Dutt, Nikil D.	ACM Fellows	2014	North America	Digital Library
+Ellen, Faith	ACM Fellows	2014	North America	Digital Library
+Ernst, Michael D	ACM Fellows	2014	North America	Digital Library
+Finkelstein, Adam	ACM Fellows	2014	North America	Digital Library
+Freire, Juliana	ACM Fellows	2014	North America	Digital Library
+Gehrke, Johannes	ACM Fellows	2014	North America	Digital Library
+Grimson, Eric	ACM Fellows	2014	North America	Digital Library
+Guzdial, Mark	ACM Fellows	2014	North America	Digital Library
+Heiser, Gernot	ACM Fellows	2014	Pacific Rim	Digital Library
+Horvitz, Eric	ACM Fellows	2014	North America	Digital Library
+Joachims, Thorsten	ACM Fellows	2014	Europe	Digital Library
+Kearns, Michael	ACM Fellows	2014	North America	Digital Library
+King, Valerie	ACM Fellows	2014	North America	Digital Library
+Kraus, Sarit	ACM Fellows	2014	Europe	Digital Library
+Lamport, Leslie	ACM Fellows	2014	North America	Digital Library
+Malik, Sharad	ACM Fellows	2014	North America	Digital Library
+Mansour, Yishay	ACM Fellows	2014	Europe	Digital Library
+Mitra, Subhasish	ACM Fellows	2014	Asia	Digital Library
+Mitzenmacher, Michael	ACM Fellows	2014	North America	Digital Library
+Morris, Robert	ACM Fellows	2014	North America	Digital Library
+Narayanan, Vijaykrishnan	ACM Fellows	2014	North America	Digital Library
+Navathe, Shamkant	ACM Fellows	2014	North America	Digital Library
+Patel, Jignesh M	ACM Fellows	2014	North America	Digital Library
+Ranganathan, Parthasarathy	ACM Fellows	2014	North America	Digital Library
+Reingold, Omer	ACM Fellows	2014	North America	Digital Library
+Rodden, Tom	ACM Fellows	2014	Europe	Digital Library
+Rubinfeld, Ronitt	ACM Fellows	2014	North America	Digital Library
+Rus, Daniela	ACM Fellows	2014	North America	Digital Library
+Sangiovanni Vincentelli, Alberto Luigi	ACM Fellows	2014	North America	Digital Library
+Schulzrinne, Henning	ACM Fellows	2014	North America	Digital Library
+Shieber, Stuart	ACM Fellows	2014	North America	Digital Library
+Srikant, Ramakrishnan	ACM Fellows	2014	North America	Digital Library
+Srinivasan, Aravind	ACM Fellows	2014	North America	
+Sudarshan, S.	ACM Fellows	2014	Asia	Digital Library
+Syverson, Paul	ACM Fellows	2014	North America	Digital Library
+Tsudik, Gene	ACM Fellows	2014	North America	Digital Library
+Whittaker, Steve	ACM Fellows	2014	North America	Digital Library
+Ackerman, Mark S	ACM Fellows	2013	North America	Digital Library
+Aggarwal, Charu Chandra	ACM Fellows	2013	North America	Digital Library
+Anderson, James H	ACM Fellows	2013	North America	Digital Library
+Bellare, Mihir	ACM Fellows	2013	North America	Digital Library
+Borgman, Christine L	ACM Fellows	2013	North America	Digital Library
+Ceri, Stefano	ACM Fellows	2013	Europe	Digital Library
+Chakrabarty, Krishnendu	ACM Fellows	2013	North America	Digital Library
+Chellappa, Ramalingam	ACM Fellows	2013	North America	Digital Library
+Cox, Ingemar J.	ACM Fellows	2013	Europe	Digital Library
+De Lucena, Carlos J P	ACM Fellows	2013	Latin America	Digital Library
+Dechter, Rina	ACM Fellows	2013	North America	Digital Library
+Elliott, Chip	ACM Fellows	2013	North America	Digital Library
+Forsyth, David	ACM Fellows	2013	North America	Digital Library
+Gao, Wen	ACM Fellows	2013	Asia	Digital Library
+Garlan, David	ACM Fellows	2013	North America	Digital Library
+Gosling, James	ACM Fellows	2013	North America	Digital Library
+Haas, Peter	ACM Fellows	2013	North America	Digital Library
+Hearst, Marti	ACM Fellows	2013	North America	Digital Library
+Jarke, Matthias	ACM Fellows	2013	Europe	Digital Library
+Kannan, Sampath Kumar	ACM Fellows	2013	North America	Digital Library
+Kasik, David J	ACM Fellows	2013	North America	Digital Library
+Katabi, Dina	ACM Fellows	2013	North America	Digital Library
+Kautz, Henry A	ACM Fellows	2013	North America	Digital Library
+Kleinberg, Jon	ACM Fellows	2013	North America	Digital Library
+Kumar, Panganamala	ACM Fellows	2013	North America	Digital Library
+Lea, Douglas	ACM Fellows	2013	North America	Digital Library
+Maarek, Yoelle	ACM Fellows	2013	Europe	Digital Library
+Manning, Christopher	ACM Fellows	2013	Pacific Rim	Digital Library
+Marathe, Madhav	ACM Fellows	2013	North America	Digital Library
+Mellor-Crummey, John	ACM Fellows	2013	North America	Digital Library
+Morrisett, Greg	ACM Fellows	2013	North America	Digital Library
+Myers, Andrew	ACM Fellows	2013	North America	Digital Library
+Nau, Dana	ACM Fellows	2013	North America	Digital Library
+Rao, Satish	ACM Fellows	2013	North America	Digital Library
+Robertson, S E	ACM Fellows	2013	Europe	Digital Library
+Roscoe, Timothy	ACM Fellows	2013	Europe	Digital Library
+Sellis, Timoleon	ACM Fellows	2013	Europe	Digital Library
+Shasha, Dennis E	ACM Fellows	2013	North America	Digital Library
+Shavit, Nir N	ACM Fellows	2013	North America	Digital Library
+Shim, Kyuseok	ACM Fellows	2013	Asia	Digital Library
+Smyth, Padhraic	ACM Fellows	2013	North America	Digital Library
+Tambe, Milind	ACM Fellows	2013	North America	Digital Library
+Tannen, Val	ACM Fellows	2013	North America	Digital Library
+Williamson, David	ACM Fellows	2013	North America	Digital Library
+Wong, Limsoon	ACM Fellows	2013	Asia	Digital Library
+Yung, Moti	ACM Fellows	2013	North America	Digital Library
+Zegura, Ellen	ACM Fellows	2013	North America	Digital Library
+Zhang, Zhengyou	ACM Fellows	2013	North America	Digital Library
+Zhou, Yuanyuan	ACM Fellows	2013	North America	Digital Library
+Zuckerman, David	ACM Fellows	2013	North America	Digital Library
+Alonso, Gustavo	ACM Fellows	2012	Europe	Digital Library
+Arge, Lars	ACM Fellows	2012	Europe	Digital Library
+Baldi, Pierre	ACM Fellows	2012	North America	Digital Library
+Boehm, Hans	ACM Fellows	2012	Europe	Digital Library
+Boutilier, Craig	ACM Fellows	2012	North America	Digital Library
+Camp, Tracy	ACM Fellows	2012	North America	Digital Library
+Cattell, Rick	ACM Fellows	2012	North America	Digital Library
+Davis, Larry S	ACM Fellows	2012	North America	Digital Library
+Elmagarmid, Ahmed	ACM Fellows	2012	North America	Digital Library
+Fan, Wenfei	ACM Fellows	2012	North America	Digital Library
+Gao, Lixin	ACM Fellows	2012	North America	Digital Library
+Garfinkel, Simson L	ACM Fellows	2012	North America	Digital Library
+Gibson, Garth A	ACM Fellows	2012	North America	Digital Library
+Greenberg, Saul	ACM Fellows	2012	North America	Digital Library
+Gross, Markus	ACM Fellows	2012	Europe	Digital Library
+Grove, David Paul	ACM Fellows	2012	North America	Digital Library
+Grudin, Jonathan	ACM Fellows	2012	North America	Digital Library
+Guerraoui, Rachid	ACM Fellows	2012	Europe	Digital Library
+Gupta, Manish	ACM Fellows	2012	North America	Digital Library
+Hershberger, John	ACM Fellows	2012	North America	Digital Library
+Kahng, Andrew	ACM Fellows	2012	North America	Digital Library
+Karlin, Anna	ACM Fellows	2012	North America	Digital Library
+Keshav, Srinivasan	ACM Fellows	2012	North America	Digital Library
+Kiczales, Gregor	ACM Fellows	2012	North America	Digital Library
+Kitsuregawa, Masaru	ACM Fellows	2012	Asia	Digital Library
+Libkin, Leonid	ACM Fellows	2012	North America	Digital Library
+Milo, Tova	ACM Fellows	2012	Europe	Digital Library
+Nahrstedt, Klara	ACM Fellows	2012	North America	Digital Library
+O'Rourke, Joseph	ACM Fellows	2012	North America	Digital Library
+Pierce, Benjamin	ACM Fellows	2012	North America	Digital Library
+Pingali, Keshav K	ACM Fellows	2012	North America	Digital Library
+Pitts, Andrew M	ACM Fellows	2012	Europe	Digital Library
+Rastogi, Rajeev  Ramnarain	ACM Fellows	2012	North America	Digital Library
+Reddy, Raj	ACM Fellows	2012	North America	Digital Library
+Ross, Keith	ACM Fellows	2012	North America	Digital Library
+Sakallah, Karem	ACM Fellows	2012	North America	Digital Library
+Schreiber, Robert	ACM Fellows	2012	North America	Digital Library
+Scott, Steven	ACM Fellows	2012	North America	Digital Library
+Selman, Bart	ACM Fellows	2012	Europe	Digital Library
+Shamir, Ron	ACM Fellows	2012	Europe	Digital Library
+Shoham, Yoav	ACM Fellows	2012	North America	Digital Library
+Sifakis, Joseph	ACM Fellows	2012	Europe	Digital Library
+Sinclair, Alistair	ACM Fellows	2012	North America	Digital Library
+Stein, Clifford	ACM Fellows	2012	North America	Digital Library
+Stoica, Ion	ACM Fellows	2012	North America	Digital Library
+Tamassia, Roberto	ACM Fellows	2012	North America	Digital Library
+Tichy, Walter F.	ACM Fellows	2012	Europe	Digital Library
+Valduriez, Patrick	ACM Fellows	2012	Europe	Digital Library
+Valiant, Leslie G	ACM Fellows	2012	North America	Digital Library
+Yelick, Katherine	ACM Fellows	2012	North America	Digital Library
+Zabih, Ramin	ACM Fellows	2012	North America	Digital Library
+Zhang, Xiaodong	ACM Fellows	2012	North America	Digital Library
+Abiteboul, Serge	ACM Fellows	2011	Europe	Digital Library
+Agrawal, Divyakant	ACM Fellows	2011	North America	Digital Library
+Baecker, Ronald M	ACM Fellows	2011	North America	Digital Library
+Ball, Thomas	ACM Fellows	2011	North America	Digital Library
+Blelloch, Guy	ACM Fellows	2011	North America	Digital Library
+Ebeling, Carl	ACM Fellows	2011	North America	Digital Library
+Eppstein, David	ACM Fellows	2011	North America	Digital Library
+Fox, Geoffrey	ACM Fellows	2011	North America	Digital Library
+Furnas, George	ACM Fellows	2011	North America	Digital Library
+Gifford, David K	ACM Fellows	2011	North America	Digital Library
+Govindan, Ramesh	ACM Fellows	2011	North America	Digital Library
+Guo, Baining	ACM Fellows	2011	North America	Digital Library
+Heckerman, David	ACM Fellows	2011	North America	Digital Library
+Holzmann, Gerard J.	ACM Fellows	2011	North America	Digital Library
+Hoppe, Hugues	ACM Fellows	2011	North America	Digital Library
+Jensen, Christian S.	ACM Fellows	2011	Europe	Digital Library
+Karloff, Howard J	ACM Fellows	2011	North America	Digital Library
+Keckler, Stephen	ACM Fellows	2011	North America	Digital Library
+Key, Peter B.	ACM Fellows	2011	Europe	Digital Library
+Kirkpatrick, Scott	ACM Fellows	2011	North America	Digital Library
+Kraut, Robert	ACM Fellows	2011	North America	Digital Library
+Landau, Susan	ACM Fellows	2011	North America	Digital Library
+Lin, Ming C	ACM Fellows	2011	North America	Digital Library
+Magnusson, Peter	ACM Fellows	2011	Europe	Digital Library
+Malkhi, Dahlia	ACM Fellows	2011	Europe	Digital Library
+Marzullo, Keith	ACM Fellows	2011	North America	Digital Library
+Matsuoka, Satoshi	ACM Fellows	2011	Asia	Digital Library
+Max, Nelson	ACM Fellows	2011	North America	Digital Library
+Mitchell, Joseph	ACM Fellows	2011	North America	Digital Library
+Mukherjee, Shubu	ACM Fellows	2011	North America	Digital Library
+Ooi, Beng Chin	ACM Fellows	2011	Asia	Digital Library
+Ozsoyoglu, Zehra	ACM Fellows	2011	Europe	Digital Library
+Pach, Janos	ACM Fellows	2011	Europe	Digital Library
+Petzold, Linda	ACM Fellows	2011	North America	Digital Library
+Pollack, Martha	ACM Fellows	2011	North America	Digital Library
+Roth, Dan	ACM Fellows	2011	North America	Digital Library
+Sanguinetti, John	ACM Fellows	2011	North America	Digital Library
+Seltzer, Margo	ACM Fellows	2011	North America	Digital Library
+Singhal, Amit	ACM Fellows	2011	North America	Digital Library
+Souvaine, Diane L	ACM Fellows	2011	North America	Digital Library
+Srivastava, Divesh	ACM Fellows	2011	North America	Digital Library
+Suciu, Dan	ACM Fellows	2011	North America	Digital Library
+Tullsen, Dean	ACM Fellows	2011	North America	Digital Library
+Vahdat, Amin	ACM Fellows	2011	North America	Digital Library
+Wetherall, David	ACM Fellows	2011	Pacific Rim	Digital Library
+Zadeck, Frank Kenneth	ACM Fellows	2011	North America	Digital Library
+Abramson, David A	ACM Fellows	2010	Pacific Rim	Digital Library
+Adve, Sarita	ACM Fellows	2010	Asia	Digital Library
+Alvisi, Lorenzo	ACM Fellows	2010	Europe	Digital Library
+Barroso, Luiz Andre	ACM Fellows	2010	Latin America	Digital Library
+Burger, Douglas C	ACM Fellows	2010	North America	Digital Library
+Chayes, Jennifer	ACM Fellows	2010	North America	Digital Library
+Chen, Peter	ACM Fellows	2010	North America	Digital Library
+Condon, Anne	ACM Fellows	2010	North America	Digital Library
+Crovella, Mark	ACM Fellows	2010	North America	Digital Library
+Cytron, Ron	ACM Fellows	2010	North America	Digital Library
+Dahlin, Michael D	ACM Fellows	2010	North America	Digital Library
+El Abbadi, Amr	ACM Fellows	2010	North America	Digital Library
+Ellis, Carla S.	ACM Fellows	2010	North America	Digital Library
+Faloutsos, Christos	ACM Fellows	2010	North America	Digital Library
+Fisher, Kathleen S	ACM Fellows	2010	North America	Digital Library
+Goodman, James	ACM Fellows	2010	North America	Digital Library
+Hall, Wendy	ACM Fellows	2010	Europe	Digital Library
+Hubaux, Jean-Pierre	ACM Fellows	2010	Europe	Digital Library
+Jordan, Michael  I.	ACM Fellows	2010	North America	Digital Library
+Kavraki, Lydia	ACM Fellows	2010	Europe	Digital Library
+Kiesler, Sara	ACM Fellows	2010	North America	Digital Library
+Klein, Philip N	ACM Fellows	2010	North America	Digital Library
+Kossmann, Donald	ACM Fellows	2010	Europe	Digital Library
+Launchbury, John	ACM Fellows	2010	North America	Digital Library
+Lyon, Richard F	ACM Fellows	2010	North America	Digital Library
+Mooney, Raymond	ACM Fellows	2010	North America	Digital Library
+Muthukrishnan, S.	ACM Fellows	2010	Asia	Digital Library
+Pereira, Fernando	ACM Fellows	2010	North America	Digital Library
+Pevzner, Pavel	ACM Fellows	2010	North America	Digital Library
+Rombach, Dieter	ACM Fellows	2010	Europe	Digital Library
+Rosenblum, David S.	ACM Fellows	2010	North America	Digital Library
+Savage, Stefan	ACM Fellows	2010	North America	Digital Library
+Schnabel, Robert B	ACM Fellows	2010	North America	Digital Library
+Spielman, Daniel A	ACM Fellows	2010	North America	Digital Library
+Suri, Subhash	ACM Fellows	2010	North America	Digital Library
+Tompa, Frank Wm	ACM Fellows	2010	North America	Digital Library
+Torrellas, Josep	ACM Fellows	2010	North America	Digital Library
+Trimberger, Stephen	ACM Fellows	2010	North America	Digital Library
+Ungar, David M	ACM Fellows	2010	North America	Digital Library
+Zeller, Andreas	ACM Fellows	2010	Europe	Digital Library
+Zhai, Shumin	ACM Fellows	2010	North America	Digital Library
+Attiya, Hagit	ACM Fellows	2009	Europe	Digital Library
+Bacon, David F	ACM Fellows	2009	North America	Digital Library
+Baeza-Yates, Ricardo A	ACM Fellows	2009	Latin America	Digital Library
+Bajaj, Chandrajit L.	ACM Fellows	2009	North America	Digital Library
+Bhatkar, Vijay P	ACM Fellows	2009	Asia	Digital Library
+Blakeley, Jose A	ACM Fellows	2009	North America	Digital Library
+Borriello, Gaetano	ACM Fellows	2009	North America	Digital Library
+Choudhary, Alok	ACM Fellows	2009	North America	Digital Library
+Dale, Nell B.	ACM Fellows	2009	North America	Digital Library
+Davie, Bruce	ACM Fellows	2009	North America	Digital Library
+Dean, Jeffrey A	ACM Fellows	2009	North America	Digital Library
+Dean, Thomas L	ACM Fellows	2009	North America	Digital Library
+Donald, Bruce R.	ACM Fellows	2009	North America	Digital Library
+Erickson, Thomas D	ACM Fellows	2009	North America	Digital Library
+Esteves-Verissimo, Paulo	ACM Fellows	2009	Europe	Digital Library
+Fischer, Gerhard	ACM Fellows	2009	North America	Digital Library
+Foster, Ian T	ACM Fellows	2009	North America	Digital Library
+Goldberg, Andrew V	ACM Fellows	2009	North America	Digital Library
+Goodrich, Michael T	ACM Fellows	2009	North America	Digital Library
+Govindaraju, Venu	ACM Fellows	2009	North America	Digital Library
+Gupta, Rajiv	ACM Fellows	2009	North America	Digital Library
+Hellerstein, Joseph M	ACM Fellows	2009	North America	Digital Library
+Hendren, Laurie J	ACM Fellows	2009	North America	Digital Library
+Hoelzle, Urs	ACM Fellows	2009	North America	Digital Library
+Jahanian, Farnam	ACM Fellows	2009	North America	Digital Library
+Kaltofen, Erich L	ACM Fellows	2009	North America	Digital Library
+Karger, David	ACM Fellows	2009	North America	Digital Library
+Kaufman, Arie E	ACM Fellows	2009	North America	Digital Library
+Kriegel, Hans-Peter	ACM Fellows	2009	Europe	Digital Library
+Lenzerini, Maurizio	ACM Fellows	2009	Europe	Digital Library
+Lui, John Chi-Shing	ACM Fellows	2009	Asia	Digital Library
+Manocha, Dinesh	ACM Fellows	2009	North America	Digital Library
+Martonosi, Margaret	ACM Fellows	2009	North America	Digital Library
+Matias, Yossi	ACM Fellows	2009	Europe	Digital Library
+Miller, Renee J	ACM Fellows	2009	North America	Digital Library
+Riedl, John T	ACM Fellows	2009	North America	Digital Library
+Rinard, Martin	ACM Fellows	2009	North America	Digital Library
+Selinger, Patricia G.	ACM Fellows	2009	North America	Digital Library
+Shyamasundar, Rudrapatna Kallikote	ACM Fellows	2009	Asia	Digital Library
+Teng, Shang-Hua	ACM Fellows	2009	North America	Digital Library
+Thekkath, Chandramohan A	ACM Fellows	2009	North America	Digital Library
+Van Renesse, Robbert	ACM Fellows	2009	North America	Digital Library
+Vemuri, Baba C	ACM Fellows	2009	North America	Digital Library
+Vetterli, Martin	ACM Fellows	2009	Europe	Digital Library
+Whang, Kyu-Young	ACM Fellows	2009	Asia	Digital Library
+Wilks, Yorick	ACM Fellows	2009	Europe	Digital Library
+Winograd, Terry	ACM Fellows	2009	North America	Digital Library
+Abadi, Martin	ACM Fellows	2008	North America	Digital Library
+Abowd, Gregory D.	ACM Fellows	2008	North America	Digital Library
+Aiken, Alex	ACM Fellows	2008	North America	Digital Library
+Arora, Sanjeev	ACM Fellows	2008	North America	Digital Library
+Balakrishnan, Hari	ACM Fellows	2008	North America	Digital Library
+Buxton, William A.S.	ACM Fellows	2008	North America	Digital Library
+Clarkson, Kenneth	ACM Fellows	2008	North America	Digital Library
+Cong, Jason	ACM Fellows	2008	North America	Digital Library
+Cook, Perry	ACM Fellows	2008	North America	Digital Library
+Cook, Stephen A	ACM Fellows	2008	North America	Digital Library
+Davidson, Jack	ACM Fellows	2008	North America	Digital Library
+Dayal, Umeshwar	ACM Fellows	2008	North America	Digital Library
+Deng, Xiaotie	ACM Fellows	2008	Asia	Digital Library
+Garcia-Luna-Aceves, J.J.	ACM Fellows	2008	North America	Digital Library
+Goemans, Michel X	ACM Fellows	2008	North America	Digital Library
+Hanrahan, Pat	ACM Fellows	2008	North America	Digital Library
+House, Charles H	ACM Fellows	2008	North America	Digital Library
+Humphrey, Watts S	ACM Fellows	2008	North America	Digital Library
+Kay, Alan	ACM Fellows	2008	North America	Digital Library
+Konstan, Joseph A	ACM Fellows	2008	North America	Digital Library
+Levin, Roy	ACM Fellows	2008	North America	
+Lowney, Paul G	ACM Fellows	2008	North America	Digital Library
+Malik, Jitendra	ACM Fellows	2008	North America	Digital Library
+McKinley, Kathryn S	ACM Fellows	2008	North America	Digital Library
+Meyer, Bertrand	ACM Fellows	2008	Europe	Digital Library
+Mitchell, John  C.	ACM Fellows	2008	North America	Digital Library
+Moses, Joel	ACM Fellows	2008	North America	Digital Library
+Munro, Ian	ACM Fellows	2008	North America	Digital Library
+Olson, Judith S	ACM Fellows	2008	North America	Digital Library
+Paulson, Lawrence C	ACM Fellows	2008	Europe	Digital Library
+Pirahesh, Hamid	ACM Fellows	2008	North America	Digital Library
+Randell, Brian	ACM Fellows	2008	Europe	Digital Library
+Reiter, Michael	ACM Fellows	2008	North America	Digital Library
+Rexford, Jennifer	ACM Fellows	2008	North America	Digital Library
+Rose, Jonathan	ACM Fellows	2008	North America	Digital Library
+Rosenblum, Mendel	ACM Fellows	2008	North America	Digital Library
+Rutenbar, Rob A	ACM Fellows	2008	North America	Digital Library
+Sandholm, Tuomas	ACM Fellows	2008	North America	Digital Library
+Sarkar, Vivek	ACM Fellows	2008	North America	Digital Library
+Squillante, Mark S	ACM Fellows	2008	North America	Digital Library
+Stenstrom, Per O	ACM Fellows	2008	Europe	Digital Library
+Sudan, Madhu	ACM Fellows	2008	North America	Digital Library
+Szeliski, Richard	ACM Fellows	2008	North America	Digital Library
+Terry, Douglas B	ACM Fellows	2008	North America	Digital Library
+Agarwal, Anant	ACM Fellows	2007	North America	Digital Library
+Alur, Rajeev	ACM Fellows	2007	North America	Digital Library
+Banerjee, Utpal	ACM Fellows	2007	North America	Digital Library
+Beeri, Catriel	ACM Fellows	2007	Europe	Digital Library
+Blum, Avrim	ACM Fellows	2007	North America	Digital Library
+Brewer, Eric A.	ACM Fellows	2007	North America	Digital Library
+Broder, Andrei	ACM Fellows	2007	North America	Digital Library
+Cohen, Michael F.	ACM Fellows	2007	North America	Digital Library
+Constantine, Larry	ACM Fellows	2007	North America	Digital Library
+Dolev, Danny	ACM Fellows	2007	Europe	Digital Library
+Downey, Rodney	ACM Fellows	2007	Pacific Rim	Digital Library
+Feigenbaum, Edward A	ACM Fellows	2007	North America	Digital Library
+Felten, Edward	ACM Fellows	2007	North America	Digital Library
+Fortnow, Lance	ACM Fellows	2007	North America	Digital Library
+Gao, Guang	ACM Fellows	2007	Asia	Digital Library
+Gottlob, Georg	ACM Fellows	2007	Europe	Digital Library
+Hull, Richard	ACM Fellows	2007	North America	Digital Library
+Huttenlocher, Daniel	ACM Fellows	2007	North America	Digital Library
+Jiang, Tao	ACM Fellows	2007	North America	Digital Library
+Klensin, John C	ACM Fellows	2007	North America	Digital Library
+Lam, Monica	ACM Fellows	2007	North America	Digital Library
+Levoy, Marc	ACM Fellows	2007	North America	Digital Library
+Mishra, Bud	ACM Fellows	2007	North America	Digital Library
+Moss, Eliot	ACM Fellows	2007	North America	Digital Library
+Motwani, Rajeev	ACM Fellows	2007	North America	Digital Library
+Odersky, Martin	ACM Fellows	2007	Europe	Digital Library
+Olson, Gary M	ACM Fellows	2007	North America	Digital Library
+Padua, David	ACM Fellows	2007	North America	Digital Library
+Pausch, Randy	ACM Fellows	2007	North America	Digital Library
+Pnueli, Amir	ACM Fellows	2007	North America	Digital Library
+Prasanna, Viktor	ACM Fellows	2007	North America	Digital Library
+Requicha, Aristides	ACM Fellows	2007	North America	Digital Library
+Roberts, Eric S	ACM Fellows	2007	North America	Digital Library
+Terzopoulos, Demetri	ACM Fellows	2007	North America	Digital Library
+Thomas, Donald E	ACM Fellows	2007	North America	Digital Library
+Wadler, Philip	ACM Fellows	2007	Europe	Digital Library
+Wand, Mitchell	ACM Fellows	2007	North America	Digital Library
+Zhang, HongJiang	ACM Fellows	2007	Asia	Digital Library
+Allender, Eric	ACM Fellows	2006	North America	Digital Library
+Arvind, Arvind	ACM Fellows	2006	North America	Digital Library
+Atallah, Mikhail	ACM Fellows	2006	North America	Digital Library
+Chen, Ming-Syan	ACM Fellows	2006	Asia	Digital Library
+Dumais, Susan T	ACM Fellows	2006	North America	Digital Library
+Fayyad, Usama M	ACM Fellows	2006	North America	Digital Library
+Felleisen, Matthias	ACM Fellows	2006	North America	Digital Library
+Forbus, Kenneth	ACM Fellows	2006	North America	Digital Library
+Gibbons, Phillip B	ACM Fellows	2006	North America	Digital Library
+Giles, Lee	ACM Fellows	2006	North America	Digital Library
+Greenberg, Albert G	ACM Fellows	2006	North America	Digital Library
+Gropp, William D	ACM Fellows	2006	North America	Digital Library
+Guerin, Roch	ACM Fellows	2006	North America	Digital Library
+Guttag, John	ACM Fellows	2006	North America	Digital Library
+Haas, Laura M	ACM Fellows	2006	North America	Digital Library
+Halevy, Alon Yitzchak	ACM Fellows	2006	North America	Digital Library
+Hearn, Anthony C	ACM Fellows	2006	North America	Digital Library
+Henzinger, Thomas A	ACM Fellows	2006	Europe	Digital Library
+Jouppi, Norman	ACM Fellows	2006	North America	Digital Library
+Laird, John E	ACM Fellows	2006	North America	Digital Library
+Larus, James	ACM Fellows	2006	Europe	Digital Library
+Leiserson, Charles E	ACM Fellows	2006	North America	Digital Library
+Li, Ming	ACM Fellows	2006	North America	Digital Library
+McKeown, Nick	ACM Fellows	2006	North America	Digital Library
+Moore, J Strother	ACM Fellows	2006	North America	Digital Library
+Newell, Alan	ACM Fellows	2006	Europe	Digital Library
+Norvig, Peter	ACM Fellows	2006	North America	Digital Library
+OLeary, Dianne Prost	ACM Fellows	2006	North America	Digital Library
+Olsen, Dan R	ACM Fellows	2006	North America	Digital Library
+Olukotun, Oyekunle	ACM Fellows	2006	North America	Digital Library
+Ozsu, M. Tamer	ACM Fellows	2006	North America	Digital Library
+Paxson, Vern	ACM Fellows	2006	North America	Digital Library
+Scott, Michael	ACM Fellows	2006	North America	Digital Library
+Shum, Heung-Yeung	ACM Fellows	2006	North America	Digital Library
+Spector, Alfred Z	ACM Fellows	2006	North America	Digital Library
+Vianu, Victor	ACM Fellows	2006	North America	Digital Library
+Winslett, Marianne	ACM Fellows	2006	North America	Digital Library
+Wolf, Alexander L	ACM Fellows	2006	North America	Digital Library
+York, Bryant W	ACM Fellows	2006	North America	Digital Library
+Zdonik, Stanley	ACM Fellows	2006	North America	Digital Library
+Zhang, Lixia	ACM Fellows	2006	North America	Digital Library
+Anderson, Thomas	ACM Fellows	2005	North America	Digital Library
+Bjorner, Dines	ACM Fellows	2005	Europe	Digital Library
+Bourne, Stephen	ACM Fellows	2005	North America	Digital Library
+Brooks, Rodney A	ACM Fellows	2005	North America	Digital Library
+Chaudhuri, Surajit	ACM Fellows	2005	North America	Digital Library
+Cooper, Keith D	ACM Fellows	2005	North America	Digital Library
+Dill, David	ACM Fellows	2005	North America	Digital Library
+Diot, Christophe	ACM Fellows	2005	Europe	Digital Library
+Dubois, Michel	ACM Fellows	2005	North America	Digital Library
+Franklin, Michael J	ACM Fellows	2005	North America	Digital Library
+Frieder, Ophir	ACM Fellows	2005	North America	Digital Library
+Harper, Robert	ACM Fellows	2005	North America	Digital Library
+Herlihy, Maurice	ACM Fellows	2005	North America	Digital Library
+Kolaitis, Phokion	ACM Fellows	2005	North America	Digital Library
+Kumar, Vipin	ACM Fellows	2005	North America	Digital Library
+Lakshman, T V	ACM Fellows	2005	North America	Digital Library
+Myers, Brad A	ACM Fellows	2005	North America	Digital Library
+Nicol, David M	ACM Fellows	2005	North America	Digital Library
+Palem, Krishna	ACM Fellows	2005	North America	Digital Library
+Reps, Thomas	ACM Fellows	2005	North America	Digital Library
+Sha, Lui	ACM Fellows	2005	North America	Digital Library
+Thorup, Mikkel	ACM Fellows	2005	Europe	Digital Library
+Upfal, Eli	ACM Fellows	2005	North America	Digital Library
+Vazirani, Umesh	ACM Fellows	2005	North America	Digital Library
+Vazirani, Vijay V	ACM Fellows	2005	North America	Digital Library
+Want, Roy	ACM Fellows	2005	North America	Digital Library
+Weikum, Gerhard	ACM Fellows	2005	Europe	Digital Library
+Weiser, Uri C.	ACM Fellows	2005	Europe	Digital Library
+Weld, Daniel	ACM Fellows	2005	North America	Digital Library
+Wellman, Michael	ACM Fellows	2005	North America	Digital Library
+Widom, Jennifer	ACM Fellows	2005	North America	Digital Library
+Willinger, Walter	ACM Fellows	2005	North America	Digital Library
+Wood, David A	ACM Fellows	2005	North America	Digital Library
+Zhang, Hui	ACM Fellows	2005	North America	Digital Library
+Bose, Bella	ACM Fellows	2004	North America	Digital Library
+Bubenko, Janis A	ACM Fellows	2004	Europe	Digital Library
+Cardelli, Luca	ACM Fellows	2004	Europe	Digital Library
+Chien, Andrew A	ACM Fellows	2004	North America	Digital Library
+Collins, George E	ACM Fellows	2004	North America	Digital Library
+Emer, Joel	ACM Fellows	2004	North America	Digital Library
+Gottlieb, Allan	ACM Fellows	2004	North America	Digital Library
+Hanson, Vicki	ACM Fellows	2004	North America	Digital Library
+Hill, Mark D.	ACM Fellows	2004	North America	Digital Library
+Ioannidis, Yannis	ACM Fellows	2004	Europe	Digital Library
+Kaashoek, Frans	ACM Fellows	2004	North America	Digital Library
+Larson, Per-Ake	ACM Fellows	2004	North America	Digital Library
+Lee, Peter	ACM Fellows	2004	North America	Digital Library
+Mockapetris, Paul	ACM Fellows	2004	North America	Digital Library
+Peyton-Jones, Simon L	ACM Fellows	2004	Europe	Digital Library
+Schantz, Richard	ACM Fellows	2004	North America	Digital Library
+Schroeder, Michael D	ACM Fellows	2004	North America	Digital Library
+Vassiliadis, Stamatis	ACM Fellows	2004	Europe	Digital Library
+Wah, Benjamin W.	ACM Fellows	2004	Asia	Digital Library
+Wise, David S	ACM Fellows	2004	North America	Digital Library
+Agrawal, Rakesh	ACM Fellows	2003	North America	Digital Library
+Ammar, Mostafa	ACM Fellows	2003	North America	Digital Library
+Bahl, Victor	ACM Fellows	2003	North America	Digital Library
+Berger, Bonnie	ACM Fellows	2003	North America	Digital Library
+Bertino, Elisa	ACM Fellows	2003	North America	Digital Library
+Carroll, John	ACM Fellows	2003	North America	Digital Library
+Demillo, Richard	ACM Fellows	2003	North America	Digital Library
+Grosz, Barbara J	ACM Fellows	2003	North America	Digital Library
+Hailpern, Brent T	ACM Fellows	2003	North America	Digital Library
+Han, Jiawei	ACM Fellows	2003	North America	Digital Library
+Harrold, Mary	ACM Fellows	2003	North America	Digital Library
+Hart, Peter	ACM Fellows	2003	North America	Digital Library
+Horowitz, Mark A	ACM Fellows	2003	North America	Digital Library
+Hudak, Paul	ACM Fellows	2003	North America	Digital Library
+Jagadish, H V	ACM Fellows	2003	North America	Digital Library
+Jain, Anil K	ACM Fellows	2003	North America	Digital Library
+Jain, Ramesh C	ACM Fellows	2003	North America	Digital Library
+Jha, Niraj	ACM Fellows	2003	North America	Digital Library
+Kozen, Dexter	ACM Fellows	2003	North America	Digital Library
+Lin, Yi-Bing	ACM Fellows	2003	Asia	Digital Library
+McKeown, Kathleen	ACM Fellows	2003	North America	Digital Library
+Moran, Thomas	ACM Fellows	2003	North America	Digital Library
+Myers, Eugene	ACM Fellows	2003	Europe	Digital Library
+Partridge, Craig	ACM Fellows	2003	North America	Digital Library
+Reed, Daniel A	ACM Fellows	2003	North America	Digital Library
+Russell, Stuart	ACM Fellows	2003	North America	Digital Library
+Sanders, William	ACM Fellows	2003	North America	Digital Library
+Shenker, Scott J	ACM Fellows	2003	North America	Digital Library
+Sohi, Gurindar S	ACM Fellows	2003	North America	Digital Library
+Van Rijsbergen, C J	ACM Fellows	2003	Europe	Digital Library
+Agarwal, Pankaj	ACM Fellows	2002	North America	Digital Library
+Agrawal, Vishwani D	ACM Fellows	2002	North America	Digital Library
+Babaoglu, Ozalp	ACM Fellows	2002	Europe	Digital Library
+Crowcroft, Jon	ACM Fellows	2002	Europe	Digital Library
+Culler, David	ACM Fellows	2002	North America	Digital Library
+Dally, William	ACM Fellows	2002	North America	Digital Library
+Dietterich, Thomas G	ACM Fellows	2002	North America	Digital Library
+Eggers, Susan	ACM Fellows	2002	North America	Digital Library
+Gabow, Harold N	ACM Fellows	2002	North America	Digital Library
+Goyal, Ambuj	ACM Fellows	2002	North America	Digital Library
+Guzman, Adolfo	ACM Fellows	2002	North America	Digital Library
+Halpern, Joseph	ACM Fellows	2002	North America	Digital Library
+Hwu, Wen-Mei	ACM Fellows	2002	North America	Digital Library
+Immerman, Neil	ACM Fellows	2002	North America	Digital Library
+Karin 3364, Sidney	ACM Fellows	2002	North America	Digital Library
+Kellogg, Wendy A	ACM Fellows	2002	North America	Digital Library
+Lomet, David B	ACM Fellows	2002	North America	Digital Library
+Miller, Gary L	ACM Fellows	2002	North America	Digital Library
+Mohan, C.	ACM Fellows	2002	North America	Digital Library
+Naughton, Jeffrey F	ACM Fellows	2002	North America	Digital Library
+Rau, Bantwal R	ACM Fellows	2002	North America	Digital Library
+Salesin, David H	ACM Fellows	2002	North America	Digital Library
+Satyanarayanan, Mahadev	ACM Fellows	2002	North America	Digital Library
+Valero, Mateo	ACM Fellows	2002	Europe	Digital Library
+Varghese, George	ACM Fellows	2002	North America	Digital Library
+Wilkes, John	ACM Fellows	2002	North America	Digital Library
+Abraham, Jacob	ACM Fellows	2001	North America	Digital Library
+Aiken, Robert	ACM Fellows	2001	North America	Digital Library
+Asano, Tetsuo	ACM Fellows	2001	Asia	Digital Library
+Bernstein, Philip A	ACM Fellows	2001	North America	Digital Library
+Birnbaum, Joel S	ACM Fellows	2001	North America	Digital Library
+Borning, Alan H	ACM Fellows	2001	North America	Digital Library
+Breitbart, Yuri	ACM Fellows	2001	North America	Digital Library
+Cai, Jin-Yi	ACM Fellows	2001	North America	Digital Library
+Clark, David D	ACM Fellows	2001	North America	Digital Library
+Davidson, Susan B	ACM Fellows	2001	North America	Digital Library
+DeKleer, Johan	ACM Fellows	2001	North America	Digital Library
+DeMicheli, Giovanni	ACM Fellows	2001	Europe	Digital Library
+Dongarra, Jack	ACM Fellows	2001	North America	Digital Library
+Farber, David J.	ACM Fellows	2001	North America	Digital Library
+Feigenbaum, Joan	ACM Fellows	2001	North America	Digital Library
+Ferrari, Domenico	ACM Fellows	2001	Europe	Digital Library
+Floyd, Sally J	ACM Fellows	2001	North America	Digital Library
+Gelenbe, Erol	ACM Fellows	2001	Europe	Digital Library
+Hayes, John P	ACM Fellows	2001	North America	Digital Library
+Iyengar, Sitharama	ACM Fellows	2001	North America	Digital Library
+Iyer, Ravishankar	ACM Fellows	2001	North America	Digital Library
+Jaja, Joseph F	ACM Fellows	2001	North America	Digital Library
+Kahn, Robert E	ACM Fellows	2001	North America	Digital Library
+Kang , Sung Mo	ACM Fellows	2001	North America	Digital Library
+Kieburtz, Richard B	ACM Fellows	2001	North America	Digital Library
+Kowalski, Robert A	ACM Fellows	2001	Europe	Digital Library
+Kramer, Jeffrey	ACM Fellows	2001	Europe	Digital Library
+Kurose, James	ACM Fellows	2001	North America	Digital Library
+Lee, Ruby B	ACM Fellows	2001	North America	Digital Library
+Litwin, Witold	ACM Fellows	2001	Europe	Digital Library
+Miller, Barton P	ACM Fellows	2001	North America	Digital Library
+Mogul, Jeffrey C	ACM Fellows	2001	North America	Digital Library
+Norman, Donald A.	ACM Fellows	2001	North America	Digital Library
+Pancake, Cherri M	ACM Fellows	2001	North America	Digital Library
+Papadimitriou, Christos	ACM Fellows	2001	North America	Digital Library
+Parker, Donn B	ACM Fellows	2001	North America	Digital Library
+Patel, Janak H	ACM Fellows	2001	North America	Digital Library
+Patt, Yale	ACM Fellows	2001	North America	Digital Library
+Pohl, Ira	ACM Fellows	2001	North America	Digital Library
+Pullen, John Mark	ACM Fellows	2001	North America	Digital Library
+Raghavan, Prabhakar	ACM Fellows	2001	North America	Digital Library
+Ramakrishnan, Raghu	ACM Fellows	2001	North America	Digital Library
+Ramamritham, Krithivasan	ACM Fellows	2001	Asia	Digital Library
+Reynolds, John C	ACM Fellows	2001	North America	Digital Library
+Robertson, George	ACM Fellows	2001	North America	Digital Library
+Roussopoulos, Nick	ACM Fellows	2001	North America	Digital Library
+Sabnani, Krishan K.	ACM Fellows	2001	North America	Digital Library
+Sandhu, Ravinderpal S	ACM Fellows	2001	North America	Digital Library
+Schek, Hans-Joerg	ACM Fellows	2001	Europe	Digital Library
+Schlichting, Richard D	ACM Fellows	2001	North America	Digital Library
+Shin, Kang	ACM Fellows	2001	North America	Digital Library
+Shmoys, David	ACM Fellows	2001	North America	Digital Library
+Smith, Alan	ACM Fellows	2001	North America	Digital Library
+Steinmetz, Ralf	ACM Fellows	2001	Europe	Digital Library
+Turner, Jonathan	ACM Fellows	2001	North America	Digital Library
+Wolf, Marilyn Claire	ACM Fellows	2001	North America	Digital Library
+Wolfson, Ouri	ACM Fellows	2001	North America	Digital Library
+Zave, Pamela	ACM Fellows	2001	North America	Digital Library
+Banerjee, Prithviraj	ACM Fellows	2000	North America	Digital Library
+Berman, Francine	ACM Fellows	2000	North America	Digital Library
+Bhuyan, Laxmi N	ACM Fellows	2000	North America	Digital Library
+Biermann, Alan W	ACM Fellows	2000	North America	Digital Library
+Bokhari, Shahid H	ACM Fellows	2000	North America	Digital Library
+Bryant, Randal E	ACM Fellows	2000	North America	Digital Library
+Buneman, Peter	ACM Fellows	2000	Europe	Digital Library
+Card, Stuart K.	ACM Fellows	2000	North America	Digital Library
+Carey, Michael J	ACM Fellows	2000	North America	Digital Library
+Comer, Douglas E	ACM Fellows	2000	North America	Digital Library
+Duncan, Karen	ACM Fellows	2000	North America	Digital Library
+Estrin, Deborah	ACM Fellows	2000	North America	Digital Library
+Fagin, Ronald	ACM Fellows	2000	North America	Digital Library
+Freeman, Peter A	ACM Fellows	2000	North America	Digital Library
+Fuchs, Wesley Kent	ACM Fellows	2000	North America	Digital Library
+Haderle, Donald J	ACM Fellows	2000	North America	Digital Library
+Heath, Michael	ACM Fellows	2000	North America	Digital Library
+Kleinrock, Leonard	ACM Fellows	2000	North America	Digital Library
+Korth, Henry F	ACM Fellows	2000	North America	Digital Library
+Lamsweerde, Axel Van	ACM Fellows	2000	Europe	Digital Library
+Lorie, Raymond A	ACM Fellows	2000	North America	Digital Library
+Loveland, Donald W	ACM Fellows	2000	North America	Digital Library
+Meyer, Albert R	ACM Fellows	2000	North America	Digital Library
+Morris, James H	ACM Fellows	2000	North America	Digital Library
+Peterson, Larry L	ACM Fellows	2000	North America	Digital Library
+Vardi, Moshe Y	ACM Fellows	2000	North America	Digital Library
+Warren, David S	ACM Fellows	2000	North America	Digital Library
+Wilhelm, Reinhard	ACM Fellows	2000	Europe	Digital Library
+Williams, Robin	ACM Fellows	2000	North America	Digital Library
+Zwaenepoel, Willy E	ACM Fellows	2000	Europe	Digital Library
+Auslander, Marc	ACM Fellows	1999	North America	Digital Library
+Birman, Ken	ACM Fellows	1999	North America	Digital Library
+Brachman, Ronald J.	ACM Fellows	1999	North America	Digital Library
+Braden, Robert T	ACM Fellows	1999	North America	Digital Library
+Cook, Rob	ACM Fellows	1999	North America	Digital Library
+DeBlasi, Joseph S	ACM Fellows	1999	North America	Digital Library
+Demmel, James	ACM Fellows	1999	North America	Digital Library
+Fateman, Richard J	ACM Fellows	1999	North America	Digital Library
+Foley, James D	ACM Fellows	1999	North America	Digital Library
+Gannon, John D	ACM Fellows	1999	North America	Digital Library
+Geschke, Charles M	ACM Fellows	1999	North America	Digital Library
+Ghezzi, Carlo	ACM Fellows	1999	Europe	Digital Library
+Glass, Robert L	ACM Fellows	1999	Pacific Rim	Digital Library
+Graham, Ronald L.	ACM Fellows	1999	North America	Digital Library
+Guibas, Leonidas	ACM Fellows	1999	North America	Digital Library
+Ibaraki, Toshihide	ACM Fellows	1999	Asia	Digital Library
+Kanade, Takeo	ACM Fellows	1999	Asia	Digital Library
+Lewis, Philip M	ACM Fellows	1999	North America	Digital Library
+MacQueen, David	ACM Fellows	1999	North America	Digital Library
+Martin, C. Dianne	ACM Fellows	1999	North America	Digital Library
+Masinter, Larry M	ACM Fellows	1999	North America	Digital Library
+Mehlhorn, Kurt	ACM Fellows	1999	Europe	Digital Library
+Mills, David L	ACM Fellows	1999	North America	Digital Library
+Pradhan, Dhiraj	ACM Fellows	1999	Europe	Digital Library
+Sameh, Ahmed	ACM Fellows	1999	North America	Digital Library
+Samuelson, Pamela	ACM Fellows	1999	North America	Digital Library
+Snir, Marc	ACM Fellows	1999	North America	Digital Library
+Snodgrass, Richard	ACM Fellows	1999	North America	Digital Library
+Soffa, Mary Lou	ACM Fellows	1999	North America	Digital Library
+Tan, Chung Jen	ACM Fellows	1999	Asia	Digital Library
+Torii, Koji	ACM Fellows	1999	Asia	Digital Library
+Waltz, David L	ACM Fellows	1999	North America	Digital Library
+Warnock, John	ACM Fellows	1999	North America	Digital Library
+Yonezawa, Akinori	ACM Fellows	1999	Asia	Digital Library
+Agrawal, Dharma P	ACM Fellows	1998	North America	Digital Library
+Andrews, Gregory R	ACM Fellows	1998	North America	Digital Library
+Appel, Andrew W	ACM Fellows	1998	North America	Digital Library
+Berghel, Hal	ACM Fellows	1998	North America	Digital Library
+Browne, James C	ACM Fellows	1998	North America	Digital Library
+Cartwright, Robert S	ACM Fellows	1998	North America	Digital Library
+Chen, Peter P	ACM Fellows	1998	North America	Digital Library
+Clarke, Edmund	ACM Fellows	1998	North America	Digital Library
+Clarke, Lori	ACM Fellows	1998	North America	Digital Library
+Cole, Richard J	ACM Fellows	1998	North America	Digital Library
+Ellis, Clarence A	ACM Fellows	1998	North America	Digital Library
+Gabriel, Richard	ACM Fellows	1998	North America	Digital Library
+Gupta, Gopal Krishna	ACM Fellows	1998	Pacific Rim	Digital Library
+Horning, James Jay	ACM Fellows	1998	North America	Digital Library
+Jones, Neil	ACM Fellows	1998	Europe	Digital Library
+Joshi, Aravind K	ACM Fellows	1998	North America	Digital Library
+Kandel, Abraham	ACM Fellows	1998	North America	Digital Library
+Kent, Stephen T	ACM Fellows	1998	North America	Digital Library
+Lam, Simon S	ACM Fellows	1998	North America	Digital Library
+Li, Kai	ACM Fellows	1998	North America	Digital Library
+Maier, David	ACM Fellows	1998	North America	Digital Library
+Notkin, David S	ACM Fellows	1998	North America	Digital Library
+Nycum, Susan H	ACM Fellows	1998	North America	Digital Library
+Osterweil, Leon J	ACM Fellows	1998	North America	Digital Library
+Rangan, Venkat	ACM Fellows	1998	Asia	Digital Library
+Richards, John T	ACM Fellows	1998	North America	Digital Library
+Rowe, Lawrence A	ACM Fellows	1998	North America	Digital Library
+Ryder, Barbara Gershon	ACM Fellows	1998	North America	Digital Library
+Selman, Alan	ACM Fellows	1998	North America	Digital Library
+Sequin, Carlo H	ACM Fellows	1998	North America	Digital Library
+Siegel, Howard	ACM Fellows	1998	North America	Digital Library
+Spafford, Eugene H.	ACM Fellows	1998	North America	Digital Library
+Tardos, Eva	ACM Fellows	1998	North America	Digital Library
+Taylor, Richard N	ACM Fellows	1998	North America	Digital Library
+Turner, Albert J	ACM Fellows	1998	North America	Digital Library
+Welzl, Emmerich	ACM Fellows	1998	Europe	Digital Library
+Wing, Jeannette M.	ACM Fellows	1998	North America	Digital Library
+Yannakakis, Mihalis	ACM Fellows	1998	North America	Digital Library
+Zweben, Stuart	ACM Fellows	1998	North America	Digital Library
+Akyildiz, Ian F	ACM Fellows	1997	North America	Digital Library
+Baer, Jean-Loup E	ACM Fellows	1997	North America	Digital Library
+Basili, Victor	ACM Fellows	1997	North America	Digital Library
+Bate, Roger R	ACM Fellows	1997	North America	Digital Library
+Boehm, Barry	ACM Fellows	1997	North America	Digital Library
+Chlamtac, Imrich	ACM Fellows	1997	Europe	Digital Library
+Couger, J D	ACM Fellows	1997	North America	Digital Library
+Croft, Bruce	ACM Fellows	1997	North America	Digital Library
+Davis, Gordon B	ACM Fellows	1997	North America	Digital Library
+Dobkin, David P	ACM Fellows	1997	North America	Digital Library
+Freeman, Herbert	ACM Fellows	1997	North America	Digital Library
+Garcia-Molina, Hector	ACM Fellows	1997	North America	Digital Library
+Greif, Irene	ACM Fellows	1997	North America	Digital Library
+Gurevich, Yuri	ACM Fellows	1997	North America	Digital Library
+Hennessy, John L	ACM Fellows	1997	North America	Digital Library
+Kedem, Zvi	ACM Fellows	1997	North America	Digital Library
+Kemmerer, Richard A.	ACM Fellows	1997	North America	Digital Library
+Lawson, H W	ACM Fellows	1997	Europe	Digital Library
+Lee, Der-Tsai	ACM Fellows	1997	Asia	Digital Library
+Lipton, Richard	ACM Fellows	1997	North America	Digital Library
+Lynch, Nancy	ACM Fellows	1997	North America	Digital Library
+Menasce, Daniel	ACM Fellows	1997	North America	Digital Library
+Miller, Raymond	ACM Fellows	1997	North America	Digital Library
+Perrott, Ron	ACM Fellows	1997	Europe	Digital Library
+Pippenger, Nicholas	ACM Fellows	1997	North America	Digital Library
+Pratt, Vaughan Ronald	ACM Fellows	1997	North America	Digital Library
+Reif, John H	ACM Fellows	1997	North America	Digital Library
+Reiter, Raymond	ACM Fellows	1997	North America	Digital Library
+Schneck, Paul	ACM Fellows	1997	North America	Digital Library
+Sedgewick, Robert	ACM Fellows	1997	North America	Digital Library
+Sevcik, Kenneth C	ACM Fellows	1997	North America	Digital Library
+Sharir, Micha	ACM Fellows	1997	Europe	Digital Library
+Shaw, Alan C	ACM Fellows	1997	North America	Digital Library
+Shneiderman, Ben	ACM Fellows	1997	North America	Digital Library
+Steiglitz, Kenneth	ACM Fellows	1997	North America	Digital Library
+Towsley, Donald F	ACM Fellows	1997	North America	Digital Library
+Weyuker, Elaine	ACM Fellows	1997	North America	Digital Library
+Widmayer, Peter	ACM Fellows	1997	Europe	Digital Library
+Wilensky, Robert	ACM Fellows	1997	North America	Digital Library
+Yu, Philip S	ACM Fellows	1997	North America	Digital Library
+Zanella, Paolo	ACM Fellows	1997	Europe	Digital Library
+Adrion, William Richards	ACM Fellows	1996	North America	Digital Library
+Aho, Alfred V	ACM Fellows	1996	North America	Digital Library
+Ahuja, Narendra	ACM Fellows	1996	North America	Digital Library
+Akeley, Kurt B	ACM Fellows	1996	North America	Digital Library
+Bajcsy, Ruzena R	ACM Fellows	1996	North America	Digital Library
+Bochmann, Gregor V	ACM Fellows	1996	North America	Digital Library
+Borg, Anita	ACM Fellows	1996	North America	Digital Library
+Chandrasekaran, B.	ACM Fellows	1996	North America	Digital Library
+Chazelle, Bernard	ACM Fellows	1996	North America	Digital Library
+Deo, Narsingh	ACM Fellows	1996	North America	Digital Library
+Dodd, George	ACM Fellows	1996	North America	Digital Library
+Encarnacao, Jose L.	ACM Fellows	1996	Europe	Digital Library
+Ferrante, Jeanne	ACM Fellows	1996	North America	Digital Library
+Fischer, Michael J	ACM Fellows	1996	North America	Digital Library
+Frailey, Dennis	ACM Fellows	1996	North America	Digital Library
+Graham, Robert M	ACM Fellows	1996	North America	Digital Library
+Harrison, Michael A	ACM Fellows	1996	North America	Digital Library
+Heidelberger, Philip	ACM Fellows	1996	North America	Digital Library
+Irwin, Mary Jane	ACM Fellows	1996	North America	Digital Library
+Jaffe, Jeffrey	ACM Fellows	1996	North America	Digital Library
+Jain, Raj	ACM Fellows	1996	North America	Digital Library
+Jones, Anita K	ACM Fellows	1996	North America	Digital Library
+Katz, Randy  H.	ACM Fellows	1996	North America	Digital Library
+Klawe, Maria	ACM Fellows	1996	North America	Digital Library
+Landweber, Lawrence H	ACM Fellows	1996	North America	Digital Library
+Lesk, Michael E	ACM Fellows	1996	North America	Digital Library
+Levy, Henry M	ACM Fellows	1996	North America	Digital Library
+Liskov, Barbara	ACM Fellows	1996	North America	Digital Library
+Muntz, Richard R	ACM Fellows	1996	North America	Digital Library
+Nance, Richard E	ACM Fellows	1996	North America	Digital Library
+Nishizeki, Takao	ACM Fellows	1996	Asia	Digital Library
+Preas, Bryan	ACM Fellows	1996	North America	Digital Library
+Rao, TRN	ACM Fellows	1996	North America	Digital Library
+Reingold, Edward M	ACM Fellows	1996	North America	Digital Library
+Rice, John	ACM Fellows	1996	North America	Digital Library
+Rosenberg, Arnold	ACM Fellows	1996	North America	Digital Library
+Sahni, Sartaj K	ACM Fellows	1996	North America	Digital Library
+Samet, Hanan	ACM Fellows	1996	North America	Digital Library
+Savage, John E	ACM Fellows	1996	North America	Digital Library
+Sethi, Ravi	ACM Fellows	1996	North America	Digital Library
+Shaw, Mary M	ACM Fellows	1996	North America	Digital Library
+Silberschatz, Abraham	ACM Fellows	1996	North America	Digital Library
+Stankovic, John A	ACM Fellows	1996	North America	Digital Library
+Stockmeyer, Larry	ACM Fellows	1996	North America	Digital Library
+Tanenbaum, Andrew S	ACM Fellows	1996	Europe	Digital Library
+Vernon, Mary K	ACM Fellows	1996	North America	Digital Library
+Vishkin, Uzi	ACM Fellows	1996	North America	Digital Library
+Vitter, Jeffrey S. Vitter	ACM Fellows	1996	North America	Digital Library
+Wasserman, Anthony I	ACM Fellows	1996	North America	Digital Library
+Wegman, Mark	ACM Fellows	1996	North America	Digital Library
+Weingarten, Fred W	ACM Fellows	1996	North America	Digital Library
+Witten, Ian	ACM Fellows	1996	Pacific Rim	Digital Library
+Yovits, Marshall C	ACM Fellows	1996	North America	Digital Library
+Abrahams, Paul W	ACM Fellows	1995	North America	Digital Library
+Ashenhurst, R L	ACM Fellows	1995	North America	Digital Library
+Barr, Alan H	ACM Fellows	1995	North America	Digital Library
+Bernstein, Lawrence	ACM Fellows	1995	North America	Digital Library
+Booch, Grady	ACM Fellows	1995	North America	Digital Library
+Brandin, David H	ACM Fellows	1995	North America	Digital Library
+Brent, Richard P	ACM Fellows	1995	Pacific Rim	Digital Library
+Carpenter, Loren C	ACM Fellows	1995	North America	Digital Library
+Catmull, Edwin	ACM Fellows	1995	North America	Digital Library
+Constable, Robert	ACM Fellows	1995	North America	Digital Library
+Denning, Dorothy E	ACM Fellows	1995	North America	Digital Library
+DeWitt, David	ACM Fellows	1995	North America	Digital Library
+Druffel, Larry	ACM Fellows	1995	North America	Digital Library
+Engeler, Erwin	ACM Fellows	1995	Europe	Digital Library
+Feldman, Stuart	ACM Fellows	1995	North America	Digital Library
+Fuchs, Henry	ACM Fellows	1995	North America	Digital Library
+Galil, Zvi	ACM Fellows	1995	North America	Digital Library
+Garey, Michael R	ACM Fellows	1995	North America	Digital Library
+Ginsberg, Myron	ACM Fellows	1995	North America	Digital Library
+Goodenough, John B	ACM Fellows	1995	North America	Digital Library
+Greenberg, Donald	ACM Fellows	1995	North America	Digital Library
+Grosch, Herbert R J	ACM Fellows	1995	North America	Digital Library
+Herzog, Bertram	ACM Fellows	1995	North America	Digital Library
+Highland, Harold J	ACM Fellows	1995	North America	Digital Library
+Hoffman, Lance	ACM Fellows	1995	North America	Digital Library
+Ibarra, Oscar	ACM Fellows	1995	North America	Digital Library
+Johnson, David S	ACM Fellows	1995	North America	Digital Library
+Jones, Cliff B	ACM Fellows	1995	Europe	Digital Library
+Kennedy, Kenneth W	ACM Fellows	1995	North America	Digital Library
+Kim, Won	ACM Fellows	1995	North America	Digital Library
+Kosaraju, Sambasiva	ACM Fellows	1995	North America	Digital Library
+Ladner, Richard E.	ACM Fellows	1995	North America	Digital Library
+Lakshmivarahan, S	ACM Fellows	1995	North America	Digital Library
+Lazowska, Edward	ACM Fellows	1995	North America	Digital Library
+Leveson, Nancy	ACM Fellows	1995	North America	Digital Library
+Misra, Jayadev	ACM Fellows	1995	North America	Digital Library
+Nievergelt, J	ACM Fellows	1995	Europe	Digital Library
+Oettinger, Anthony	ACM Fellows	1995	North America	Digital Library
+Preparata, Franco P	ACM Fellows	1995	North America	Digital Library
+Rada, Roy F	ACM Fellows	1995	North America	Digital Library
+Rosenkrantz, Daniel J	ACM Fellows	1995	North America	Digital Library
+Salton, Gerard	ACM Fellows	1995	North America	Digital Library
+Schneider, Fred B	ACM Fellows	1995	North America	Digital Library
+Snyder, Larry	ACM Fellows	1995	North America	Digital Library
+Suzuki, Norihisa	ACM Fellows	1995	North America	Digital Library
+Ullman, Jeffrey D	ACM Fellows	1995	North America	Digital Library
+Wallace, Chris S	ACM Fellows	1995	Pacific Rim	Digital Library
+Wegner, Peter	ACM Fellows	1995	North America	Digital Library
+White, John R.	ACM Fellows	1995	North America	Digital Library
+Whitted, J Turner	ACM Fellows	1995	North America	Digital Library
+Wiederhold, Gio	ACM Fellows	1995	North America	Digital Library
+Wong, Chak-Kuen	ACM Fellows	1995	North America	Digital Library
+Yao, Andrew C	ACM Fellows	1995	Asia	Digital Library
+Young, Paul	ACM Fellows	1995	North America	Digital Library
+Adams, James M	ACM Fellows	1994	North America	Digital Library
+Allen, Frances	ACM Fellows	1994	North America	Digital Library
+Alt, Franz L	ACM Fellows	1994	North America	Digital Library
+Atchison, William F.	ACM Fellows	1994	North America	Digital Library
+Austing, Richard H	ACM Fellows	1994	North America	Digital Library
+Batcher, Kenneth E	ACM Fellows	1994	North America	Digital Library
+Bell, C Gordon	ACM Fellows	1994	North America	Digital Library
+Blasgen, Michael W	ACM Fellows	1994	North America	Digital Library
+Bobrow, Daniel	ACM Fellows	1994	North America	Digital Library
+Boggs, David R.	ACM Fellows	1994	North America	Digital Library
+Borman, Lorraine	ACM Fellows	1994	North America	Digital Library
+Bradshaw, Charles L	ACM Fellows	1994	North America	Digital Library
+Bricklin, Daniel S	ACM Fellows	1994	North America	Digital Library
+Brooks, Frederick	ACM Fellows	1994	North America	Digital Library
+Brotz, Douglas K	ACM Fellows	1994	North America	Digital Library
+Burton, Richard R	ACM Fellows	1994	North America	Digital Library
+Canning, Richard G	ACM Fellows	1994	North America	Digital Library
+Carlson, Walter	ACM Fellows	1994	North America	Digital Library
+Cerf, Vinton	ACM Fellows	1994	North America	Digital Library
+Chamberlin, Donald	ACM Fellows	1994	North America	Digital Library
+Codd, Edgar F	ACM Fellows	1994	North America	Digital Library
+Coffman, Ed	ACM Fellows	1994	North America	Digital Library
+Corbato, Fernando J	ACM Fellows	1994	North America	Digital Library
+Cragon, Harvey G	ACM Fellows	1994	North America	Digital Library
+D'Auria, Thomas A	ACM Fellows	1994	North America	Digital Library
+DeFanti, Thomas	ACM Fellows	1994	North America	Digital Library
+Denning, Peter J	ACM Fellows	1994	North America	Digital Library
+Dennis, Jack	ACM Fellows	1994	North America	Digital Library
+Deutsch, L Peter	ACM Fellows	1994	North America	Digital Library
+Dijkstra, Edsger W	ACM Fellows	1994	North America	Digital Library
+Dunwell, Stephen	ACM Fellows	1994	North America	Digital Library
+Eckert, J Presper	ACM Fellows	1994	North America	Digital Library
+Elias, Peter	ACM Fellows	1994	North America	Digital Library
+Engel, Gerald L	ACM Fellows	1994	North America	Digital Library
+Esbin, John H	ACM Fellows	1994	North America	Digital Library
+Evans, Bob O	ACM Fellows	1994	North America	Digital Library
+Feng, Tse-Yun	ACM Fellows	1994	North America	Digital Library
+Finerman, Aaron	ACM Fellows	1994	North America	Digital Library
+Floyd, Robert W.	ACM Fellows	1994	North America	Digital Library
+Flynn, Michael J	ACM Fellows	1994	North America	Digital Library
+Frankston, Robert M	ACM Fellows	1994	North America	Digital Library
+Friedman, Frank	ACM Fellows	1994	North America	Digital Library
+Galler, Bernard A	ACM Fellows	1994	North America	Digital Library
+Gear, Charles W	ACM Fellows	1994	North America	Digital Library
+Goldberg, Adele	ACM Fellows	1994	North America	Digital Library
+Gotlieb, Calvin C.	ACM Fellows	1994	North America	Digital Library
+Graham, Susan L	ACM Fellows	1994	North America	Digital Library
+Gray, Jim	ACM Fellows	1994	North America	Digital Library
+Green, Cordell	ACM Fellows	1994	North America	Digital Library
+Gries, David	ACM Fellows	1994	North America	Digital Library
+Hammer, Carl	ACM Fellows	1994	North America	Digital Library
+Hamming, Richard W	ACM Fellows	1994	North America	Digital Library
+Harel, David	ACM Fellows	1994	Europe	Digital Library
+Harris, Fred H	ACM Fellows	1994	North America	Digital Library
+Hartmanis, Juris	ACM Fellows	1994	North America	Digital Library
+Hillis, William Daniel	ACM Fellows	1994	North America	Digital Library
+Hopcroft, John E	ACM Fellows	1994	North America	Digital Library
+Hull, Tom	ACM Fellows	1994	North America	Digital Library
+Hume, J N	ACM Fellows	1994	North America	Digital Library
+Huskey, Harry D	ACM Fellows	1994	North America	Digital Library
+Kahan, William	ACM Fellows	1994	North America	Digital Library
+Kaplan, Ronald M	ACM Fellows	1994	North America	Digital Library
+Karp, Richard	ACM Fellows	1994	North America	Digital Library
+Knuth, Donald E	ACM Fellows	1994	North America	Digital Library
+Kuck, David J	ACM Fellows	1994	North America	Digital Library
+Kurtz, Thomas E	ACM Fellows	1994	North America	Digital Library
+Kurzweil, Ray	ACM Fellows	1994	North America	Digital Library
+Lampson, Butler W	ACM Fellows	1994	North America	Digital Library
+Lavenberg, Stephen S	ACM Fellows	1994	North America	Digital Library
+Lederberg, Joshua	ACM Fellows	1994	North America	Digital Library
+Lee, John A	ACM Fellows	1994	North America	Digital Library
+Lehman, Meir	ACM Fellows	1994	Europe	Digital Library
+Lindsay, Bruce	ACM Fellows	1994	North America	Digital Library
+Little, Joyce Currie	ACM Fellows	1994	North America	Digital Library
+Liu, C.L.	ACM Fellows	1994	Asia	
+Lynn, M Stuart	ACM Fellows	1994	North America	Digital Library
+Maisel, Herbert	ACM Fellows	1994	North America	Digital Library
+Manna, Zohar	ACM Fellows	1994	North America	Digital Library
+McCarthy, John	ACM Fellows	1994	North America	Digital Library
+McCluskey, Edward	ACM Fellows	1994	North America	Digital Library
+McCracken, Daniel D	ACM Fellows	1994	North America	Digital Library
+McJones, Paul R	ACM Fellows	1994	North America	Digital Library
+Milner, A J	ACM Fellows	1994	Europe	Digital Library
+Minker, Jack	ACM Fellows	1994	North America	Digital Library
+Needham, Roger M	ACM Fellows	1994	Europe	Digital Library
+Neumann, Peter G	ACM Fellows	1994	North America	
+Newborn, Monroe	ACM Fellows	1994	North America	Digital Library
+Ousterhout, John	ACM Fellows	1994	North America	Digital Library
+Owicki, Susan S	ACM Fellows	1994	North America	Digital Library
+Parnas, David Lorge	ACM Fellows	1994	North America	Digital Library
+Patterson, David	ACM Fellows	1994	North America	Digital Library
+Poucher, William B	ACM Fellows	1994	North America	Digital Library
+Ralston, Anthony	ACM Fellows	1994	Europe	Digital Library
+Rivest, Ronald L	ACM Fellows	1994	North America	Digital Library
+Rosenfeld, Azriel	ACM Fellows	1994	North America	Digital Library
+Rulifson, Jeff	ACM Fellows	1994	North America	Digital Library
+Sammet, Jean E	ACM Fellows	1994	North America	Digital Library
+Scott, Dana S	ACM Fellows	1994	North America	Digital Library
+Siewiorek, Daniel	ACM Fellows	1994	North America	Digital Library
+Simon, Herbert A	ACM Fellows	1994	North America	Digital Library
+Simons, Barbara B	ACM Fellows	1994	North America	Digital Library
+Sloan, Martha	ACM Fellows	1994	North America	Digital Library
+Slutz, Donald R	ACM Fellows	1994	North America	Digital Library
+Smith, Burton	ACM Fellows	1994	North America	Digital Library
+Stearns, Richard E	ACM Fellows	1994	North America	Digital Library
+Steel, Thomas B	ACM Fellows	1994	North America	Digital Library
+Steele, Guy L	ACM Fellows	1994	North America	Digital Library
+Stone, Harold	ACM Fellows	1994	North America	Digital Library
+Stonebraker, Michael	ACM Fellows	1994	North America	Digital Library
+Strecker, William	ACM Fellows	1994	North America	Digital Library
+Stroustrup, Bjarne	ACM Fellows	1994	North America	Digital Library
+Suppes, Patrick	ACM Fellows	1994	North America	Digital Library
+Sussman, Gerald	ACM Fellows	1994	North America	Digital Library
+Sutherland, Ivan	ACM Fellows	1994	North America	Digital Library
+Taft, Edward A	ACM Fellows	1994	North America	Digital Library
+Tarjan, Robert E	ACM Fellows	1994	North America	Digital Library
+Taylor, Robert W	ACM Fellows	1994	North America	Digital Library
+Thacker, Charles P	ACM Fellows	1994	North America	Digital Library
+Traiger, Irv	ACM Fellows	1994	North America	Digital Library
+Traub, Joseph	ACM Fellows	1994	North America	Digital Library
+Tucker, Allen	ACM Fellows	1994	North America	Digital Library
+van Dam, Andries	ACM Fellows	1994	North America	Digital Library
+Ware, Willis H	ACM Fellows	1994	North America	Digital Library
+Wecker, Stuart	ACM Fellows	1994	North America	Digital Library
+Wegbreit, Ben	ACM Fellows	1994	North America	Digital Library
+Weiss, Eric A	ACM Fellows	1994	North America	Digital Library
+Wheeler, David John	ACM Fellows	1994	Europe	Digital Library
+Wilkes, Maurice V.	ACM Fellows	1994	Europe	Digital Library
+Winograd, Shmuel	ACM Fellows	1994	North America	Digital Library
+Wirth, Niklaus E	ACM Fellows	1994	Europe	Digital Library
+Wolfson, Seymour J	ACM Fellows	1994	North America	Digital Library
+Wulf, William A	ACM Fellows	1994	North America	Digital Library
+Zadeh, L A	ACM Fellows	1994	North America

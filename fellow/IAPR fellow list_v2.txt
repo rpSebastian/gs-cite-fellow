@@ -1,0 +1,281 @@
+Keiichi Abe
+Sergey V. Ablameyko
+Jake K. Aggarwal
+Narendra Ahuja
+Mohammad Showkat-Ul Alam
+Carlo Arcelli
+Eric Backer
+Xiang Bai
+Henry S. Baird
+Sanghamitra Bandyopadhyay
+Eduardo Jose Bayro-Corrochano
+Bir Bhanu
+Prabir Bhattacharya
+Josef Bigun
+Ruud M. Bolle
+Gunilla Borgefors
+Richard Bowden
+Kevin Wilson Bowyer
+Kim L. Boyer
+Alberto Broggi
+Michael Bronstein
+Joachim Buhmann
+Horst Bunke
+Hans Burkhardt
+Terrence M. Caelli
+Virginio Cantoni
+Serge G. Castan
+Andrea Cavallaro
+Bhabatosh Chanda
+Bidyut Baran Chaudhuri
+Santanu Chaudhury
+Ramalingam Chellappa
+C. L. Philip Chen
+Chi Hau Chen
+Songcan Chen
+Xilin Chen
+Zen Chen
+Mohamed Cheriet
+Roberto Cipolla
+Timothy Francis Cootes
+Luigi Cordella
+Rita Cucchiara
+Per-Erik Danielsson
+Mohammed Daoudi
+John Gustav Daugman
+Emlyn Roy Davies
+Larry S. Davis
+Leila De Floriani
+Alberto Del Bimbo
+Andreas Dengel
+Pierre A. Devijver
+Vito Di Ges��
+Sven J. Dickinson
+Xiaoqing Ding
+David Doermann
+Dov Dori
+Michael J. B. Duff
+Jean-Luc Dugelay
+Robert P.W. Duin
+Charles R. Dyer
+Masakazu Ejiri
+Jan-Olof Eklundh
+Michael C. Fairhurst
+Aly A. Farag
+Marco Ferretti
+M��rio A. T. Figueiredo
+Robert B. Fisher
+Andrew William Fitzgibbon
+Patrick J. Flynn
+Gian Luca Foresti
+Herbert Freeman
+Yun Fu
+Hiromichi Fujisawa
+Paolo Ettore Gamba
+Edzard S. Gelsema
+Ashish Ghosh
+Giorgio Giacinto
+Dmitry B. Goldgof
+Marco Gori
+Venu Govindaraju
+Igor B. Gurevich
+Michal Haindl
+Lawrence O'Higgins Hall
+Edwin Hancock
+Robert M. Haralick
+Jean Paul Haton
+Ran He
+Xiaofei He
+Janne T. Heikkil?
+Anders Lars-Gunnar Heyden
+Adrian Hilton
+Vaclav Hlavac
+Tin Kam Ho
+David Crossland Hogg
+Jianying Hu
+Gang Hua
+De-Shuang Huang
+Thomas S. Huang
+Jonathan J. Hull
+Katsushi Ikeuchi
+John Illingworth
+Atsushi Imiya
+Sebastiano Impedovo
+Seiji Inokuchi
+Horace S. Ip
+Anil K. Jain
+Ramesh C. Jain
+C. V. Jawahar
+Qiang Ji
+Tianzi Jiang
+Xiaoyi Jiang
+Ir Pieter P. Jonker
+Mohamed S. Kamel
+Laveen N. Kanal
+Kenichi Kanatani
+Rangasami L. Kashyap
+Rangachar Kasturi
+Masatsugu Kidode
+Jin H. Kim
+Fumitaka Kimura
+Josef Kittler
+Walter G. Kropatsch
+Adam Krzyzak
+Mineichi Kudo
+Ajay Kumar
+B.V.K. Vijaya Kumar
+Ludmila Ilieva Kuncheva
+Malay Kumar Kundu
+Seong-Whan Lee
+Ales Leonardis
+Stefano Levialdi
+Martin D. Levine
+Ching-Chung Li
+Stan Z. Li
+Xuelong Li
+Zhouchen Lin
+Cheng-Lin Liu
+Derong Liu
+Wei Liu
+Wenyin Liu
+Xiaoming Liu
+Brian C. Lovell
+Jiwen Lu
+Jiebo Luo
+Gerd Maderlechner
+Dwijesh Kr. Dutta Majumder
+Davide Maltoni
+Takashi Matsuyama
+Ujjwal Maulik
+Gerard G. Medioni
+Tao Mei
+Nasir Memon
+Majid Mirmehdi
+Sushmita Mitra
+Vittorio Murino
+Fionn Murtagh
+Piero Mussio
+Makoto Nagao
+Hans-Hellmut Nagel
+George Nagy
+Masaki Nakagawa
+Yasuaki Nakano
+Heinrich Niemann
+Hirobumi Nishida
+Mark Nixon
+Yuichi Ohta
+Erkki Oja
+B. John Oommen
+Javier Ortega-Garcia
+Shinji Ozawa
+Lawrence O��Gorman
+Sankar K. Pal
+Umapada Pal
+Sharathchandra Pankanti
+Maja Pantic
+Jussi P.S. Parkkinen
+Theo Pavlidis
+Shmuel Peleg
+Marcello Pelillo
+Petra Perner
+Maria Petrou
+P. Jonathon Phillips
+Matti K. Pietikainen
+Re��jean Plamondon
+Salil Prabhakar
+Andrea Prati
+Pavel Pudil
+Petia Radeva
+Nalini K. Ratha
+Fabio Roli
+Azriel Rosenfeld
+Paul L. Rosin
+Arun A. Ross
+Amit K Roy-Chowdhury
+Yong Rui
+Jose Ruiz-Shulcloper
+Punam Kumar Saha
+Toshiyuki Sakai
+Katsuhiko Sakaue
+Hiroshi Sako
+H. Samet
+Alberto Sanfeliu
+Gabriella Sanniti di Baja
+Sudeep Sarkar
+Shigeru Sasaki
+Raimondo Schettini
+Bernt Schiele
+Jurgen Schurmann
+Stan Sclaroff
+Nicu Sebe
+Mubarak Shah
+Ling Shao
+Linda G. Shapiro
+Dinggang Shen
+Yoshiaki Shirai
+Jean-Claude Simon
+Richa Singh
+Jack Sklansky
+Arnold W. M. Smeulders
+Franc Solina
+A. Lawrence Spitz
+Sargur N. Srihari
+Anuj Srivastava
+David G. Stork
+Ching Y. Suen
+Zhenan Sun
+Tamas Sziranyi
+Johji Tajima
+Mikio Takagi
+Chew Lim Tan
+Tieniu Tan
+Yuan Y. Tang
+Steven L. Tanimoto
+Dacheng Tao
+Torfinn Taxt
+Christopher J. Taylor
+Jie Tian
+Yingli Tian
+Massimo Tistarelli
+Jun-ichiro Toriwaki
+Philip Hilaire Torr
+Mohan Manubhai Trivedi
+Emanuele Trucco
+Saburo Tsuji
+Matthew Turk
+Ventzeslav Valev
+Svetha Venkatesh
+Mario Vento
+Gianni L. Vernazza
+Ren�� Vidal
+Enrique Vidal-Ruis
+Max A. Viergever
+Juan Jose Villanueva
+Jingdong Wang
+Jun Wang
+Liang Wang
+Meng Wang
+Patrick S. P. Wang
+Yunhong Wang
+Harry Wechsler
+Richard Charles Wilson
+Ying Wu
+Changsheng Xu
+Dong Xu
+Lei Xu
+Kazuhiko Yamamoto
+Hong Yan
+Shuicheng Yan
+Jian Yang
+Qiang Yang
+Naokazu Yokoya
+Ian T. Young
+Junsong Yuan
+Pong Chi Yuen
+Josiane Zerubia
+Daoqiang Zhang
+David Zhang
+Huaguang Zhang
+Guoying Zhao
+Jie Zhou
+Zhi-Hua Zhou

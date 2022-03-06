@@ -1,0 +1,2774 @@
+Adleman Leonard M.
+Leonard M. Adleman
+Bader David A
+David A Bader
+Balakrishnan Meenakshi
+Meenakshi Balakrishnan
+Braverman Mark
+Mark Braverman
+Camp Linda Jean
+Linda Jean Camp
+Chang Edward Y
+Edward Y Chang
+Choudhury Tanzeem
+Tanzeem Choudhury
+Cohen-Or Daniel
+Daniel Cohen-Or
+Das Gautam
+Gautam Das
+Dey Anind
+Anind Dey
+Eeckhout Lieven
+Lieven Eeckhout
+Farach-Colton Martin
+Martin Farach-Colton
+Fiat Amos
+Amos Fiat
+Franke Hubertus
+Hubertus Franke
+Friedman Batya
+Batya Friedman
+Gabrilovich Evgeniy
+Evgeniy Gabrilovich
+Gal-Ezer Judith
+Judith Gal-Ezer
+Ganesan Deepak
+Deepak Ganesan
+Gupta Anupam
+Anupam Gupta
+Haas Zygmunt J.
+Zygmunt J. Haas
+Hazan Elad
+Elad Hazan
+Hu Xiaobo Sharon
+Xiaobo Sharon Hu
+Inverardi Paola
+Paola Inverardi
+Ives Zachary
+Zachary Ives
+Jajodia Sushil
+Sushil Jajodia
+Jhala Ranjit
+Ranjit Jhala
+Kaeli David R
+David R Kaeli
+Katz Jonathan
+Jonathan Katz
+Kleinberg Robert
+Robert Kleinberg
+Lengauer Thomas
+Thomas Lengauer
+Li Feifei
+Feifei Li
+Li Hai
+Hai Li
+Li Ninghui
+Ninghui Li
+Liu Tie-Yan
+Tie-Yan Liu
+Marschner Steve
+Steve Marschner
+Mason Matthew T
+Matthew T Mason
+Miller Dale A
+Dale A Miller
+Mossel Elchanan
+Elchanan Mossel
+Nebel Bernhard
+Bernhard Nebel
+Nikolaj Bjorner
+Bjorner Nikolaj
+Ostrovsky Rafail
+Rafail Ostrovsky
+Ouaknine Joel
+Joel Ouaknine
+Pan David Z.
+David Z. Pan
+Picard Rosalind Wright
+Rosalind Wright Picard
+Qadeer Shaz
+Shaz Qadeer
+Ricart Glenn
+Glenn Ricart
+Rosing Tajana
+Tajana Rosing
+Ross Robert B
+Robert B Ross
+Rusinkiewicz Szymon
+Szymon Rusinkiewicz
+Samarati Pierangela
+Pierangela Samarati
+Sarawagi Sunita
+Sunita Sarawagi
+Schiele Bernt
+Bernt Schiele
+Shah Mubarak Ali
+Mubarak Ali Shah
+Sheffer Alla
+Alla Sheffer
+Singh Munindar P.
+Munindar P. Singh
+Sistla Aravinda P
+Aravinda P Sistla
+Smolka Scott
+Scott Smolka
+Tang Jie
+Jie Tang
+Tehranipoor Mark
+Mark Tehranipoor
+Trevisan Luca
+Luca Trevisan
+Wang Wenping
+Wenping Wang
+Waters Brent
+Brent Waters
+White Ryen W
+Ryen W White
+Wobbrock Jacob Otto
+Jacob Otto Wobbrock
+Xie Tao
+Tao Xie
+Yang Ming-Hsuan
+Ming-Hsuan Yang
+Zaki Mohammed
+Mohammed Zaki
+Zhao Ben Y.
+Ben Y. Zhao
+Zhong Lin
+Lin Zhong
+Zilberstein Shlomo
+Shlomo Zilberstein
+Zimmermann Thomas
+Thomas Zimmermann
+Abadi Daniel J
+Daniel J Abadi
+Allan James
+James Allan
+Aluru Srinivas
+Srinivas Aluru
+Arpaci-Dusseau Andrea
+Andrea Arpaci-Dusseau
+Arpaci-Dusseau Remzi
+Remzi Arpaci-Dusseau
+Banerjee Suman
+Suman Banerjee
+Blum Manuel
+Manuel Blum
+Briand Lionel
+Lionel Briand
+Brooks David
+David Brooks
+Canetti Ran
+Ran Canetti
+Canny John
+John Canny
+Chandrakasan Anantha
+Anantha Chandrakasan
+Chang Yao-Wen
+Yao-Wen Chang
+Charikar Moses
+Moses Charikar
+Chen Yiran
+Yiran Chen
+Cormode Graham R.
+Graham R. Cormode
+Cousot Patrick
+Patrick Cousot
+Desbrun Mathieu
+Mathieu Desbrun
+Diffie Whitfield
+Whitfield Diffie
+Dorr Bonnie J
+Bonnie J Dorr
+Duffield Nicholas
+Nicholas Duffield
+Edelman Alan
+Alan Edelman
+Eiter Thomas
+Thomas Eiter
+Flanagan Cormac
+Cormac Flanagan
+Forlizzi Jodi
+Jodi Forlizzi
+Fox Dieter
+Dieter Fox
+Ghemawat Sanjay
+Sanjay Ghemawat
+Gonzalez Antonio
+Antonio Gonzalez
+Gordon Andrew D.
+Andrew D. Gordon
+Gribble Steven
+Steven Gribble
+Hambrusch Susanne E
+Susanne E Hambrusch
+Hellman Martin
+Martin Hellman
+Higham Nicholas
+Nicholas Higham
+Hoare C. Antony R.
+C. Antony R. Hoare
+Hoos Holger H.
+Holger H. Hoos
+Ilyas Ihab F.
+Ihab F. Ilyas
+John Lizy Kurian
+Lizy Kurian John
+Katoen Joost-Pieter
+Joost-Pieter Katoen
+Kim Nam Sung
+Nam Sung Kim
+Koenig Sven
+Sven Koenig
+Kotz David
+David Kotz
+Krishnamurthy Arvind
+Arvind Krishnamurthy
+Kumar Ravi
+Ravi Kumar
+Levine Brian
+Brian Levine
+Leyton-Brown Kevin
+Kevin Leyton-Brown
+LI Xuelong
+Xuelong LI
+Low Steven H.
+Steven H. Low
+Lu Chenyang
+Chenyang Lu
+Madden Samuel
+Samuel Madden
+Mahlke Scott
+Scott Mahlke
+Maltz David
+David Maltz
+Markl Volker
+Volker Markl
+Mataric Maja
+Maja Mataric
+Menczer Filippo
+Filippo Menczer
+Meseguer Jose
+Jose Meseguer
+Morris Meredith Ringel
+Meredith Ringel Morris
+Nagappan Nachiappan
+Nachiappan Nagappan
+Nagpal Radhika
+Radhika Nagpal
+Naor Moni
+Moni Naor
+Narayanaswami Chandra
+Chandra Narayanaswami
+Noh Sam H.
+Sam H. Noh
+Panangaden Prakash
+Prakash Panangaden
+Panchanathan Sethuraman
+Sethuraman Panchanathan
+Parashar Manish
+Manish Parashar
+Parhi Keshab K.
+Keshab K. Parhi
+Park Haesun
+Haesun Park
+Plotkin Gordon
+Gordon Plotkin
+Rabin Michael O.
+Michael O. Rabin
+Ren Kui
+Kui Ren
+Resnick Paul
+Paul Resnick
+Rosson Mary Beth
+Mary Beth Rosson
+Salzberg Steven
+Steven Salzberg
+Seshia Sanjit Arunkumar
+Sanjit Arunkumar Seshia
+Shamir Adi
+Adi Shamir
+Shen Heng Tao
+Heng Tao Shen
+Sheth Amit
+Amit Sheth
+Smith Adam
+Adam Smith
+Sorkine-Hornung Olga
+Olga Sorkine-Hornung
+Stevens Rick
+Rick Stevens
+Stone Peter
+Peter Stone
+Tao Yufei
+Yufei Tao
+Tassiulas Leandros
+Leandros Tassiulas
+Thompson Kenneth Lane
+Kenneth Lane Thompson
+Tomkins Andrew
+Andrew Tomkins
+Troyanskaya Olga
+Olga Troyanskaya
+Turk Matthew A
+Matthew A Turk
+Van Der Aalst Wil
+Wil Van Der Aalst
+Walsh Toby
+Toby Walsh
+Wang Wei
+Wei Wang
+Williams Laurie Ann
+Laurie Ann Williams
+Wu Cathy
+Cathy Wu
+Yan Shuicheng
+Shuicheng Yan
+Yi Wang
+Wang Yi
+Zhou Kun
+Kun Zhou
+Zyda Michael J
+Michael J Zyda
+Aaronson Scott J
+Scott J Aaronson
+Abdelzaher Tarek
+Tarek Abdelzaher
+Amarasinghe Saman
+Saman Amarasinghe
+Bala Kavita
+Kavita Bala
+Balazinska Magdalena
+Magdalena Balazinska
+Beame Paul
+Paul Beame
+Berger Emery David
+Emery David Berger
+Boisvert Ronald F
+Ronald F Boisvert
+Cachin Christian
+Christian Cachin
+Calder Bradley G
+Bradley G Calder
+Calvanese Diego
+Diego Calvanese
+Capkun Srdjan
+Srdjan Capkun
+Cardie Claire
+Claire Cardie
+Chan Timothy
+Timothy Chan
+chandy kanianthra mani
+kanianthra mani chandy
+Chen Xilin
+Xilin Chen
+Churchill Elizabeth Frances
+Elizabeth Frances Churchill
+Cohen Philip R
+Philip R Cohen
+Conitzer Vincent
+Vincent Conitzer
+Contractor Noshir
+Noshir Contractor
+Dwyer Matthew B
+Matthew B Dwyer
+Ferrari Elena
+Elena Ferrari
+Freedman Michael J.
+Michael J. Freedman
+Frincke Deborah
+Deborah Frincke
+Getoor Lise
+Lise Getoor
+Gini Maria L
+Maria L Gini
+Kambhampati Subbarao
+Subbarao Kambhampati
+Kolda Tamara G
+Tamara G Kolda
+Li Xiangyang
+Xiangyang Li
+Lu Songwu
+Songwu Lu
+Mackay Wendy Elizabeth
+Wendy Elizabeth Mackay
+Marculescu Diana
+Diana Marculescu
+McIlraith Sheila
+Sheila McIlraith
+Mihalcea Rada
+Rada Mihalcea
+Murphy Robin R
+Robin R Murphy
+Najork Marc
+Marc Najork
+Nieh Jason
+Jason Nieh
+Pfister Hanspeter
+Hanspeter Pfister
+Pinkston Timothy
+Timothy Pinkston
+Pop Mihai
+Mihai Pop
+Reuter Andreas
+Andreas Reuter
+Rosenschein Jeffrey S
+Jeffrey S Rosenschein
+Seshan Srinivasan
+Srinivasan Seshan
+Shenoy Prashant J
+Prashant J Shenoy
+Shor Peter W
+Peter W Shor
+Singh Mona
+Mona Singh
+Sitaraman Ramesh Kumar
+Ramesh Kumar Sitaraman
+Song Dawn
+Dawn Song
+Stolfo Salvatore J
+Salvatore J Stolfo
+Tao Dacheng
+Dacheng Tao
+Tennenholtz Moshe
+Moshe Tennenholtz
+Vigna Giovanni
+Giovanni Vigna
+Vishnoi Nisheeth
+Nisheeth Vishnoi
+Whitley Darrell
+Darrell Whitley
+Xie Yuan
+Yuan Xie
+Youssef Moustafa Amin
+Moustafa Amin Youssef
+Zaniolo Carlo A
+Carlo A Zaniolo
+Zhou Lidong
+Lidong Zhou
+Agha Gul
+Gul Agha
+Asanovic Krste
+Krste Asanovic
+Asokan N
+N Asokan
+Barham Paul
+Paul Barham
+Bartlett Peter L
+Peter L Bartlett
+Basin David
+David Basin
+Belding Elizabeth
+Elizabeth Belding
+Bodik Rastislav
+Rastislav Bodik
+Borner Katy
+Katy Borner
+Bruckman Amy S
+Amy S Bruckman
+Camenisch Jan
+Jan Camenisch
+Darwiche Adnan
+Adnan Darwiche
+Dehon Andre M
+Andre M Dehon
+Devanbu Premkumar T
+Premkumar T Devanbu
+Dey Tamal K
+Tamal K Dey
+Dwarkadas Sandhya
+Sandhya Dwarkadas
+Feiner Steven
+Steven Feiner
+Finin Tim
+Tim Finin
+Funkhouser Thomas
+Thomas Funkhouser
+Garofalakis Minos
+Minos Garofalakis
+Gerla Mario
+Mario Gerla
+Gilbert Juan E
+Juan E Gilbert
+Hajiaghayi Mohammad T.
+Mohammad T. Hajiaghayi
+Halperin Dan
+Dan Halperin
+He Tian
+Tian He
+Heinzelman Wendi Beth
+Wendi Beth Heinzelman
+Hertzmann Aaron
+Aaron Hertzmann
+Hodgins Jessica K
+Jessica K Hodgins
+Hughes John
+John Hughes
+H?stad Johan
+Johan H?stad
+Isbell Charles Lee
+Charles Lee Isbell
+Keeton Kimberly
+Kimberly Keeton
+Khanna Sanjeev
+Sanjeev Khanna
+Lee Lillian
+Lillian Lee
+Leighton Tom
+Tom Leighton
+Li Fei-Fei
+Fei-Fei Li
+Littman Michael
+Michael Littman
+Liu Huan
+Huan Liu
+Luo Jiebo
+Jiebo Luo
+Maggs Bruce M
+Bruce M Maggs
+Manjunath Bangalore S
+Bangalore S Manjunath
+Misra Vishal
+Vishal Misra
+Mueller Frank
+Frank Mueller
+Parkes David
+David Parkes
+Parulkar Gurudatta
+Gurudatta Parulkar
+Pitassi Toniann
+Toniann Pitassi
+Qiu Lili
+Lili Qiu
+Roughan Matthew
+Matthew Roughan
+Sahai Amit
+Amit Sahai
+Snoeren Alex C.
+Alex C. Snoeren
+Tesauro Gerald
+Gerald Tesauro
+Thuraisingham Bhavani
+Bhavani Thuraisingham
+Vadhan Salil
+Salil Vadhan
+Voorhees Ellen M
+Ellen M Voorhees
+Wigderson Avi
+Avi Wigderson
+Wolman Alec
+Alec Wolman
+Birkedal Lars
+Lars Birkedal
+Bugnion Edouard
+Edouard Bugnion
+Burnett Margaret
+Margaret Burnett
+Chang Shih Fu
+Shih Fu Chang
+Cohen Edith
+Edith Cohen
+Comaniciu Dorin
+Dorin Comaniciu
+Dray Susan
+Susan Dray
+Fox Edward Alan
+Edward Alan Fox
+Fujimoto Richard M
+Richard M Fujimoto
+Goldwasser Shafi
+Shafi Goldwasser
+Gomes Carla
+Carla Gomes
+Grohe Martin
+Martin Grohe
+Gupta Aarti
+Aarti Gupta
+Guruswami Venkatesan
+Venkatesan Guruswami
+Gusfield Dan
+Dan Gusfield
+Hager Gregory
+Gregory Hager
+Hand Steven Michael
+Steven Michael Hand
+Harchol-Balter Mor
+Mor Harchol-Balter
+Kale Laxmikant
+Laxmikant Kale
+Kass Michael
+Michael Kass
+Keromytis Angelos Dennis
+Angelos Dennis Keromytis
+Kesselman Carl
+Carl Kesselman
+Knightly Edward
+Edward Knightly
+Knoblock Craig
+Craig Knoblock
+Lee Insup
+Insup Lee
+Lee Wenke
+Wenke Lee
+Li Li Erran
+Li Erran Li
+Loh Gabriel H
+Gabriel H Loh
+Lozano-Perez Tomas
+Tomas Lozano-Perez
+Lynch Clifford A
+Clifford A Lynch
+Ma Yi
+Yi Ma
+Mccallum Andrew K.
+Andrew K. Mccallum
+Micali Silvio
+Silvio Micali
+Moshovos Andreas
+Andreas Moshovos
+Murphy Gail C
+Gail C Murphy
+Mutlu Onur
+Onur Mutlu
+Oliver Nuria
+Nuria Oliver
+Prabhakar Balaji
+Balaji Prabhakar
+Rabin Tal
+Tal Rabin
+Ramakrishnan K. K.
+K. K. Ramakrishnan
+Ramamoorthi Ravi
+Ravi Ramamoorthi
+Rogers Yvonne
+Yvonne Rogers
+Rui Yong
+Yong Rui
+Schoelkopf Bernhard
+Bernhard Schoelkopf
+Seitz Steve
+Steve Seitz
+Sipser Michael
+Michael Sipser
+Sivasubramaniam Anand
+Anand Sivasubramaniam
+Srivastava Mani B.
+Mani B. Srivastava
+Vardy Alexander
+Alexander Vardy
+Voelker Geoffrey
+Geoffrey Voelker
+Wong Martin
+Martin Wong
+Yang Qiang
+Qiang Yang
+Zhai Chengxiang
+Chengxiang Zhai
+Zhang Aidong
+Aidong Zhang
+Alon Noga
+Noga Alon
+Barford Paul
+Paul Barford
+Benini Luca
+Luca Benini
+Bianchini Ricardo
+Ricardo Bianchini
+Blackburn Stephen
+Stephen Blackburn
+Boneh Dan
+Dan Boneh
+Brodley Carla
+Carla Brodley
+Cassell Justine
+Justine Cassell
+Demaine Erik
+Erik Demaine
+Druin Allison
+Allison Druin
+Durand Fredo
+Fredo Durand
+Feamster Nick
+Nick Feamster
+Flinn Jason
+Jason Flinn
+Freeman William
+William Freeman
+Gil Yolanda
+Yolanda Gil
+Grossman Robert L.
+Robert L. Grossman
+Gupta Rajesh
+Rajesh Gupta
+Hendler James
+James Hendler
+Henzinger Monika
+Monika Henzinger
+Hey Anthony
+Anthony Hey
+Huang Xuedong
+Xuedong Huang
+Jackson Daniel
+Daniel Jackson
+Jacob Robert J.K.
+Robert J.K. Jacob
+Jha Somesh
+Somesh Jha
+Kannan Ravi
+Ravi Kannan
+Kermarrec Anne-Marie
+Anne-Marie Kermarrec
+Kersten Martin
+Martin Kersten
+Kozyrakis Christos
+Christos Kozyrakis
+Kwiatkowska Marta
+Marta Kwiatkowska
+Landay James
+James Landay
+Leino K. Rustan M.
+K. Rustan M. Leino
+Lyles Joseph Bryan
+Joseph Bryan Lyles
+Mowry Todd C
+Todd C Mowry
+Mudge Trevor
+Trevor Mudge
+Oviatt Sharon
+Sharon Oviatt
+Padmanabhan Venkata
+Venkata Padmanabhan
+Patel Shwetak N
+Shwetak N Patel
+Peleg David
+David Peleg
+Perlman Radia
+Radia Perlman
+Perrig Adrian
+Adrian Perrig
+Ramalingam Ganesan
+Ganesan Ramalingam
+Raschid Louiqa
+Louiqa Raschid
+Rushmeier Holly E
+Holly E Rushmeier
+Saks Michael E
+Michael E Saks
+Sapatnekar Sachin S.
+Sachin S. Sapatnekar
+Sellen Abigail
+Abigail Sellen
+Sengupta Sudipta
+Sudipta Sengupta
+Seznec Andre
+Andre Seznec
+Taylor Valerie
+Valerie Taylor
+Tomasi Carlo
+Carlo Tomasi
+Van Oorschot Paul
+Paul Van Oorschot
+Veloso Manuela
+Manuela Veloso
+Zhou Zhi-Hua
+Zhi-Hua Zhou
+Ailamaki Anastasia
+Anastasia Ailamaki
+Amato Nancy M
+Nancy M Amato
+Blei David M.
+David M. Blei
+Chang Naehyuck
+Naehyuck Chang
+Chen Hsinchun
+Hsinchun Chen
+Czerwinski Mary P.
+Mary P. Czerwinski
+De Giacomo Giuseppe
+Giuseppe De Giacomo
+Dourish Paul
+Paul Dourish
+Dwork Cynthia
+Cynthia Dwork
+Fall Kevin
+Kevin Fall
+Falsafi Babak
+Babak Falsafi
+Franz Michael
+Michael Franz
+Grumberg Orna
+Orna Grumberg
+Guha Ramanathan
+Ramanathan Guha
+Haritsa Jayant R
+Jayant R Haritsa
+Hirschberg Julia
+Julia Hirschberg
+Indyk Piotr
+Piotr Indyk
+Kuo Tei-Wei
+Tei-Wei Kuo
+Leroy Xavier
+Xavier Leroy
+Lin Chih-Jen
+Chih-Jen Lin
+Liu Bing
+Bing Liu
+Liu Yunhao
+Yunhao Liu
+Luby Michael George
+Michael George Luby
+Maurer Ueli M
+Ueli M Maurer
+McDaniel Patrick
+Patrick McDaniel
+Miller Victor
+Victor Miller
+Mynatt Elizabeth  D.
+Elizabeth  D. Mynatt
+Pearl Judea
+Judea Pearl
+Pei Jian
+Jian Pei
+Pfenning Frank
+Frank Pfenning
+Radev Dragomir R
+Dragomir R Radev
+Rajamani Sriram
+Sriram Rajamani
+Rodriguez Pablo
+Pablo Rodriguez
+Rung-Tsong Lyu Michael
+Michael Rung-Tsong Lyu
+Sagiv Mooly
+Mooly Sagiv
+Schroeder Peter
+Peter Schroeder
+Schuster Assaf
+Assaf Schuster
+Skadron Kevin
+Kevin Skadron
+Tan Wang-Chiew
+Wang-Chiew Tan
+Vempala Santosh
+Santosh Vempala
+Warnow Tandy
+Tandy Warnow
+Wooldridge Michael
+Michael Wooldridge
+Abramsky Samson
+Samson Abramsky
+Adve Vikram
+Vikram Adve
+Afrati Foto
+Foto Afrati
+Bachman Charles W
+Charles W Bachman
+Borodin Allan
+Allan Borodin
+Bundy Alan
+Alan Bundy
+Cranor Lorrie Faith
+Lorrie Faith Cranor
+Davis Timothy Alden
+Timothy Alden Davis
+Devadas Srinivas
+Srinivas Devadas
+Dhillon Inderjit
+Inderjit Dhillon
+Dutt Nikil D.
+Nikil D. Dutt
+Ellen Faith
+Faith Ellen
+Ernst Michael D
+Michael D Ernst
+Finkelstein Adam
+Adam Finkelstein
+Freire Juliana
+Juliana Freire
+Gehrke Johannes
+Johannes Gehrke
+Grimson Eric
+Eric Grimson
+Guzdial Mark
+Mark Guzdial
+Heiser Gernot
+Gernot Heiser
+Horvitz Eric
+Eric Horvitz
+Joachims Thorsten
+Thorsten Joachims
+Kearns Michael
+Michael Kearns
+King Valerie
+Valerie King
+Kraus Sarit
+Sarit Kraus
+Lamport Leslie
+Leslie Lamport
+Malik Sharad
+Sharad Malik
+Mansour Yishay
+Yishay Mansour
+Mitra Subhasish
+Subhasish Mitra
+Mitzenmacher Michael
+Michael Mitzenmacher
+Morris Robert
+Robert Morris
+Narayanan Vijaykrishnan
+Vijaykrishnan Narayanan
+Navathe Shamkant
+Shamkant Navathe
+Patel Jignesh M
+Jignesh M Patel
+Ranganathan Parthasarathy
+Parthasarathy Ranganathan
+Reingold Omer
+Omer Reingold
+Rodden Tom
+Tom Rodden
+Rubinfeld Ronitt
+Ronitt Rubinfeld
+Rus Daniela
+Daniela Rus
+Sangiovanni Vincentelli Alberto Luigi
+Alberto Luigi Sangiovanni Vincentelli
+Schulzrinne Henning
+Henning Schulzrinne
+Shieber Stuart
+Stuart Shieber
+Srikant Ramakrishnan
+Ramakrishnan Srikant
+Srinivasan Aravind
+Aravind Srinivasan
+Sudarshan S.
+S. Sudarshan
+Syverson Paul
+Paul Syverson
+Tsudik Gene
+Gene Tsudik
+Whittaker Steve
+Steve Whittaker
+Ackerman Mark S
+Mark S Ackerman
+Aggarwal Charu Chandra
+Charu Chandra Aggarwal
+Anderson James H
+James H Anderson
+Bellare Mihir
+Mihir Bellare
+Borgman Christine L
+Christine L Borgman
+Ceri Stefano
+Stefano Ceri
+Chakrabarty Krishnendu
+Krishnendu Chakrabarty
+Chellappa Ramalingam
+Ramalingam Chellappa
+Cox Ingemar J.
+Ingemar J. Cox
+De Lucena Carlos J P
+Carlos J P De Lucena
+Dechter Rina
+Rina Dechter
+Elliott Chip
+Chip Elliott
+Forsyth David
+David Forsyth
+Gao Wen
+Wen Gao
+Garlan David
+David Garlan
+Gosling James
+James Gosling
+Haas Peter
+Peter Haas
+Hearst Marti
+Marti Hearst
+Jarke Matthias
+Matthias Jarke
+Kannan Sampath Kumar
+Sampath Kumar Kannan
+Kasik David J
+David J Kasik
+Katabi Dina
+Dina Katabi
+Kautz Henry A
+Henry A Kautz
+Kleinberg Jon
+Jon Kleinberg
+Kumar Panganamala
+Panganamala Kumar
+Lea Douglas
+Douglas Lea
+Maarek Yoelle
+Yoelle Maarek
+Manning Christopher
+Christopher Manning
+Marathe Madhav
+Madhav Marathe
+Mellor-Crummey John
+John Mellor-Crummey
+Morrisett Greg
+Greg Morrisett
+Myers Andrew
+Andrew Myers
+Nau Dana
+Dana Nau
+Rao Satish
+Satish Rao
+Robertson S E
+S E Robertson
+Roscoe Timothy
+Timothy Roscoe
+Sellis Timoleon
+Timoleon Sellis
+Shasha Dennis E
+Dennis E Shasha
+Shavit Nir N
+Nir N Shavit
+Shim Kyuseok
+Kyuseok Shim
+Smyth Padhraic
+Padhraic Smyth
+Tambe Milind
+Milind Tambe
+Tannen Val
+Val Tannen
+Williamson David
+David Williamson
+Wong Limsoon
+Limsoon Wong
+Yung Moti
+Moti Yung
+Zegura Ellen
+Ellen Zegura
+Zhang Zhengyou
+Zhengyou Zhang
+Zhou Yuanyuan
+Yuanyuan Zhou
+Zuckerman David
+David Zuckerman
+Alonso Gustavo
+Gustavo Alonso
+Arge Lars
+Lars Arge
+Baldi Pierre
+Pierre Baldi
+Boehm Hans
+Hans Boehm
+Boutilier Craig
+Craig Boutilier
+Camp Tracy
+Tracy Camp
+Cattell Rick
+Rick Cattell
+Davis Larry S
+Larry S Davis
+Elmagarmid Ahmed
+Ahmed Elmagarmid
+Fan Wenfei
+Wenfei Fan
+Gao Lixin
+Lixin Gao
+Garfinkel Simson L
+Simson L Garfinkel
+Gibson Garth A
+Garth A Gibson
+Greenberg Saul
+Saul Greenberg
+Gross Markus
+Markus Gross
+Grove David Paul
+David Paul Grove
+Grudin Jonathan
+Jonathan Grudin
+Guerraoui Rachid
+Rachid Guerraoui
+Gupta Manish
+Manish Gupta
+Hershberger John
+John Hershberger
+Kahng Andrew
+Andrew Kahng
+Karlin Anna
+Anna Karlin
+Keshav Srinivasan
+Srinivasan Keshav
+Kiczales Gregor
+Gregor Kiczales
+Kitsuregawa Masaru
+Masaru Kitsuregawa
+Libkin Leonid
+Leonid Libkin
+Milo Tova
+Tova Milo
+Nahrstedt Klara
+Klara Nahrstedt
+O'Rourke Joseph
+Joseph O'Rourke
+Pierce Benjamin
+Benjamin Pierce
+Pingali Keshav K
+Keshav K Pingali
+Pitts Andrew M
+Andrew M Pitts
+Rastogi Rajeev  Ramnarain
+Rajeev  Ramnarain Rastogi
+Reddy Raj
+Raj Reddy
+Ross Keith
+Keith Ross
+Sakallah Karem
+Karem Sakallah
+Schreiber Robert
+Robert Schreiber
+Scott Steven
+Steven Scott
+Selman Bart
+Bart Selman
+Shamir Ron
+Ron Shamir
+Shoham Yoav
+Yoav Shoham
+Sifakis Joseph
+Joseph Sifakis
+Sinclair Alistair
+Alistair Sinclair
+Stein Clifford
+Clifford Stein
+Stoica Ion
+Ion Stoica
+Tamassia Roberto
+Roberto Tamassia
+Tichy Walter F.
+Walter F. Tichy
+Valduriez Patrick
+Patrick Valduriez
+Valiant Leslie G
+Leslie G Valiant
+Yelick Katherine
+Katherine Yelick
+Zabih Ramin
+Ramin Zabih
+Zhang Xiaodong
+Xiaodong Zhang
+Abiteboul Serge
+Serge Abiteboul
+Agrawal Divyakant
+Divyakant Agrawal
+Baecker Ronald M
+Ronald M Baecker
+Ball Thomas
+Thomas Ball
+Blelloch Guy
+Guy Blelloch
+Ebeling Carl
+Carl Ebeling
+Eppstein David
+David Eppstein
+Fox Geoffrey
+Geoffrey Fox
+Furnas George
+George Furnas
+Gifford David K
+David K Gifford
+Govindan Ramesh
+Ramesh Govindan
+Guo Baining
+Baining Guo
+Heckerman David
+David Heckerman
+Holzmann Gerard J.
+Gerard J. Holzmann
+Hoppe Hugues
+Hugues Hoppe
+Jensen Christian S.
+Christian S. Jensen
+Karloff Howard J
+Howard J Karloff
+Keckler Stephen
+Stephen Keckler
+Key Peter B.
+Peter B. Key
+Kirkpatrick Scott
+Scott Kirkpatrick
+Kraut Robert
+Robert Kraut
+Landau Susan
+Susan Landau
+Lin Ming C
+Ming C Lin
+Magnusson Peter
+Peter Magnusson
+Malkhi Dahlia
+Dahlia Malkhi
+Marzullo Keith
+Keith Marzullo
+Matsuoka Satoshi
+Satoshi Matsuoka
+Max Nelson
+Nelson Max
+Mitchell Joseph
+Joseph Mitchell
+Mukherjee Shubu
+Shubu Mukherjee
+Ooi Beng Chin
+Beng Chin Ooi
+Ozsoyoglu Zehra
+Zehra Ozsoyoglu
+Pach Janos
+Janos Pach
+Petzold Linda
+Linda Petzold
+Pollack Martha
+Martha Pollack
+Roth Dan
+Dan Roth
+Sanguinetti John
+John Sanguinetti
+Seltzer Margo
+Margo Seltzer
+Singhal Amit
+Amit Singhal
+Souvaine Diane L
+Diane L Souvaine
+Srivastava Divesh
+Divesh Srivastava
+Suciu Dan
+Dan Suciu
+Tullsen Dean
+Dean Tullsen
+Vahdat Amin
+Amin Vahdat
+Wetherall David
+David Wetherall
+Zadeck Frank Kenneth
+Frank Kenneth Zadeck
+Abramson David A
+David A Abramson
+Adve Sarita
+Sarita Adve
+Alvisi Lorenzo
+Lorenzo Alvisi
+Barroso Luiz Andre
+Luiz Andre Barroso
+Burger Douglas C
+Douglas C Burger
+Chayes Jennifer
+Jennifer Chayes
+Chen Peter
+Peter Chen
+Condon Anne
+Anne Condon
+Crovella Mark
+Mark Crovella
+Cytron Ron
+Ron Cytron
+Dahlin Michael D
+Michael D Dahlin
+El Abbadi Amr
+Amr El Abbadi
+Ellis Carla S.
+Carla S. Ellis
+Faloutsos Christos
+Christos Faloutsos
+Fisher Kathleen S
+Kathleen S Fisher
+Goodman James
+James Goodman
+Hall Wendy
+Wendy Hall
+Hubaux Jean-Pierre
+Jean-Pierre Hubaux
+Jordan Michael  I.
+Michael  I. Jordan
+Kavraki Lydia
+Lydia Kavraki
+Kiesler Sara
+Sara Kiesler
+Klein Philip N
+Philip N Klein
+Kossmann Donald
+Donald Kossmann
+Launchbury John
+John Launchbury
+Lyon Richard F
+Richard F Lyon
+Mooney Raymond
+Raymond Mooney
+Muthukrishnan S.
+S. Muthukrishnan
+Pereira Fernando
+Fernando Pereira
+Pevzner Pavel
+Pavel Pevzner
+Rombach Dieter
+Dieter Rombach
+Rosenblum David S.
+David S. Rosenblum
+Savage Stefan
+Stefan Savage
+Schnabel Robert B
+Robert B Schnabel
+Spielman Daniel A
+Daniel A Spielman
+Suri Subhash
+Subhash Suri
+Tompa Frank Wm
+Frank Wm Tompa
+Torrellas Josep
+Josep Torrellas
+Trimberger Stephen
+Stephen Trimberger
+Ungar David M
+David M Ungar
+Zeller Andreas
+Andreas Zeller
+Zhai Shumin
+Shumin Zhai
+Attiya Hagit
+Hagit Attiya
+Bacon David F
+David F Bacon
+Baeza-Yates Ricardo A
+Ricardo A Baeza-Yates
+Bajaj Chandrajit L.
+Chandrajit L. Bajaj
+Bhatkar Vijay P
+Vijay P Bhatkar
+Blakeley Jose A
+Jose A Blakeley
+Borriello Gaetano
+Gaetano Borriello
+Choudhary Alok
+Alok Choudhary
+Dale Nell B.
+Nell B. Dale
+Davie Bruce
+Bruce Davie
+Dean Jeffrey A
+Jeffrey A Dean
+Dean Thomas L
+Thomas L Dean
+Donald Bruce R.
+Bruce R. Donald
+Erickson Thomas D
+Thomas D Erickson
+Esteves-Verissimo Paulo
+Paulo Esteves-Verissimo
+Fischer Gerhard
+Gerhard Fischer
+Foster Ian T
+Ian T Foster
+Goldberg Andrew V
+Andrew V Goldberg
+Goodrich Michael T
+Michael T Goodrich
+Govindaraju Venu
+Venu Govindaraju
+Gupta Rajiv
+Rajiv Gupta
+Hellerstein Joseph M
+Joseph M Hellerstein
+Hendren Laurie J
+Laurie J Hendren
+Hoelzle Urs
+Urs Hoelzle
+Jahanian Farnam
+Farnam Jahanian
+Kaltofen Erich L
+Erich L Kaltofen
+Karger David
+David Karger
+Kaufman Arie E
+Arie E Kaufman
+Kriegel Hans-Peter
+Hans-Peter Kriegel
+Lenzerini Maurizio
+Maurizio Lenzerini
+Lui John Chi-Shing
+John Chi-Shing Lui
+Manocha Dinesh
+Dinesh Manocha
+Martonosi Margaret
+Margaret Martonosi
+Matias Yossi
+Yossi Matias
+Miller Renee J
+Renee J Miller
+Riedl John T
+John T Riedl
+Rinard Martin
+Martin Rinard
+Selinger Patricia G.
+Patricia G. Selinger
+Shyamasundar Rudrapatna Kallikote
+Rudrapatna Kallikote Shyamasundar
+Teng Shang-Hua
+Shang-Hua Teng
+Thekkath Chandramohan A
+Chandramohan A Thekkath
+Van Renesse Robbert
+Robbert Van Renesse
+Vemuri Baba C
+Baba C Vemuri
+Vetterli Martin
+Martin Vetterli
+Whang Kyu-Young
+Kyu-Young Whang
+Wilks Yorick
+Yorick Wilks
+Winograd Terry
+Terry Winograd
+Abadi Martin
+Martin Abadi
+Abowd Gregory D.
+Gregory D. Abowd
+Aiken Alex
+Alex Aiken
+Arora Sanjeev
+Sanjeev Arora
+Balakrishnan Hari
+Hari Balakrishnan
+Buxton William A.S.
+William A.S. Buxton
+Clarkson Kenneth
+Kenneth Clarkson
+Cong Jason
+Jason Cong
+Cook Perry
+Perry Cook
+Cook Stephen A
+Stephen A Cook
+Davidson Jack
+Jack Davidson
+Dayal Umeshwar
+Umeshwar Dayal
+Deng Xiaotie
+Xiaotie Deng
+Garcia-Luna-Aceves J.J.
+J.J. Garcia-Luna-Aceves
+Goemans Michel X
+Michel X Goemans
+Hanrahan Pat
+Pat Hanrahan
+House Charles H
+Charles H House
+Humphrey Watts S
+Watts S Humphrey
+Kay Alan
+Alan Kay
+Konstan Joseph A
+Joseph A Konstan
+Levin Roy
+Roy Levin
+Lowney Paul G
+Paul G Lowney
+Malik Jitendra
+Jitendra Malik
+McKinley Kathryn S
+Kathryn S McKinley
+Meyer Bertrand
+Bertrand Meyer
+Mitchell John  C.
+John  C. Mitchell
+Moses Joel
+Joel Moses
+Munro Ian
+Ian Munro
+Olson Judith S
+Judith S Olson
+Paulson Lawrence C
+Lawrence C Paulson
+Pirahesh Hamid
+Hamid Pirahesh
+Randell Brian
+Brian Randell
+Reiter Michael
+Michael Reiter
+Rexford Jennifer
+Jennifer Rexford
+Rose Jonathan
+Jonathan Rose
+Rosenblum Mendel
+Mendel Rosenblum
+Rutenbar Rob A
+Rob A Rutenbar
+Sandholm Tuomas
+Tuomas Sandholm
+Sarkar Vivek
+Vivek Sarkar
+Squillante Mark S
+Mark S Squillante
+Stenstrom Per O
+Per O Stenstrom
+Sudan Madhu
+Madhu Sudan
+Szeliski Richard
+Richard Szeliski
+Terry Douglas B
+Douglas B Terry
+Agarwal Anant
+Anant Agarwal
+Alur Rajeev
+Rajeev Alur
+Banerjee Utpal
+Utpal Banerjee
+Beeri Catriel
+Catriel Beeri
+Blum Avrim
+Avrim Blum
+Brewer Eric A.
+Eric A. Brewer
+Broder Andrei
+Andrei Broder
+Cohen Michael F.
+Michael F. Cohen
+Constantine Larry
+Larry Constantine
+Dolev Danny
+Danny Dolev
+Downey Rodney
+Rodney Downey
+Feigenbaum Edward A
+Edward A Feigenbaum
+Felten Edward
+Edward Felten
+Fortnow Lance
+Lance Fortnow
+Gao Guang
+Guang Gao
+Gottlob Georg
+Georg Gottlob
+Hull Richard
+Richard Hull
+Huttenlocher Daniel
+Daniel Huttenlocher
+Jiang Tao
+Tao Jiang
+Klensin John C
+John C Klensin
+Lam Monica
+Monica Lam
+Levoy Marc
+Marc Levoy
+Mishra Bud
+Bud Mishra
+Moss Eliot
+Eliot Moss
+Motwani Rajeev
+Rajeev Motwani
+Odersky Martin
+Martin Odersky
+Olson Gary M
+Gary M Olson
+Padua David
+David Padua
+Pausch Randy
+Randy Pausch
+Pnueli Amir
+Amir Pnueli
+Prasanna Viktor
+Viktor Prasanna
+Requicha Aristides
+Aristides Requicha
+Roberts Eric S
+Eric S Roberts
+Terzopoulos Demetri
+Demetri Terzopoulos
+Thomas Donald E
+Donald E Thomas
+Wadler Philip
+Philip Wadler
+Wand Mitchell
+Mitchell Wand
+Zhang HongJiang
+HongJiang Zhang
+Allender Eric
+Eric Allender
+Arvind Arvind
+Arvind Arvind
+Atallah Mikhail
+Mikhail Atallah
+Chen Ming-Syan
+Ming-Syan Chen
+Dumais Susan T
+Susan T Dumais
+Fayyad Usama M
+Usama M Fayyad
+Felleisen Matthias
+Matthias Felleisen
+Forbus Kenneth
+Kenneth Forbus
+Gibbons Phillip B
+Phillip B Gibbons
+Giles Lee
+Lee Giles
+Greenberg Albert G
+Albert G Greenberg
+Gropp William D
+William D Gropp
+Guerin Roch
+Roch Guerin
+Guttag John
+John Guttag
+Haas Laura M
+Laura M Haas
+Halevy Alon Yitzchak
+Alon Yitzchak Halevy
+Hearn Anthony C
+Anthony C Hearn
+Henzinger Thomas A
+Thomas A Henzinger
+Jouppi Norman
+Norman Jouppi
+Laird John E
+John E Laird
+Larus James
+James Larus
+Leiserson Charles E
+Charles E Leiserson
+Li Ming
+Ming Li
+McKeown Nick
+Nick McKeown
+Moore J Strother
+J Strother Moore
+Newell Alan
+Alan Newell
+Norvig Peter
+Peter Norvig
+OLeary Dianne Prost
+Dianne Prost OLeary
+Olsen Dan R
+Dan R Olsen
+Olukotun Oyekunle
+Oyekunle Olukotun
+Ozsu M. Tamer
+M. Tamer Ozsu
+Paxson Vern
+Vern Paxson
+Scott Michael
+Michael Scott
+Shum Heung-Yeung
+Heung-Yeung Shum
+Spector Alfred Z
+Alfred Z Spector
+Vianu Victor
+Victor Vianu
+Winslett Marianne
+Marianne Winslett
+Wolf Alexander L
+Alexander L Wolf
+York Bryant W
+Bryant W York
+Zdonik Stanley
+Stanley Zdonik
+Zhang Lixia
+Lixia Zhang
+Anderson Thomas
+Thomas Anderson
+Bjorner Dines
+Dines Bjorner
+Bourne Stephen
+Stephen Bourne
+Brooks Rodney A
+Rodney A Brooks
+Chaudhuri Surajit
+Surajit Chaudhuri
+Cooper Keith D
+Keith D Cooper
+Dill David
+David Dill
+Diot Christophe
+Christophe Diot
+Dubois Michel
+Michel Dubois
+Franklin Michael J
+Michael J Franklin
+Frieder Ophir
+Ophir Frieder
+Harper Robert
+Robert Harper
+Herlihy Maurice
+Maurice Herlihy
+Kolaitis Phokion
+Phokion Kolaitis
+Kumar Vipin
+Vipin Kumar
+Lakshman T V
+T V Lakshman
+Myers Brad A
+Brad A Myers
+Nicol David M
+David M Nicol
+Palem Krishna
+Krishna Palem
+Reps Thomas
+Thomas Reps
+Sha Lui
+Lui Sha
+Thorup Mikkel
+Mikkel Thorup
+Upfal Eli
+Eli Upfal
+Vazirani Umesh
+Umesh Vazirani
+Vazirani Vijay V
+Vijay V Vazirani
+Want Roy
+Roy Want
+Weikum Gerhard
+Gerhard Weikum
+Weiser Uri C.
+Uri C. Weiser
+Weld Daniel
+Daniel Weld
+Wellman Michael
+Michael Wellman
+Widom Jennifer
+Jennifer Widom
+Willinger Walter
+Walter Willinger
+Wood David A
+David A Wood
+Zhang Hui
+Hui Zhang
+Bose Bella
+Bella Bose
+Bubenko Janis A
+Janis A Bubenko
+Cardelli Luca
+Luca Cardelli
+Chien Andrew A
+Andrew A Chien
+Collins George E
+George E Collins
+Emer Joel
+Joel Emer
+Gottlieb Allan
+Allan Gottlieb
+Hanson Vicki
+Vicki Hanson
+Hill Mark D.
+Mark D. Hill
+Ioannidis Yannis
+Yannis Ioannidis
+Kaashoek Frans
+Frans Kaashoek
+Larson Per-Ake
+Per-Ake Larson
+Lee Peter
+Peter Lee
+Mockapetris Paul
+Paul Mockapetris
+Peyton-Jones Simon L
+Simon L Peyton-Jones
+Schantz Richard
+Richard Schantz
+Schroeder Michael D
+Michael D Schroeder
+Vassiliadis Stamatis
+Stamatis Vassiliadis
+Wah Benjamin W.
+Benjamin W. Wah
+Wise David S
+David S Wise
+Agrawal Rakesh
+Rakesh Agrawal
+Ammar Mostafa
+Mostafa Ammar
+Bahl Victor
+Victor Bahl
+Berger Bonnie
+Bonnie Berger
+Bertino Elisa
+Elisa Bertino
+Carroll John
+John Carroll
+Demillo Richard
+Richard Demillo
+Grosz Barbara J
+Barbara J Grosz
+Hailpern Brent T
+Brent T Hailpern
+Han Jiawei
+Jiawei Han
+Harrold Mary
+Mary Harrold
+Hart Peter
+Peter Hart
+Horowitz Mark A
+Mark A Horowitz
+Hudak Paul
+Paul Hudak
+Jagadish H V
+H V Jagadish
+Jain Anil K
+Anil K Jain
+Jain Ramesh C
+Ramesh C Jain
+Jha Niraj
+Niraj Jha
+Kozen Dexter
+Dexter Kozen
+Lin Yi-Bing
+Yi-Bing Lin
+McKeown Kathleen
+Kathleen McKeown
+Moran Thomas
+Thomas Moran
+Myers Eugene
+Eugene Myers
+Partridge Craig
+Craig Partridge
+Reed Daniel A
+Daniel A Reed
+Russell Stuart
+Stuart Russell
+Sanders William
+William Sanders
+Shenker Scott J
+Scott J Shenker
+Sohi Gurindar S
+Gurindar S Sohi
+Van Rijsbergen C J
+C J Van Rijsbergen
+Agarwal Pankaj
+Pankaj Agarwal
+Agrawal Vishwani D
+Vishwani D Agrawal
+Babaoglu Ozalp
+Ozalp Babaoglu
+Crowcroft Jon
+Jon Crowcroft
+Culler David
+David Culler
+Dally William
+William Dally
+Dietterich Thomas G
+Thomas G Dietterich
+Eggers Susan
+Susan Eggers
+Gabow Harold N
+Harold N Gabow
+Goyal Ambuj
+Ambuj Goyal
+Guzman Adolfo
+Adolfo Guzman
+Halpern Joseph
+Joseph Halpern
+Hwu Wen-Mei
+Wen-Mei Hwu
+Immerman Neil
+Neil Immerman
+Karin 3364 Sidney
+Sidney Karin 3364
+Kellogg Wendy A
+Wendy A Kellogg
+Lomet David B
+David B Lomet
+Miller Gary L
+Gary L Miller
+Mohan C.
+C. Mohan
+Naughton Jeffrey F
+Jeffrey F Naughton
+Rau Bantwal R
+Bantwal R Rau
+Salesin David H
+David H Salesin
+Satyanarayanan Mahadev
+Mahadev Satyanarayanan
+Valero Mateo
+Mateo Valero
+Varghese George
+George Varghese
+Wilkes John
+John Wilkes
+Abraham Jacob
+Jacob Abraham
+Aiken Robert
+Robert Aiken
+Asano Tetsuo
+Tetsuo Asano
+Bernstein Philip A
+Philip A Bernstein
+Birnbaum Joel S
+Joel S Birnbaum
+Borning Alan H
+Alan H Borning
+Breitbart Yuri
+Yuri Breitbart
+Cai Jin-Yi
+Jin-Yi Cai
+Clark David D
+David D Clark
+Davidson Susan B
+Susan B Davidson
+DeKleer Johan
+Johan DeKleer
+DeMicheli Giovanni
+Giovanni DeMicheli
+Dongarra Jack
+Jack Dongarra
+Farber David J.
+David J. Farber
+Feigenbaum Joan
+Joan Feigenbaum
+Ferrari Domenico
+Domenico Ferrari
+Floyd Sally J
+Sally J Floyd
+Gelenbe Erol
+Erol Gelenbe
+Hayes John P
+John P Hayes
+Iyengar Sitharama
+Sitharama Iyengar
+Iyer Ravishankar
+Ravishankar Iyer
+Jaja Joseph F
+Joseph F Jaja
+Kahn Robert E
+Robert E Kahn
+Kang Sung Mo
+Sung Mo Kang
+Kieburtz Richard B
+Richard B Kieburtz
+Kowalski Robert A
+Robert A Kowalski
+Kramer Jeffrey
+Jeffrey Kramer
+Kurose James
+James Kurose
+Lee Ruby B
+Ruby B Lee
+Litwin Witold
+Witold Litwin
+Miller Barton P
+Barton P Miller
+Mogul Jeffrey C
+Jeffrey C Mogul
+Norman Donald A.
+Donald A. Norman
+Pancake Cherri M
+Cherri M Pancake
+Papadimitriou Christos
+Christos Papadimitriou
+Parker Donn B
+Donn B Parker
+Patel Janak H
+Janak H Patel
+Patt Yale
+Yale Patt
+Pohl Ira
+Ira Pohl
+Pullen John Mark
+John Mark Pullen
+Raghavan Prabhakar
+Prabhakar Raghavan
+Ramakrishnan Raghu
+Raghu Ramakrishnan
+Ramamritham Krithivasan
+Krithivasan Ramamritham
+Reynolds John C
+John C Reynolds
+Robertson George
+George Robertson
+Roussopoulos Nick
+Nick Roussopoulos
+Sabnani Krishan K.
+Krishan K. Sabnani
+Sandhu Ravinderpal S
+Ravinderpal S Sandhu
+Schek Hans-Joerg
+Hans-Joerg Schek
+Schlichting Richard D
+Richard D Schlichting
+Shin Kang
+Kang Shin
+Shmoys David
+David Shmoys
+Smith Alan
+Alan Smith
+Steinmetz Ralf
+Ralf Steinmetz
+Turner Jonathan
+Jonathan Turner
+Wolf Marilyn Claire
+Marilyn Claire Wolf
+Wolfson Ouri
+Ouri Wolfson
+Zave Pamela
+Pamela Zave
+Banerjee Prithviraj
+Prithviraj Banerjee
+Berman Francine
+Francine Berman
+Bhuyan Laxmi N
+Laxmi N Bhuyan
+Biermann Alan W
+Alan W Biermann
+Bokhari Shahid H
+Shahid H Bokhari
+Bryant Randal E
+Randal E Bryant
+Buneman Peter
+Peter Buneman
+Card Stuart K.
+Stuart K. Card
+Carey Michael J
+Michael J Carey
+Comer Douglas E
+Douglas E Comer
+Duncan Karen
+Karen Duncan
+Estrin Deborah
+Deborah Estrin
+Fagin Ronald
+Ronald Fagin
+Freeman Peter A
+Peter A Freeman
+Fuchs Wesley Kent
+Wesley Kent Fuchs
+Haderle Donald J
+Donald J Haderle
+Heath Michael
+Michael Heath
+Kleinrock Leonard
+Leonard Kleinrock
+Korth Henry F
+Henry F Korth
+Lamsweerde Axel Van
+Axel Van Lamsweerde
+Lorie Raymond A
+Raymond A Lorie
+Loveland Donald W
+Donald W Loveland
+Meyer Albert R
+Albert R Meyer
+Morris James H
+James H Morris
+Peterson Larry L
+Larry L Peterson
+Vardi Moshe Y
+Moshe Y Vardi
+Warren David S
+David S Warren
+Wilhelm Reinhard
+Reinhard Wilhelm
+Williams Robin
+Robin Williams
+Zwaenepoel Willy E
+Willy E Zwaenepoel
+Auslander Marc
+Marc Auslander
+Birman Ken
+Ken Birman
+Brachman Ronald J.
+Ronald J. Brachman
+Braden Robert T
+Robert T Braden
+Cook Rob
+Rob Cook
+DeBlasi Joseph S
+Joseph S DeBlasi
+Demmel James
+James Demmel
+Fateman Richard J
+Richard J Fateman
+Foley James D
+James D Foley
+Gannon John D
+John D Gannon
+Geschke Charles M
+Charles M Geschke
+Ghezzi Carlo
+Carlo Ghezzi
+Glass Robert L
+Robert L Glass
+Graham Ronald L.
+Ronald L. Graham
+Guibas Leonidas
+Leonidas Guibas
+Ibaraki Toshihide
+Toshihide Ibaraki
+Kanade Takeo
+Takeo Kanade
+Lewis Philip M
+Philip M Lewis
+MacQueen David
+David MacQueen
+Martin C. Dianne
+C. Dianne Martin
+Masinter Larry M
+Larry M Masinter
+Mehlhorn Kurt
+Kurt Mehlhorn
+Mills David L
+David L Mills
+Pradhan Dhiraj
+Dhiraj Pradhan
+Sameh Ahmed
+Ahmed Sameh
+Samuelson Pamela
+Pamela Samuelson
+Snir Marc
+Marc Snir
+Snodgrass Richard
+Richard Snodgrass
+Soffa Mary Lou
+Mary Lou Soffa
+Tan Chung Jen
+Chung Jen Tan
+Torii Koji
+Koji Torii
+Waltz David L
+David L Waltz
+Warnock John
+John Warnock
+Yonezawa Akinori
+Akinori Yonezawa
+Agrawal Dharma P
+Dharma P Agrawal
+Andrews Gregory R
+Gregory R Andrews
+Appel Andrew W
+Andrew W Appel
+Berghel Hal
+Hal Berghel
+Browne James C
+James C Browne
+Cartwright Robert S
+Robert S Cartwright
+Chen Peter P
+Peter P Chen
+Clarke Edmund
+Edmund Clarke
+Clarke Lori
+Lori Clarke
+Cole Richard J
+Richard J Cole
+Ellis Clarence A
+Clarence A Ellis
+Gabriel Richard
+Richard Gabriel
+Gupta Gopal Krishna
+Gopal Krishna Gupta
+Horning James Jay
+James Jay Horning
+Jones Neil
+Neil Jones
+Joshi Aravind K
+Aravind K Joshi
+Kandel Abraham
+Abraham Kandel
+Kent Stephen T
+Stephen T Kent
+Lam Simon S
+Simon S Lam
+Li Kai
+Kai Li
+Maier David
+David Maier
+Notkin David S
+David S Notkin
+Nycum Susan H
+Susan H Nycum
+Osterweil Leon J
+Leon J Osterweil
+Rangan Venkat
+Venkat Rangan
+Richards John T
+John T Richards
+Rowe Lawrence A
+Lawrence A Rowe
+Ryder Barbara Gershon
+Barbara Gershon Ryder
+Selman Alan
+Alan Selman
+Sequin Carlo H
+Carlo H Sequin
+Siegel Howard
+Howard Siegel
+Spafford Eugene H.
+Eugene H. Spafford
+Tardos Eva
+Eva Tardos
+Taylor Richard N
+Richard N Taylor
+Turner Albert J
+Albert J Turner
+Welzl Emmerich
+Emmerich Welzl
+Wing Jeannette M.
+Jeannette M. Wing
+Yannakakis Mihalis
+Mihalis Yannakakis
+Zweben Stuart
+Stuart Zweben
+Akyildiz Ian F
+Ian F Akyildiz
+Baer Jean-Loup E
+Jean-Loup E Baer
+Basili Victor
+Victor Basili
+Bate Roger R
+Roger R Bate
+Boehm Barry
+Barry Boehm
+Chlamtac Imrich
+Imrich Chlamtac
+Couger J D
+J D Couger
+Croft Bruce
+Bruce Croft
+Davis Gordon B
+Gordon B Davis
+Dobkin David P
+David P Dobkin
+Freeman Herbert
+Herbert Freeman
+Garcia-Molina Hector
+Hector Garcia-Molina
+Greif Irene
+Irene Greif
+Gurevich Yuri
+Yuri Gurevich
+Hennessy John L
+John L Hennessy
+Kedem Zvi
+Zvi Kedem
+Kemmerer Richard A.
+Richard A. Kemmerer
+Lawson H W
+H W Lawson
+Lee Der-Tsai
+Der-Tsai Lee
+Lipton Richard
+Richard Lipton
+Lynch Nancy
+Nancy Lynch
+Menasce Daniel
+Daniel Menasce
+Miller Raymond
+Raymond Miller
+Perrott Ron
+Ron Perrott
+Pippenger Nicholas
+Nicholas Pippenger
+Pratt Vaughan Ronald
+Vaughan Ronald Pratt
+Reif John H
+John H Reif
+Reiter Raymond
+Raymond Reiter
+Schneck Paul
+Paul Schneck
+Sedgewick Robert
+Robert Sedgewick
+Sevcik Kenneth C
+Kenneth C Sevcik
+Sharir Micha
+Micha Sharir
+Shaw Alan C
+Alan C Shaw
+Shneiderman Ben
+Ben Shneiderman
+Steiglitz Kenneth
+Kenneth Steiglitz
+Towsley Donald F
+Donald F Towsley
+Weyuker Elaine
+Elaine Weyuker
+Widmayer Peter
+Peter Widmayer
+Wilensky Robert
+Robert Wilensky
+Yu Philip S
+Philip S Yu
+Zanella Paolo
+Paolo Zanella
+Adrion William Richards
+William Richards Adrion
+Aho Alfred V
+Alfred V Aho
+Ahuja Narendra
+Narendra Ahuja
+Akeley Kurt B
+Kurt B Akeley
+Bajcsy Ruzena R
+Ruzena R Bajcsy
+Bochmann Gregor V
+Gregor V Bochmann
+Borg Anita
+Anita Borg
+Chandrasekaran B.
+B. Chandrasekaran
+Chazelle Bernard
+Bernard Chazelle
+Deo Narsingh
+Narsingh Deo
+Dodd George
+George Dodd
+Encarnacao Jose L.
+Jose L. Encarnacao
+Ferrante Jeanne
+Jeanne Ferrante
+Fischer Michael J
+Michael J Fischer
+Frailey Dennis
+Dennis Frailey
+Graham Robert M
+Robert M Graham
+Harrison Michael A
+Michael A Harrison
+Heidelberger Philip
+Philip Heidelberger
+Irwin Mary Jane
+Mary Jane Irwin
+Jaffe Jeffrey
+Jeffrey Jaffe
+Jain Raj
+Raj Jain
+Jones Anita K
+Anita K Jones
+Katz Randy  H.
+Randy  H. Katz
+Klawe Maria
+Maria Klawe
+Landweber Lawrence H
+Lawrence H Landweber
+Lesk Michael E
+Michael E Lesk
+Levy Henry M
+Henry M Levy
+Liskov Barbara
+Barbara Liskov
+Muntz Richard R
+Richard R Muntz
+Nance Richard E
+Richard E Nance
+Nishizeki Takao
+Takao Nishizeki
+Preas Bryan
+Bryan Preas
+Rao TRN
+TRN Rao
+Reingold Edward M
+Edward M Reingold
+Rice John
+John Rice
+Rosenberg Arnold
+Arnold Rosenberg
+Sahni Sartaj K
+Sartaj K Sahni
+Samet Hanan
+Hanan Samet
+Savage John E
+John E Savage
+Sethi Ravi
+Ravi Sethi
+Shaw Mary M
+Mary M Shaw
+Silberschatz Abraham
+Abraham Silberschatz
+Stankovic John A
+John A Stankovic
+Stockmeyer Larry
+Larry Stockmeyer
+Tanenbaum Andrew S
+Andrew S Tanenbaum
+Vernon Mary K
+Mary K Vernon
+Vishkin Uzi
+Uzi Vishkin
+Vitter Jeffrey S. Vitter
+Jeffrey S. Vitter Vitter
+Wasserman Anthony I
+Anthony I Wasserman
+Wegman Mark
+Mark Wegman
+Weingarten Fred W
+Fred W Weingarten
+Witten Ian
+Ian Witten
+Yovits Marshall C
+Marshall C Yovits
+Abrahams Paul W
+Paul W Abrahams
+Ashenhurst R L
+R L Ashenhurst
+Barr Alan H
+Alan H Barr
+Bernstein Lawrence
+Lawrence Bernstein
+Booch Grady
+Grady Booch
+Brandin David H
+David H Brandin
+Brent Richard P
+Richard P Brent
+Carpenter Loren C
+Loren C Carpenter
+Catmull Edwin
+Edwin Catmull
+Constable Robert
+Robert Constable
+Denning Dorothy E
+Dorothy E Denning
+DeWitt David
+David DeWitt
+Druffel Larry
+Larry Druffel
+Engeler Erwin
+Erwin Engeler
+Feldman Stuart
+Stuart Feldman
+Fuchs Henry
+Henry Fuchs
+Galil Zvi
+Zvi Galil
+Garey Michael R
+Michael R Garey
+Ginsberg Myron
+Myron Ginsberg
+Goodenough John B
+John B Goodenough
+Greenberg Donald
+Donald Greenberg
+Grosch Herbert R J
+Herbert R J Grosch
+Herzog Bertram
+Bertram Herzog
+Highland Harold J
+Harold J Highland
+Hoffman Lance
+Lance Hoffman
+Ibarra Oscar
+Oscar Ibarra
+Johnson David S
+David S Johnson
+Jones Cliff B
+Cliff B Jones
+Kennedy Kenneth W
+Kenneth W Kennedy
+Kim Won
+Won Kim
+Kosaraju Sambasiva
+Sambasiva Kosaraju
+Ladner Richard E.
+Richard E. Ladner
+Lakshmivarahan S
+S Lakshmivarahan
+Lazowska Edward
+Edward Lazowska
+Leveson Nancy
+Nancy Leveson
+Misra Jayadev
+Jayadev Misra
+Nievergelt J
+J Nievergelt
+Oettinger Anthony
+Anthony Oettinger
+Preparata Franco P
+Franco P Preparata
+Rada Roy F
+Roy F Rada
+Rosenkrantz Daniel J
+Daniel J Rosenkrantz
+Salton Gerard
+Gerard Salton
+Schneider Fred B
+Fred B Schneider
+Snyder Larry
+Larry Snyder
+Suzuki Norihisa
+Norihisa Suzuki
+Ullman Jeffrey D
+Jeffrey D Ullman
+Wallace Chris S
+Chris S Wallace
+Wegner Peter
+Peter Wegner
+White John R.
+John R. White
+Whitted J Turner
+J Turner Whitted
+Wiederhold Gio
+Gio Wiederhold
+Wong Chak-Kuen
+Chak-Kuen Wong
+Yao Andrew C
+Andrew C Yao
+Young Paul
+Paul Young
+Adams James M
+James M Adams
+Allen Frances
+Frances Allen
+Alt Franz L
+Franz L Alt
+Atchison William F.
+William F. Atchison
+Austing Richard H
+Richard H Austing
+Batcher Kenneth E
+Kenneth E Batcher
+Bell C Gordon
+C Gordon Bell
+Blasgen Michael W
+Michael W Blasgen
+Bobrow Daniel
+Daniel Bobrow
+Boggs David R.
+David R. Boggs
+Borman Lorraine
+Lorraine Borman
+Bradshaw Charles L
+Charles L Bradshaw
+Bricklin Daniel S
+Daniel S Bricklin
+Brooks Frederick
+Frederick Brooks
+Brotz Douglas K
+Douglas K Brotz
+Burton Richard R
+Richard R Burton
+Canning Richard G
+Richard G Canning
+Carlson Walter
+Walter Carlson
+Cerf Vinton
+Vinton Cerf
+Chamberlin Donald
+Donald Chamberlin
+Codd Edgar F
+Edgar F Codd
+Coffman Ed
+Ed Coffman
+Corbato Fernando J
+Fernando J Corbato
+Cragon Harvey G
+Harvey G Cragon
+D'Auria Thomas A
+Thomas A D'Auria
+DeFanti Thomas
+Thomas DeFanti
+Denning Peter J
+Peter J Denning
+Dennis Jack
+Jack Dennis
+Deutsch L Peter
+L Peter Deutsch
+Dijkstra Edsger W
+Edsger W Dijkstra
+Dunwell Stephen
+Stephen Dunwell
+Eckert J Presper
+J Presper Eckert
+Elias Peter
+Peter Elias
+Engel Gerald L
+Gerald L Engel
+Esbin John H
+John H Esbin
+Evans Bob O
+Bob O Evans
+Feng Tse-Yun
+Tse-Yun Feng
+Finerman Aaron
+Aaron Finerman
+Floyd Robert W.
+Robert W. Floyd
+Flynn Michael J
+Michael J Flynn
+Frankston Robert M
+Robert M Frankston
+Friedman Frank
+Frank Friedman
+Galler Bernard A
+Bernard A Galler
+Gear Charles W
+Charles W Gear
+Goldberg Adele
+Adele Goldberg
+Gotlieb Calvin C.
+Calvin C. Gotlieb
+Graham Susan L
+Susan L Graham
+Gray Jim
+Jim Gray
+Green Cordell
+Cordell Green
+Gries David
+David Gries
+Hammer Carl
+Carl Hammer
+Hamming Richard W
+Richard W Hamming
+Harel David
+David Harel
+Harris Fred H
+Fred H Harris
+Hartmanis Juris
+Juris Hartmanis
+Hillis William Daniel
+William Daniel Hillis
+Hopcroft John E
+John E Hopcroft
+Hull Tom
+Tom Hull
+Hume J N
+J N Hume
+Huskey Harry D
+Harry D Huskey
+Kahan William
+William Kahan
+Kaplan Ronald M
+Ronald M Kaplan
+Karp Richard
+Richard Karp
+Knuth Donald E
+Donald E Knuth
+Kuck David J
+David J Kuck
+Kurtz Thomas E
+Thomas E Kurtz
+Kurzweil Ray
+Ray Kurzweil
+Lampson Butler W
+Butler W Lampson
+Lavenberg Stephen S
+Stephen S Lavenberg
+Lederberg Joshua
+Joshua Lederberg
+Lee John A
+John A Lee
+Lehman Meir
+Meir Lehman
+Lindsay Bruce
+Bruce Lindsay
+Little Joyce Currie
+Joyce Currie Little
+Liu C.L.
+C.L. Liu
+Lynn M Stuart
+M Stuart Lynn
+Maisel Herbert
+Herbert Maisel
+Manna Zohar
+Zohar Manna
+McCarthy John
+John McCarthy
+McCluskey Edward
+Edward McCluskey
+McCracken Daniel D
+Daniel D McCracken
+McJones Paul R
+Paul R McJones
+Milner A J
+A J Milner
+Minker Jack
+Jack Minker
+Needham Roger M
+Roger M Needham
+Neumann Peter G
+Peter G Neumann
+Newborn Monroe
+Monroe Newborn
+Ousterhout John
+John Ousterhout
+Owicki Susan S
+Susan S Owicki
+Parnas David Lorge
+David Lorge Parnas
+Patterson David
+David Patterson
+Poucher William B
+William B Poucher
+Ralston Anthony
+Anthony Ralston
+Rivest Ronald L
+Ronald L Rivest
+Rosenfeld Azriel
+Azriel Rosenfeld
+Rulifson Jeff
+Jeff Rulifson
+Sammet Jean E
+Jean E Sammet
+Scott Dana S
+Dana S Scott
+Siewiorek Daniel
+Daniel Siewiorek
+Simon Herbert A
+Herbert A Simon
+Simons Barbara B
+Barbara B Simons
+Sloan Martha
+Martha Sloan
+Slutz Donald R
+Donald R Slutz
+Smith Burton
+Burton Smith
+Stearns Richard E
+Richard E Stearns
+Steel Thomas B
+Thomas B Steel
+Steele Guy L
+Guy L Steele
+Stone Harold
+Harold Stone
+Stonebraker Michael
+Michael Stonebraker
+Strecker William
+William Strecker
+Stroustrup Bjarne
+Bjarne Stroustrup
+Suppes Patrick
+Patrick Suppes
+Sussman Gerald
+Gerald Sussman
+Sutherland Ivan
+Ivan Sutherland
+Taft Edward A
+Edward A Taft
+Tarjan Robert E
+Robert E Tarjan
+Taylor Robert W
+Robert W Taylor
+Thacker Charles P
+Charles P Thacker
+Traiger Irv
+Irv Traiger
+Traub Joseph
+Joseph Traub
+Tucker Allen
+Allen Tucker
+van Dam Andries
+Andries van Dam
+Ware Willis H
+Willis H Ware
+Wecker Stuart
+Stuart Wecker
+Wegbreit Ben
+Ben Wegbreit
+Weiss Eric A
+Eric A Weiss
+Wheeler David John
+David John Wheeler
+Wilkes Maurice V.
+Maurice V. Wilkes
+Winograd Shmuel
+Shmuel Winograd
+Wirth Niklaus E
+Niklaus E Wirth
+Wolfson Seymour J
+Seymour J Wolfson
+Wulf William A
+William A Wulf
+Zadeh L A
+L A Zadeh

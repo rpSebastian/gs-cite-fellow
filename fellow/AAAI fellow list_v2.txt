@@ -1,0 +1,154 @@
+Narendra Ahuja
+James F. Allen
+Nancy M. Amato
+Fahiem Bacchus
+Ruzena Bajcsy
+Regina Barzilay
+George A. Bekey
+Yoshua Bengio
+Wolfgang Bibel
+Daniel G. Bobrow
+Margaret Boden
+Robert S. Boyer
+Ronald J. Brachman
+J. Michael Brady
+Cynthia Breazeal
+Rodney Brooks
+Alan Bundy
+Wolfram Burgard
+Murray Campbell
+Jaime Carbonell
+Eugene Charniak
+Thomas Dean
+Daniel Dennett
+Thomas G. Dietterich
+Pedro Domingos
+Marco Dorigo
+Bonnie Dorr
+Richard O. Duda
+Scott Fahlman
+Boi Faltings
+Edward Feigenbaum
+Richard Fikes
+Tim Finin
+Ken Forbus
+William T. Freeman
+Michael Gelfond
+Lise Getoor
+Yolanda Gil
+Maria L. Gini
+Carla Gomes
+Barbara J. Grosz
+Joseph Halpern
+Peter E. Hart
+David Haussler
+Rick Hayes-Roth
+Pat Hayes
+James Hendler
+Ellen Hildreth
+Geoffrey Hinton
+Julia Hirschberg
+Jerry Hobbs
+Eric Horvitz
+Eduard Hovy
+Charles Lee Isbell Jr.
+Ramesh Jain
+Nick Jennings
+Michael I. Jordan
+Aravind Joshi
+Leslie P. Kaelbling
+Takeo Kanade
+Henry Kautz
+Lydia Kavraki
+Pradeep Khosla
+Sven Koenig
+Daphne Koller
+Janet L. Kolodner
+Sarit Kraus
+John E. Laird
+Yann LeCun
+Lillian Lee
+Wendy Lehnert
+Douglas Lenat
+Maurizio Lenzerini
+Hector Levesque
+Vladimir Lifschitz
+Chih-Jen Lin
+Michael L. Littman
+Donald W. Loveland
+Alan Mackworth
+Maja Matari?
+Mark T. Maybury
+David A. McAllester
+Andrew McCallum
+John McCarthy
+Drew McDermott
+Kathleen McKeown
+Jack Minker
+Marvin Minsky
+Tom M. Mitchell
+Stephen Muggleton
+Radhika Nagpal
+Dana S. Nau
+Bernhard Nebel
+Nils John Nilsson
+Peter Norvig
+Natasha Noy
+David C. Parkes
+Judea Pearl
+C. Raymond Perrault
+Jo?lle Pineau
+Tomaso Poggio
+Martha E. Pollack
+Robin Popplestone
+Zenon Pylyshyn
+Dragomir R. Radev
+Raj Reddy
+Raymond Reiter
+Edward M. Riseman
+John Alan Robinson
+Francesca Rossi
+Dan Roth
+Daniela L. Rus
+Stuart J. Russell
+Jonathan Schaeffer
+Lenhart Schubert
+Bart Selman
+Yoav Shoham
+Edward H. Shortliffe
+Munindar P. Singh
+Aaron Sloman
+David A. Smith
+Padhraic Smyth
+Karen Sp?rck Jones
+Mark Steedman
+Guy L. Steele Jr.
+Peter Stone
+Richard S. Sutton
+Katia Sycara
+Milind Tambe
+Austin Tate
+Jay Martin Tenenbaum
+Moshe Tennenholtz
+Sebastian Thrun
+Leslie Valiant
+Pascal Van Hentenryck
+Moshe Vardi
+Manuela M. Veloso
+Wolfgang Wahlster
+Richard Waldinger
+Toby Walsh
+David Waltz
+Bonnie Webber
+Daniel S. Weld
+Michael Wellman
+Red Whittaker
+Robert Wilensky
+Yorick Wilks
+Patrick Winston
+Michael Wooldridge
+Eric Xing
+Holly Yanco
+Qiang Yang
+Zhou Zhi-Hua
+Shlomo Zilberstein
