@@ -1,8 +1,8 @@
 # gs-cite-fellow
 
-This project is used to find all Fellows who have cited the scholar's article.
+This project is used to find all Fellows who have cited the scholar's article. 
 
-The project process is
+### Process
 
 1. Crawl the scholar's Google Scholar home page for all articles published by the scholar, and the Google Scholar citation link for each article.
 2. Crawl the title of each cited article in the Google Scholar citation  link for each article.
@@ -12,6 +12,14 @@ The project process is
 6. Crawl or get the list of Fellows directly.
 7. Clean the Fellow list. 
 8. Compare the author names of each cited article with the Fellow list and output the final result.
+
+### Some Questions
+
+* Same name. The cited author and the fellow author have the same name. 
+* Inconsistent correspondence between article and author. Some articles is not included by DBLP.
+* Incomplete fellow list.
+
+So the results are still relatively inaccurate, and need to be checked one by one.
 
 ## Installation
 
@@ -55,3 +63,18 @@ python 05_merge.py {{parallel_count}}
 python 08_compare_fellow.py
 
 ```
+
+## Results
+
+* ``articles.json``: All articles published by scholars and all cited articles,
+
+![articles](.\figures\articles.jpg)
+
+* ``fellow.xls``: A list of all the fellows who have cited the scholars' articles.
+
+![fellow](.\figures\fellow.jpg)
+
+* ``result.xls``: Specific information about scholar articles cited by fellow.
+
+  ![result](.\figures\result.jpg)
+
