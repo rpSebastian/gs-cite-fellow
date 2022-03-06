@@ -18,6 +18,7 @@ This project is used to find all Fellows who have cited the scholar's article.
 * Same name. The cited author and the fellow author have the same name. 
 * Inconsistent correspondence between article and author. Some articles is not included by DBLP.
 * Incomplete fellow list.
+* Google Scholar only shows 1000 cited papers results
 
 So the results are still relatively inaccurate, and need to be checked one by one.
 
