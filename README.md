@@ -76,5 +76,5 @@ python 08_compare_fellow.py
 
 * ``result.xls``: Specific information about scholar articles cited by fellow.
 
-  ![result](figures/result.jpg)
+![result](figures/result.jpg)
 
