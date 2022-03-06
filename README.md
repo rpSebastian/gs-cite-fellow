@@ -1,45 +1,54 @@
 # gs-cite-fellow
 
-本项目用来寻找所有引用过某位学者文章的Fellow。
+This project is used to find all Fellows who have cited the scholar's article.
 
-项目流程为
+The project process is
 
-[1] 在该学者 Google Scholar 主页中爬取该学者发表过的所有文章，以及每篇文章的 Google Scholar 引用聚合界面。
-[2] 在每篇文章的 Google Scholar 引用聚合界面中，爬取每篇引用文章的标题。
-[3] 清洗爬取文章的标题。
-[4] 在 DBLP 中并行爬取每篇引用文章对应的作者名。
-[5] 合并 DBLP 中并行爬取结果。
-[6] 爬取或直接获得 Fellow 列表。
-[7] 清洗 Fellow 列表。
-[8] 比对每篇引用文章的作者名和 Fellow 列表，输出最后结果。
+1. Crawl the scholar's Google Scholar home page for all articles published by the scholar, and the Google Scholar citation link for each article.
+2. Crawl the title of each cited article in the Google Scholar citation  link for each article.
+3. Clean the titles of the crawled articles. 
+4. Crawl the author name of each cited article in parallel in DBLP.
+5. Merge the parallel crawl results in DBLP.
+6. Crawl or get the list of Fellows directly.
+7. Clean the Fellow list. 
+8. Compare the author names of each cited article with the Fellow list and output the final result.
 
-## 安装环境
+## Installation
 
 ```
 pip install -r requirements.txt
 ```
 
-## 代码配置
+## Configuration
 
-在 config.json 中添加 scholar_id, 学者的 Google Scholar Id，可以在学者的Google Scholar主页的网址中找到。
-在 config.json 中添加 driver_path, 谷歌浏览器驱动地址，谷歌浏览器驱动需和谷歌浏览器版本一致，在网上下载。
-## 代码运行
+Add the following to ``config.json``.
+
+* ``scholar_id``. The scholar's Google Scholar Id, which can be found in the URL of the scholar's Google Scholar home page.
+* ``driver_path``. The address of the Google Chrome driver, which must be the same version as Google Chrome. It can be downloaded from the internet.
+
+## Run the code
 
 ``` bash
 # 01  
 python 01_article.py
 
-# 02 start_article id 为爬取文章开始编号。期间需要手动验证码
+# 02 
+# Start_article id is the start number of the crawled article. 
+# You need to manually validate the code during the crawl
 pythn 02_citation.py {{start_article id}}
 
 # 03 
 pythn 03_clear.py 
 
-# 04 parallel_count 为总并行数量，建议为8，parallel_id为并行id
+# 04 
+# Parallel_count is the total number of parallelism, 8 is recommended. 
+# Parallel_id is the parallelism id
+# If parallel_count is 8, you need to start 8 processes, respectively python 04_author.py {{0..7}} 8
 pythn 04_author.py {{parallel_id}} {{parallel_count}}
-# 若并行数量为8，则需要启动8个，分别为 python 04_author.py {{0..7}} 8
 
-# 05 parallel_count 为总并行数量，与04一致
+
+# 05
+# parallel_count is the total number of parallelism, consistent with 04.
 python 05_merge.py {{parallel_count}}
 
 # 08 
