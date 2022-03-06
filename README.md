@@ -68,13 +68,13 @@ python 08_compare_fellow.py
 
 * ``articles.json``: All articles published by scholars and all cited articles,
 
-![articles](figures\articles.jpg)
+![articles](figures/articles.jpg)
 
 * ``fellow.xls``: A list of all the fellows who have cited the scholars' articles.
 
-![fellow](figures\fellow.jpg)
+![fellow](figures/fellow.jpg)
 
 * ``result.xls``: Specific information about scholar articles cited by fellow.
 
-  ![result](figures\result.jpg)
+  ![result](figures/result.jpg)
 
