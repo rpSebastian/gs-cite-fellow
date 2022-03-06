@@ -21,6 +21,7 @@ def main():
         columns=["article", "cite_article", "fellow", "fellow_conference"]
     )
     fellow_result = defaultdict(set)
+    my_articles = [a["name"] for a in articles]
     for article_id, article in enumerate(articles):
         if "cite_list" not in article:
             continue
@@ -38,6 +39,8 @@ def main():
                         conference_list.append(conference)
                         fellow_result[author].add(conference)
                 if len(conference_list) == 0:
+                    continue
+                if cite_article_title in my_articles:
                     continue
                 conference_list.sort()
                 df.loc[df.shape[0]] = {
