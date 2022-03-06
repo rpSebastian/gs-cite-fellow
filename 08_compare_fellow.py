@@ -22,8 +22,6 @@ def main():
     )
     fellow_result = defaultdict(set)
     for article_id, article in enumerate(articles):
-        if article_id == 0:
-            continue
         if "cite_list" not in article:
             continue
         article_title = article["name"]
